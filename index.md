@@ -208,6 +208,12 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 - 2017/09, Excellent Ph.D. Programs Fellowship of Beijing Institute of Technology (BIT), China.
 - 2015/04, Two-Year Graduate Student Fellowship of China Scholarship Councils (CSC), China.
 
+# Contacts
+
+wwsbit |at| gmail.com
+Department of Civil Engineering,
+McGill University
+
 <!-- ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -222,7 +228,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ``` -->
 
-#### Header 4
+<!-- #### Header 4
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -283,10 +289,10 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://guides.github.com/activities/hello-world/branching.png) -->
 
 
-### Definition lists can be used with HTML syntax.
+<!-- ### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
@@ -305,4 +311,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
