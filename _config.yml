@@ -6,5 +6,5 @@ email: email
 * * *
 github: github
 googlescholar: googlescholar
-# google_analytics:
+google_analytics:
 theme: jekyll-theme-minimal
