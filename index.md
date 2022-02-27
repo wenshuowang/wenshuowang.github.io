@@ -144,7 +144,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 
 ***
-# Academics Services
+# Academic Services
 ### Editors/Associate Editors
 
 - IEEE Transactions on Intelligent Vehicles, 2022/02 --
