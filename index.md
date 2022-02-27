@@ -25,6 +25,8 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 <!-- This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. -->
 
+* * *
+
 # Publications
 
 **JOURNALS**
@@ -142,6 +144,8 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
+
+***
 # Academics Services
 ### Editors/Associate Editors
 
