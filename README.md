@@ -1,4 +1,7 @@
-## Wenshuo Wang
+## About Me
+
+Hi! I am Wenshuo Wang, a Postdoctoral Research Fellow with the [Smart Transportation Lab](https://lijunsun.github.io/) at McGill University, collaborating with [Dr. Lijun Sun](https://www.mcgill.ca/civil/lijun-sun). I received my Ph.D. degree in Mechanical Engineering from Beijing Institute of Technology, Beijing, China in 2018. Prior to joining McGill, I was a Postdoctoral Associate with [UC Berkeley](https://path.berkeley.edu/) (2019/10-2020/10) and [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/) (2018/07-2019/10). During my Ph.D. program, I was a visiting student working with [Prof. J. Karl Hedrick](https://www.vehicle.me.berkeley.edu/) at [Vehicle Dynamics & Control Lab (VDL), UC Berkeley](https://www.vehicle.me.berkeley.edu/) (2015/09-2017/09) and with [Dr. Ding Zhao](https://safeai-lab.github.io/) and [Prof. Xuanlong Nguyen (Dept. of Statistics)](http://dept.stat.lsa.umich.edu/~xuanlong/) at [University of Michigan Transportation Research Institute (UMTRI), University of Michigan](https://umtri.umich.edu/), Ann Arbor (2017-2018). 
+My current research focus is on Bayesian nonparametric learning and reinforcement learning, and their applications to multi-agent interaction behavior modeling and prediction in common-but-challenging situations for smart mobility.
 
 You can use the [editor on GitHub](https://github.com/wenshuowang/wenshuowang.github.io/edit/wenshuow.github.io/README.md) to maintain and preview the content for your website in Markdown files.
 
