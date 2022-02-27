@@ -138,12 +138,9 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 1. Junqiang Xi and **Wenshuo Wang**. [Intelligent driving systems with an embedded driver model](https://patents.google.com/patent/US10286900B2/en). US20170297564A1, USA, 2019
 
-<!-- > This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor. -->
-
 
 ***
+
 # Services
 ### Editors/Associate Editors
 
