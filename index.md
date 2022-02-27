@@ -141,16 +141,15 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-# Academics
-## Services
-#### Editors/Associate Editors
+# Academics Services
+### Editors/Associate Editors
 
 - IEEE Transactions on Intelligent Vehicles, 2022/02 --
 - IEEE Transactions on Vehcular Technology, 2021/01 --
 - Transportation Safety & Environment, 2021/01 --
 - The Journal of Engineering, 2020/05 --
 
-#### Reviewers
+### Reviewers
 - IEEE Transactions on Intelligent Transportaion Systems
 - IEEE Transactions on Intelligent Vehicles
 - IEEE Transactions on Human-Machine Systems
@@ -165,7 +164,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 - IEEE International Conference on Intelligent Transportation Systems (ITS)
 - IFAC Conference on Cyber-Physical \& Human-Systems
 
-#### Chairs/Co-chairs
+### Chairs/Co-chairs
 - Techical Program Committee, 2021 International Conference on Intelligent Control and Automation Engineering (ICAE 2021)
 - Co-Chair, `AVVision' Organized Session on the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
 - Tech Committees, The Autonomous Vehicle Vision 2021 (AVVision'21) workshop, 2021
