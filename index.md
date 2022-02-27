@@ -28,7 +28,6 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 * * *
 
 # Publications
-
 **JOURNALS**
 ##### (*Cooresponding Author)
 
@@ -36,7 +35,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 28. Huanjie Wang, **Wenshuo Wang***, Shihua Yuan, Xueyuan Li. [Uncovering interpretable internal states of merging tasks at highway on-ramps for autonomous driving decision-making](https://ieeexplore.ieee.org/document/9512609), IEEE Transactions on Automation Science and Engineering, DOI: 10.1109/TASE.2021.3103179, 2021 (In Press).
 
-27. Sen Yang, **Wenshuo Wang**, Junqiang Xi. [Leveraging human driving preferences to predict vehicle speed](https://ieeexplore.ieee.org/document/9511318), IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2021.3101000, 2021 (In Press).
+27. Sen Yang, **Wenshuo Wang***, Junqiang Xi. [Leveraging human driving preferences to predict vehicle speed](https://ieeexplore.ieee.org/document/9511318), IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2021.3101000, 2021 (In Press).
 
 26. Chengyuan Zhang, Jiacheng Zhu, **Wenshuo Wang***, and Junqiang Xi. [Spatiotemporal learning of multivehicle interaction patterns in lane-change scenarios](https://ieeexplore.ieee.org/document/9357407), IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2021.3057645, 2021. (In Press)
 
