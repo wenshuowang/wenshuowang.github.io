@@ -12,7 +12,10 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
+
   <body>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -39,9 +42,11 @@
         </ul>
         {% endif %} -->
 
-        {% if site.researchgate %}
-        <ul class="researchgate">
-            <i class="fa fa-github"></i>
+        {% if site.github %}
+        <ul class="github">
+            <a href="https://github.com/wenshuowang"> 
+              <ion-icon name="logo-github"></ion-icon>
+            </a>
         </ul>
         {% endif %}
       </header>
