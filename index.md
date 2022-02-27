@@ -179,21 +179,21 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 12. 2021/09, 'Variational Inference for Multivaritate Gaussian Mixtures', @ McGill University, QC, Canada
 
-11. 2021/07, 'Interpretable Learning of multi-vehicle interactions for autonomous driving decision-making', @ McGill University, Montreal, QC, Canada
+11. 2021/07, 'Interpretable Learning of multi-vehicle interactions for autonomous driving decision-making', @ McGill University
 
 10. 2021/05, 'How does human make sequential decisions during interactions?', @ Beijing Institute of Technology (BIT), and @ Tongji University, China
 
 9. 2021/04, 'Human-level learning of multi-vehicle interactions toward autonomous driving decision-making', @ Jilin University, China
 
-8. 2021/01, 'Driving primitives -- Human-level learning for autonomous vehicles', @ Beijing Jiaotong University, Beijing, China
+8. 2021/01, 'Driving primitives -- Human-level learning for autonomous vehicles', @ Beijing Jiaotong University, China
 
-7. 2020/11, 'Adaptive path tracking for agricultural vehicles with sliding consideration', @ Beijing AIForce Technoloy Co. Ltd., Beijing, China
+7. 2020/11, 'Adaptive path tracking for agricultural vehicles with sliding consideration', @ Beijing AIForce Technoloy Co. Ltd., China
 
 6. 2019/08, 'Human-level learning of driving primitives through Bayesian nonparametric statistics', @ Vision and Automation System Lab at Robotics Institute, Carnegie Mellon University (CMU)
 
 5. 2019/07, 'Traffic primitives: Concept, theory, and applications', @ Mechanical Systems Control (MSC) Lab, UC Berkeley
 
-4. 2019/05, 'Traffic primitives: concept, learning, and applications', @ Smart Transportation Lab, McGill University, QC, Canada.
+4. 2019/05, 'Traffic primitives: concept, learning, and applications', @ Smart Transportation Lab, McGill University
 
 3. 2018/09, 'Traffic primitives: learning-based extraction and its applications', @ Series Talks of Safe AI Lab, Carnegie Mellon University (CMU).
 
