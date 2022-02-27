@@ -174,8 +174,6 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 <h1 id="Talks_Awards">Talks & Awards</h1>
 
-# Talks & Awards
-
 ## Talks
 
 13. 2021/09, W. Wang, '[Spatiotemporal learning of multivehicle interaction patterns with nonparametric Bayesian statistics](https://sites.google.com/view/itsc2021-social/)', @ 24th IEEE International Conference on Intelligent Transportation, Indianapolis, IN, United States.
