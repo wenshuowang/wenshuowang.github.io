@@ -177,7 +177,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 13. 2021/09, '[Spatiotemporal learning of multivehicle interaction patterns with nonparametric Bayesian statistics](https://sites.google.com/view/itsc2021-social/)', @ 24th IEEE International Conference on Intelligent Transportation, Indianapolis, IN, United States.
 
-12. 2021/09, 'Variational Inference for Multivaritate Gaussian Mixtures', @ McGill University, QC, Canada
+12. 2021/09, 'Variational Inference for Multivaritate Gaussian Mixtures', @ McGill University
 
 11. 2021/07, 'Interpretable Learning of multi-vehicle interactions for autonomous driving decision-making', @ McGill University
 
