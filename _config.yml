@@ -3,5 +3,6 @@ logo: /assets/img/Wenshuo.jpg
 # description: Minimal is a theme for GitHub Pages.
 # show_downloads: false
 github: github
+googlescholar: googlescholar
 # google_analytics:
 theme: jekyll-theme-minimal
