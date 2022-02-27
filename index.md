@@ -15,7 +15,7 @@ Hi! I am Wenshuo Wang, a Postdoctoral Fellow supported by [IVADO Awards](https:/
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 # Research
-My research **goal** is to develop analytically computable tools to semantically understand and predict human-involved interaction behaviors using data science and machine learning techniques, toward eco-safe deployments of artifical intelligent agents (e.g., autonomous cars) in the human cyber-physical systems (H-CPS), especially in Smart Cities.
+My research **goal** is to develop analytically computable tools to semantically understand and predict human-involved interactions using data science and machine learning techniques, toward eco-safe deployment of AI-based agents (e.g., autonomous cars) in the human cyber-physical systems (H-CPS) such as Smart Cities.
 
 My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --- combining human behavior analysis and prediction from insights of cognitive science with machine learning & AI techniques, as well as data science, to enable mobile robotic systems (e.g. intelligent vehicles) to reason competently about their own safety, thus making H-CPS more safe and smarter, including:
 
