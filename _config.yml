@@ -2,5 +2,6 @@ title: Wenshuo Wang
 logo: /assets/img/Wenshuo.jpg
 # description: Minimal is a theme for GitHub Pages.
 show_downloads: false
+researchgate: true
 google_analytics:
 theme: jekyll-theme-minimal
