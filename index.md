@@ -207,6 +207,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 - 2018/07, The Best Ph.D. Dissertation Awards in China Society of Automotive Engineers (SAE-China).
 - 2017/09, Excellent Ph.D. Programs Fellowship of Beijing Institute of Technology (BIT), China.
 - 2015/04, Two-Year Graduate Student Fellowship of China Scholarship Councils (CSC), China.
+
 <!-- ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -214,7 +215,6 @@ var fun = function lang(l) {
   return true;
 }
 ```
-
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
