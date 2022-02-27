@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+<h1 id="about_me">About Me</h1>
 
 Hi! I am Wenshuo Wang, a Postdoctoral Fellow supported by [IVADO Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) at the [Smart Transportation Lab](https://lijunsun.github.io/), McGill University, collaborating with [Prof. Lijun Sun](https://www.mcgill.ca/civil/lijun-sun). I received my Ph.D. degree in Mechanical Engineering from Beijing Institute of Technology, Beijing, China in 2018. Prior to joining McGill, I was a Postdoctoral Fellow with [UC Berkeley](https://path.berkeley.edu/) (2019/10-2020/10) and [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/) (2018/07-2019/10). During my Ph.D. program, I was a Research Assistant working with [Prof. J. Karl Hedrick](https://www.vehicle.me.berkeley.edu/) at Vehicle Dynamics & Control Lab (VDL), UC Berkeley (2015/09-2017/09) and with [Prof. Ding Zhao](https://safeai-lab.github.io/) and [Prof. Xuanlong Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/)(Dept. of Statistics) at UMTRI, University of Michigan, Ann Arbor (2017-2018). My research interests are Bayesian nonparametric learning and reinforcement learning, and their applications to multi-agent interaction behavior modeling and prediction in common-but-challenging situations for smart mobility.
 
@@ -14,7 +14,8 @@ Hi! I am Wenshuo Wang, a Postdoctoral Fellow supported by [IVADO Awards](https:/
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Research
+<h1 id="research">Research</h1>
+
 My research **goal** is to develop analytically computable tools to semantically understand and predict human-involved interactions using machine learning techniques with support of data science, toward eco-safe deployment of AI-based agents (e.g., autonomous cars) in the human cyber-physical systems (H-CPS) such as Smart Cities.
 
 My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --- combining human behavior analysis and prediction from insights of cognitive science with machine learning & AI techniques, as well as data science, to enable mobile robotic systems (e.g. intelligent vehicles) to reason competently about their own safety, thus making H-CPS more safe and smarter, including:
@@ -23,11 +24,10 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 * Intelligent transportation, Autonomous driving, Multi-agent interaction, Advanced driver assistance systems 
 * Bayesian statistics & machine learning, Stocastic processes, (Inverse) Reinforcement learning and optimal control
 
-<!-- This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. -->
-
 * * *
 
-# Publications
+<h1 id="publications">Publications</h1>
+
 **JOURNALS** (*Corresponding Author)
 
 29. Huanjie Wang, **Wenshuo Wang***, Shihua Yuan, Xueyuan Li, Lijun Sun. [On social interactions of merging behaviors at highway on-ramps in congested traffic](https://ieeexplore.ieee.org/document/9511791), IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2021.3102407, 2021 (In Press).
@@ -141,15 +141,17 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 ***
 
-# Services
-### Editors/Associate Editors
+<h1 id="services">Services</h1>
+
+<h2 id="editors">Editors/Associate Editors</h2>
 
 - IEEE Transactions on Intelligent Vehicles, 2022/02 --
 - IEEE Transactions on Vehcular Technology, 2021/01 --
 - Transportation Safety & Environment, 2021/01 --
 - The Journal of Engineering, 2020/05 --
 
-### Reviewers
+<h2 id="reviewers">Reviewers</h2>
+
 - IEEE Transactions on Intelligent Transportaion Systems
 - IEEE Transactions on Intelligent Vehicles
 - IEEE Transactions on Human-Machine Systems
@@ -164,7 +166,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 - IEEE International Conference on Intelligent Transportation Systems (ITS)
 - IFAC Conference on Cyber-Physical \& Human-Systems
 
-### Chairs/Co-chairs
+<h2 id="chairs">Chairs/Co-chairs</h2>
 - Techical Program Committee, 2021 International Conference on Intelligent Control and Automation Engineering (ICAE 2021)
 - Co-Chair, `AVVision' Organized Session on the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
 - Tech Committees, The Autonomous Vehicle Vision 2021 (AVVision'21) workshop, 2021
@@ -174,7 +176,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 <h1 id="talks_awards">Talks & Awards</h1>
 
-## Talks
+<h2 id="talks">Talks</h2>
 
 13. 2021/09, W. Wang, '[Spatiotemporal learning of multivehicle interaction patterns with nonparametric Bayesian statistics](https://sites.google.com/view/itsc2021-social/)', @ 24th IEEE International Conference on Intelligent Transportation, Indianapolis, IN, United States.
 
@@ -202,7 +204,8 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 1. 2017/06, W. Wang, 'A learning-based method for modeling driver behavior: theory and applications', @ 2017 IEEE Intelligent Vehicles Symposium, CA, USA.
 
-## Awards
+<h2 id="awards">Awards</h2>
+
 - 2020/08, [IVADO Postdoc Research Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) for Two Years, Canada.
 - 2019/07, [3rd Summer School on Cognitive Robotics](https://sites.usc.edu/cognitive-robotics/), LA, USA.
 - 2018/07, The Best Ph.D. Dissertation Awards in China Society of Automotive Engineers (SAE-China).
