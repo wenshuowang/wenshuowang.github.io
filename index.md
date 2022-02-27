@@ -29,7 +29,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 # Publications
 **JOURNALS**
-##### (*Cooresponding Author)
+##### (\002A Cooresponding Author)
 
 29. Huanjie Wang, **Wenshuo Wang***, Shihua Yuan, Xueyuan Li, Lijun Sun. [On social interactions of merging behaviors at highway on-ramps in congested traffic](https://ieeexplore.ieee.org/document/9511791), IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2021.3102407, 2021 (In Press).
 
