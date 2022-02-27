@@ -6,14 +6,12 @@ layout: default
 
 Hi! I am Wenshuo Wang, a Postdoctoral Fellow supported by [IVADO Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) at the [Smart Transportation Lab](https://lijunsun.github.io/), McGill University, collaborating with [Prof. Lijun Sun](https://www.mcgill.ca/civil/lijun-sun). I received my Ph.D. degree in Mechanical Engineering from Beijing Institute of Technology, Beijing, China in 2018. Prior to joining McGill, I was a Postdoctoral Fellow with [UC Berkeley](https://path.berkeley.edu/) (2019/10-2020/10) and [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/) (2018/07-2019/10). During my Ph.D. program, I was a Research Assistant working with [Prof. J. Karl Hedrick](https://www.vehicle.me.berkeley.edu/) at Vehicle Dynamics & Control Lab (VDL), UC Berkeley (2015/09-2017/09) and with [Prof. Ding Zhao](https://safeai-lab.github.io/) and [Prof. Xuanlong Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/)(Dept. of Statistics) at UMTRI, University of Michigan, Ann Arbor (2017-2018). My research interests are Bayesian nonparametric learning and reinforcement learning, and their applications to multi-agent interaction behavior modeling and prediction in common-but-challenging situations for smart mobility.
 
-***
-
 <!-- [Link to another page](./another-page.html). -->
 
 <!-- There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-
+<hr>
 <h1 id="research">Research</h1>
 
 My research **goal** is to develop analytically computable tools to semantically understand and predict human-involved interactions using machine learning techniques with support of data science, toward eco-safe deployment of AI-based agents (e.g., autonomous cars) in the human cyber-physical systems (H-CPS) such as Smart Cities.
@@ -24,8 +22,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 * Intelligent transportation, Autonomous driving, Multi-agent interaction, Advanced driver assistance systems 
 * Bayesian statistics & machine learning, Stocastic processes, (Inverse) Reinforcement learning and optimal control
 
-* * *
-
+<hr>
 <h1 id="publications">Publications</h1>
 
 **JOURNALS** (*Corresponding Author)
@@ -88,7 +85,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 1. **Wenshuo Wang**, Junqiang Xi, Huiyan Chen. [Modeling and recognizing driver behavior based on driving data: A survey](https://www.hindawi.com/journals/mpe/2014/245641/), Mathematical Problems in Engineering, vol. 2014, pp. 1-19, 2014.
 
-***
+<hr>
 **CONFERENCES**
 
 18. W. Zhang, **Wenshuo Wang**, J. Zhu, D. Zhao. [Multi-vehicle interaction scenarios generation with interpretable traffic primitives and gaussian process regression](https://ieeexplore.ieee.org/document/9304568), In Proceedings of the 2020 IEEE Intelligent Vehicles Symposium (IV2020), October 19 - November 13, 2020. (Virtual) Las Vegas, NV, United States.
@@ -127,7 +124,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 1. **Wenshuo Wang**, J. Xi, and J. Wang. [Human-centered feed-forward control of a vehicle steering system based on a driver's steering model](https://ieeexplore.ieee.org/document/7171851), In Proceedings of the 2015 IEEE American Control Conference. July 1-3, Chicago, IL, USA, pp. 3361--3366.
 
-***
+<hr>
 **PATENTS**
 
 4. **Wenshuo Wang**, Aditya Ramesh, Ding Zhao. [Unsurpervised classification of encountering scenarios using connected vehicle datasets](https://patents.google.com/patent/US20200133269A1/en). US20200133269A1, USA, 2020
@@ -139,8 +136,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 1. Junqiang Xi and **Wenshuo Wang**. [Intelligent driving systems with an embedded driver model](https://patents.google.com/patent/US10286900B2/en). US20170297564A1, USA, 2019
 
 
-***
-
+<hr>
 <h1 id="services">Services</h1>
 
 <h2 id="editors">Editors/Associate Editors</h2>
@@ -174,6 +170,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 - Co-Chair/Organizer, CMU Workshop on `Safe AI Learning and Engineering Research', Pittsburgh, 2018
 - Chair, Workshop on `Decision-Making and Control on Driver-Automation Interaction' for IEEE 2018'IVs, 2018
 
+<hr>
 <h1 id="talks_awards">Talks & Awards</h1>
 
 <h2 id="talks">Talks</h2>
