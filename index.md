@@ -208,11 +208,11 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 - 2017/09, Excellent Ph.D. Programs Fellowship of Beijing Institute of Technology (BIT), China.
 - 2015/04, Two-Year Graduate Student Fellowship of China Scholarship Councils (CSC), China.
 
-# Contacts
+<!-- # Contacts
 
 wwsbit |at| gmail.com
 Department of Civil Engineering,
-McGill University
+McGill University -->
 
 <!-- ```js
 // Javascript code with syntax highlighting.
