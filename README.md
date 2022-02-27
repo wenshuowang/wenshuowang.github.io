@@ -7,6 +7,16 @@ You can use the [editor on GitHub](https://github.com/wenshuowang/wenshuowang.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Research
+
+My research **goal** is to develop analytically computable tools to semantically understand and predict human-involved interaction behaviors using data science and machine learning techniques, toward eco-safe deployments of artifical intelligent agents (e.g., autonomous cars) in the human cyber-physical systems (H-CPS), especially in Smart Cities.
+
+My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --- combining human behavior analysis and prediction from insights of cognitive science with machine learning & AI techniques, as well as data science, to enable mobile robotic systems (e.g. intelligent vehicles) to reason competently about their own safety, thus making H-CPS more safe and smarter, including:
+
+* Big data science, Human behavior modeling and prediction, Cognition & perception, Human-robot interaction 
+* Intelligent transportation, Autonomous driving, Multi-agent interaction, Advanced driver assistance systems 
+* Bayesian statistics & machine learning, Stocastic processes, (Inverse) Reinforcement learning and optimal control
+
 ## Publications
 
 **JOURNALS**
@@ -120,7 +130,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 1. Junqiang Xi and **Wenshuo Wang**. [Intelligent driving systems with an embedded driver model](https://patents.google.com/patent/US10286900B2/en). US20170297564A1, USA, 2019
 
-## Research
+
 
 ## Academics
 
