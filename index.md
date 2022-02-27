@@ -143,9 +143,70 @@ My research **interests** mainly focus on Cognitive Autonomy & Learning (CAL) --
 
 # Academics
 ## Services
-## Talks
-## Awards
+#### Editors/Associate Editors
 
+- IEEE Transactions on Intelligent Vehicles, 2022/02 --
+- IEEE Transactions on Vehcular Technology, 2021/01 --
+- Transportation Safety & Environment, 2021/01 --
+- The Journal of Engineering, 2020/05 --
+
+#### Reviewers
+- IEEE Transactions on Intelligent Transportaion Systems
+- IEEE Transactions on Intelligent Vehicles
+- IEEE Transactions on Human-Machine Systems
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- IET Intelligent Transportation Systems
+- IEEE/ASME Transactions on Mechatronics
+- Transportation Research Part C: Emerging Technologies
+- IEEE American Control Conference (ACC)
+- IEEE International Conference on Robotics and Automation (ICRA)
+- IEEE International Conference on Intelligent Vehicle Symposiums (IVs)
+- IEEE International Conference on Intelligent Transportation Systems (ITS)
+- IFAC Conference on Cyber-Physical \& Human-Systems
+
+#### Chairs/Co-chairs
+- Techical Program Committee, 2021 International Conference on Intelligent Control and Automation Engineering (ICAE 2021)
+- Co-Chair, `AVVision' Organized Session on the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
+- Tech Committees, The Autonomous Vehicle Vision 2021 (AVVision'21) workshop, 2021
+- Co-Chair, Session on `Cognitive Urban Autonomous Driving' for 2020 IFAC Conference on Cyber-Physical & Human Systems, 2020
+- Co-Chair/Organizer, CMU Workshop on `Safe AI Learning and Engineering Research', Pittsburgh, 2018
+- Chair, Workshop on `Decision-Making and Control on Driver-Automation Interaction' for IEEE 2018'IVs, 2018
+
+## Talks
+
+13. 2021/09, W. Wang, '[Spatiotemporal learning of multivehicle interaction patterns with nonparametric Bayesian statistics](https://sites.google.com/view/itsc2021-social/)', @ 24th IEEE International Conference on Intelligent Transportation, Indianapolis, IN, United States.
+
+12. 2021/09, W. Wang, 'Variational Inference for Multivaritate Gaussian Mixtures', @ McGill University, QC, Canada
+
+11. 2021/07, W. Wang, 'Interpretable Learning of multi-vehicle interactions for autonomous driving decision-making', @ McGill University, Montreal, QC, Canada
+
+10. 2021/05, W. Wang, 'How does human make sequential decisions during interactions?', @ Beijing Institute of Technology (BIT), and @ Tongji University, China
+
+9. 2021/04, W. Wang, 'Human-level learning of multi-vehicle interactions toward autonomous driving decision-making', @ Jilin University, China
+
+8. 2021/01, W. Wang, 'Driving primitives -- Human-level learning for autonomous vehicles', @ Beijing Jiaotong University, Beijing, China
+
+7. 2020/11, W. Wang, 'Adaptive path tracking for agricultural vehicles with sliding consideration', @ Beijing AIForce Technoloy Co. Ltd., Beijing, China
+
+6. 2019/08, W. Wang 'Human-level learning of driving primitives through Bayesian nonparametric statistics', @ Vision and Automation System Lab at Robotics Institute, Carnegie Mellon University (CMU)
+
+5. 2019/07, W. Wang, 'Traffic primitives: Concept, theory, and applications', @ Mechanical Systems Control (MSC) Lab, UC Berkeley
+
+4. 2019/05, W. Wang, 'Traffic primitives: concept, learning, and applications', @ Smart Transportation Lab, McGill University, QC, Canada.
+
+3. 2018/09, W. Wang, 'Traffic primitives: learning-based extraction and its applications', @ Series Talks of Safe AI Lab, Carnegie Mellon University (CMU).
+
+2. 2018/07, W. Wang, 'Extracting traffic primitives through Bayesian nonparametric learning and its applications', @ Workshop on Safe AI in Autonomous Vehicles, Carnegie Mellon University (CMU).
+
+1. 2017/06, W. Wang, 'A learning-based method for modeling driver behavior: theory and applications', @ 2017 IEEE Intelligent Vehicles Symposium, CA, USA.
+
+## Awards
+- 2020/08, [IVADO Postdoc Research Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) for Two Years, Canada.
+- 2019/07, [3rd Summer School on Cognitive Robotics](https://sites.usc.edu/cognitive-robotics/), LA, USA.
+- 2018/07, The Best Ph.D. Dissertation Awards in China Society of Automotive Engineers (SAE-China).
+- 2017/09, Excellent Ph.D. Programs Fellowship of Beijing Institute of Technology (BIT), China.
+- 2015/04, Two-Year Graduate Student Fellowship of China Scholarship Councils (CSC), China.
 <!-- ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
