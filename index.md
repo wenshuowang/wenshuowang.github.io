@@ -14,11 +14,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <hr>
 <h1 id="research">Research</h1>
 
-My research **goal** is to develop analytically computable tools to semantically understand and predict human-involved interactions using machine learning techniques with support of data science, toward eco-safe deployment of AI-based agents (e.g., autonomous cars) in the human cyber-physical systems (H-CPS) such as Smart Cities.
+My research **goal** is to develop analytically computable tools to semantically understand and predict human-involved interactions using machine learning techniques with support of data science toward eco-safe deployment of AI-based agents (e.g., autonomous cars) in the human cyber-physical systems (H-CPS) such as Smart Cities.
 
-My research **interests** mainly focus on Cognitive Autonomy & Interactive Learning (CAIL) --- combining human behavior analysis and prediction from insights of cognitive science with machine learning & AI techniques, as well as data science, to enable mobile robotic systems (e.g. intelligent vehicles) to reason competently about their own safety, thus making H-CPS more safe and smarter, including:
+My research **interests** mainly focus on Cognitive Autonomy & Interactive Learning (CAIL) --- combining human interactive behavior analysis and prediction from insights of cognitive science with machine learning & AI techniques to enable mobile robotic systems (e.g. intelligent vehicles) to reason competently about their own safety, thus making H-CPS more safe and smarter, including:
 
-* Human behavior modeling and prediction, Cognition & perception, Human-robot interaction 
+* Interaction behavior modeling and prediction, Cognition & perception, Human-robot interaction 
 * Intelligent transportation, Autonomous driving, Multi-agent interaction, Advanced driver assistance systems 
 * Bayesian statistics & machine learning, Stocastic processes, (Inverse) Reinforcement learning and optimal control
 
