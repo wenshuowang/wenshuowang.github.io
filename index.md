@@ -27,6 +27,8 @@ My research **interests** mainly focus on Cognitive Autonomy & Interactive Learn
 
 **JOURNALS** (*Corresponding Author)
 
+30. Chao Lu, Chen Lv, Jianwei Gong, **Wenshuo Wang**, Dongpu Cao, Fei-Yue Wang. [Instance-level knowledge transfer for data-driven driver model adaptation with homogeneous domains](https://ieeexplore.ieee.org/abstract/document/9745808) IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2022.3161939, 2022 (In Press).
+
 29. Huanjie Wang, **Wenshuo Wang***, Shihua Yuan, Xueyuan Li, Lijun Sun. [On social interactions of merging behaviors at highway on-ramps in congested traffic](https://ieeexplore.ieee.org/document/9511791), IEEE Transactions on Intelligent Transportation Systems, DOI: 10.1109/TITS.2021.3102407, 2021 (In Press).
 
 28. Huanjie Wang, **Wenshuo Wang***, Shihua Yuan, Xueyuan Li. [Uncovering interpretable internal states of merging tasks at highway on-ramps for autonomous driving decision-making](https://ieeexplore.ieee.org/document/9512609), IEEE Transactions on Automation Science and Engineering, DOI: 10.1109/TASE.2021.3103179, 2021 (In Press).
