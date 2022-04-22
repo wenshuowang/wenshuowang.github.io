@@ -166,7 +166,6 @@ My research **interests** mainly focus on Cognitive Autonomy & Interactive Learn
 
 <h2 id="chairs">Chairs/Co-chairs</h2>
 - General Chairs, [3rd AVVision Workshop](https://avvision.xyz/eccv22/) on ECCV’22.
-- Techical Program Committee, 2021 International Conference on Intelligent Control and Automation Engineering (ICAE 2021)
 - Program Committee, [2nd AVVision Workshop](https://avvision.xyz/iccv21/) Organized Session on the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
 - Techical Program Committees, [The Autonomous Vehicle Vision 2021 (AVVision'21) workshop](https://avvision.xyz/wacv21/committee/), 2021
 - Co-Chair, Session on `Cognitive Urban Autonomous Driving' for 2020 IFAC Conference on Cyber-Physical & Human Systems, 2020
