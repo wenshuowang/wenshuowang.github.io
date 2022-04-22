@@ -204,7 +204,6 @@ My research **interests** mainly focus on Cognitive Autonomy & Interactive Learn
 1. 2017/06, 'A learning-based method for modeling driver behavior: theory and applications', @ 2017 IEEE Intelligent Vehicles Symposium, CA, USA.
 
 <h2 id="awards">Awards</h2>
-
 - 2020/08, [IVADO Postdoc Research Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) for Two Years, Canada.
 - 2019/07, [3rd Summer School on Cognitive Robotics](https://sites.usc.edu/cognitive-robotics/), LA, USA.
 - 2018/07, The Best Ph.D. Dissertation Awards in China Society of Automotive Engineers (SAE-China).
