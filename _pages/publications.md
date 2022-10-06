@@ -39,7 +39,7 @@ author_profile: true
           </div> -->
         </div>
       </td>
-          <td><strong>W. Wang</strong>, L. Sun*</td>
+          <td><strong>W. Wang</strong>, L. Sun</td>
       <td>
         Local Prior Sensitivity Analysis with Gradient Descent Search for Nonparametric Bayesian Learning<br>
                 <p class="infolinks"> 
@@ -75,12 +75,12 @@ author_profile: true
 				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
 				<div class="polaroid">
 				  <img src="../images/research/wang2022action.png" width="600" class="research_img">
-				  <div class="container">
+				  <!-- <div class="container">
 				  Active Inference and Optimization
-				  </div>
+				  </div> -->
 				</div>
 			</td>
-       		<td><strong>W. Wang</strong>, C. Zhang, L. Sun*</td>
+       		<td><strong>W. Wang</strong>, C. Zhang, L. Sun</td>
 			<td>
 				An Action-Induced Model through Active Inference with Variational Bounds and Optimization
         <br>
@@ -116,37 +116,38 @@ author_profile: true
           <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../images/research/wang2022social.png" width="600" class="research_img">
-          <div class="container">
+          <img src="../images/research/wang2022social.jpg" width="600" class="research_img">
+          <!-- <div class="container">
           Social Interaction
-          </div>
+          </div> -->
         </div>
       </td>
-          <td><strong>Z. Cui</strong>, R. Ke, Z. Pu, Y. Wang*</td>
+          <td><strong>W. Wang</strong>, L. Wang, C. Zhang, C. Liu, L. Sun</td>
       <td>
-        Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values<br>
+        Social Interactions for Autonomous Driving: A Review and Perspectives<br>
                 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('cui2020stacked','abstract')">Abstract</a>]
                   [<a href="javascript:toggleInfo('cui2020stacked','bibtex')">BibTeX</a>] 
                   <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
-                  <!-- [<a href="https://arxiv.org/abs/1912.05457">arXiv</a>] -->
+                  [<a href="https://arxiv.org/abs/2208.07541">arXiv</a>]
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
               </p>
         </td>
       <td>2020</td>
-          <td>Transportation Research Part C: Emerging Technologies</td>
+          <td>Foundations and Trends in Robotics (Under review)</td>
         </tr>
         <tr id="abs_cui2020stacked" class="abstract noshow">
-          <td colspan="5"><div align="justify"> <b>Abstract</b>: Short-term traffic forecasting based on deep learning methods, especially recurrent neural networks (RNN), has received much attention in recent years. However, the potential of RNN-based models in traffic forecasting has not yet been fully exploited in terms of the predictive power of spatial-temporal data and the capability of handling missing data. In this paper, we focus on RNN-based models and attempt to reformulate the way to incorporate RNN and its variants into traffic prediction models. A stacked bidirectional and unidirectional LSTM network architecture (SBU-LSTM) is proposed to assist the design of neural network structures for traffic state forecasting. As a key component of the architecture, the bidirectional LSTM (BDLSM) is exploited to capture the forward and backward temporal dependencies in spatiotemporal data. To deal with missing values in spatial-temporal data, we also propose a data imputation mechanism in the LSTM structure (LSTM-I) by designing an imputation unit to infer missing values and assist traffic prediction. The bidirectional version of LSTM-I is incorporated in the SBU-LSTM architecture. Two real-world network-wide traffic state datasets are used to conduct experiments and published to facilitate further traffic prediction research. The prediction performance of multiple types of multi-layer LSTM or BDLSTM models is evaluated. Experimental results indicate that the proposed SBU-LSTM architecture, especially the two-layer BDLSTM network, can achieve superior performance for the network-wide traffic prediction in both accuracy and robustness. Further, comprehensive comparison results show that the proposed data imputation mechanism in the RNN-based models can achieve outstanding prediction performance when the model's input data contains different patterns of missing values.</div></td>
+          <td colspan="5"><div align="justify"> <b>Abstract</b>: No human drives a car in a vacuum; she/he must negotiate with other road users to achieve their goals in social traffic scenes. A rational human driver can interact with other road users in a socially-compatible way through implicit communications to complete their driving tasks smoothly in interaction-intensive, safety-critical environments. This paper aims to review the existing approaches and theories to help understand and rethink the interactions among human drivers toward social autonomous driving. We take this survey to seek the answers to a series of fundamental questions: 1) What is social interaction in road traffic scenes? 2) How to measure and evaluate social interaction? 3) How to model and reveal the process of social interaction? 4) How do human drivers reach an implicit agreement and negotiate smoothly in social interaction? This paper reviews various approaches to modeling and learning the social interactions between human drivers, ranging from optimization theory, deep learning, and graphical models to social force theory and behavioral & cognitive science. We also highlight some new directions, critical challenges, and opening questions for future research.</div></td>
         </tr>
         <tr id="bib_cui2020stacked" class="bibtex noshow">
           <td colspan="5"><b>BibTeX</b>:
-                <pre>@article{cui2020stacked,
-  title={Stacked Bidirectional and Unidirectional LSTM Recurrent Neural Network for Forecasting Network-wide Traffic State with Missing Values},
-  author={Cui, Zhiyong and Ke, Ruimin and Pu, Ziyuan and Wang, Yinhai},
-  journal={arXiv preprint arXiv:2005.11627},
-  year={2020}
-}</pre>
+                <pre>@article{wang2022social,
+                      title={Social Interactions for Autonomous Driving: A Review and Perspective},
+                      author={Wang, Wenshuo and Wang, Letian and Zhang, Chengyuan and Liu, Changliu and Sun, Lijun},
+                      journal={arXiv preprint arXiv:2208.07541},
+                      year={2022}
+                      }
+                </pre>
       </td>
     </tr>
     <tr id="cui2020learning" class="entry">
