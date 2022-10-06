@@ -32,11 +32,10 @@ author_profile: true
 	<tbody>
     <tr id="cui2020traffic" class="entry">
           <td>
-        <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../images/research/cui2020traffic.png" width="600" class="research_img">
+          <img src="../images/research/wang2022MAISgradient.png" width="600" class="research_img">
           <div class="container">
-          Traffic Performance Score
+          Socially Interactive Autonomous Driving
           </div>
         </div>
       </td>
