@@ -133,7 +133,7 @@ author_profile: true
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
               </p>
         </td>
-      <td>2020</td>
+      <td>2022</td>
           <td>Foundations and Trends in Robotics (Under review)</td>
         </tr>
         <tr id="abs_wang2022social" class="abstract noshow">
@@ -174,7 +174,7 @@ author_profile: true
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
               </p>
       </td>
-      <td>2020</td>
+      <td>2022</td>
       <td>Transportation Safety and Environment</td>
       </tr>
         <tr id="abs_wang2022cv" class="abstract noshow">
