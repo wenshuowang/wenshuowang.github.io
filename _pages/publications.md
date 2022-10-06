@@ -392,46 +392,41 @@ author_profile: true
                 </pre>
 			      </td>
       	</tr>
-      	<tr id="liang2018deep" class="entry">
+      	<tr id="wang2021learning" class="entry">
       		<td>
 				<!-- <img src="../images/research/liang2018deep.png" width="600" class="single_img"> -->
 				<div class="polaroid">
-				  <img src="../images/research/liang2018deep.png" width="600" class="research_img">
-				  <div class="container">
-				  GAN for Traffic Estimation
-				  </div>
+				  <img src="../images/research/wang2021learning.png" width="600" class="research_img">
 				</div>
 			</td>
-       		<td>Y. Liang, <strong>Z. Cui</strong>, T. Tian, H. Chen, Y. Wang* </td>
+       		<td><strong>W. Wang</strong>, C. Zhang, P. Wang, C.-Y. Chan </td>
 			<td>
-				A deep generative adversarial architecture for network-wide spatial-temporal traffic-state estimation<br>
+				Learning Representations for Multi-Vehicle Spatiotemporal Interactions with Semi-Stochastic Potential Fields<br>
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('liang2018deep','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('liang2018deep','bibtex')">BibTeX</a>] 
-              		[<a href="https://journals.sagepub.com/doi/full/10.1177/0361198118798737">PDF</a>]
-              		[<a href="https://arxiv.org/abs/1801.03818">arXiv</a>]
+              		[<a href="javascript:toggleInfo('wang2021learning','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2021learning','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/9304849">PDF</a>]
+              		<!-- [<a href="https://arxiv.org/abs/1801.03818">arXiv</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
             	</p>
     		</td>
- 			<td>2018</td>
-        	<td>Transportation Research Record</td>
+ 			<td>2021</td>
+        	<td>2020 IEEE Intelligent Vehicles Symposium (IV'20)</td>
         </tr>
-        <tr id="abs_liang2018deep" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: This study proposes a deep generative adversarial architecture (GAA) for network-wide spatial-temporal traffic-state estimation. The GAA is able to combine traffic-flow theory with neural networks and thus improve the accuracy of traffic-state estimation. It consists of two Long Short-Term Memory Neural Networks (LSTM NNs) which capture correlation in time and space among traffic flow and traffic density. One of the LSTM NNs, called a discriminative network, aims to maximize the probability of assigning correct labels to both true traffic-state matrices (i.e., traffic flow and traffic density within a given spatial-temporal area) and the traffic-state matrices generated from the other neural network. The other LSTM NN, called a generative network, aims to generate traffic-state matrices which maximize the probability that the discriminative network assigns true labels to them. The two LSTM NNs are trained simultaneously such that the trained generative network can generate traffic matrices similar to those in the training data set. Given a traffic-state matrix with missing values, we use back-propagation on three defined loss functions to map the corrupted matrix to a latent space. The mapping vector is then passed through the pre-trained generative network to estimate the missing values of the corrupted matrix. The proposed GAA is compared with the existing Bayesian network approach on loop detector data collected from Seattle, Washington and that collected from San Diego, California. Experimental results indicate that the GAA can achieve higher accuracy in traffic-state estimation than the Bayesian network approach.</div></td>
+        <tr id="abs_wang2021learning" class="abstract noshow">
+        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Reliable representation of multi-vehicle interactions in urban traffic is pivotal but challenging for autonomous vehicles due to the volatility of the traffic environment, such as roundabouts and intersections. This paper describes a semi-stochastic potential field approach to represent multi-vehicle interactions by integrating a deterministic field approach with a stochastic one. First, we conduct a comprehensive evaluation of potential fields for representing multi-agent intersections from the deterministic and stochastic perspectives. For the former, the estimates at each location in the region of interest (ROI) are deterministic, which is usually built using a family of parameterized exponential functions directly. For the latter, the estimates are stochastic and specified by a random variable, which is usually built based on stochastic processes such as the Gaussian process. Our proposed semi-stochastic potential field, combining the best of both, is validated based on the INTERACTION dataset collected in complicated real-world urban settings, including intersections and roundabout. Results demonstrate that our approach can capture more valuable information than either the deterministic or stochastic ones alone. This work sheds light on the development of algorithms in decision-making, path/motion planning, and navigation for autonomous vehicles in the cluttered urban settings.</div></td>
       	</tr>
-      	<tr id="bib_liang2018deep" class="bibtex noshow">
+      	<tr id="bib_wang2021learning" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@article{liang2018deep,
-  title={A deep generative adversarial architecture for network-wide spatial-temporal traffic-state estimation},
-  author={Liang, Yunyi and Cui, Zhiyong and Tian, Yu and Chen, Huimiao and Wang, Yinhai},
-  journal={Transportation Research Record},
-  volume={2672},
-  number={45},
-  pages={87--105},
-  year={2018},
-  publisher={SAGE Publications Sage CA: Los Angeles, CA}
-}</pre>
-			</td>
+              	<pre>@inproceedings{wang2020learning,
+                    title={Learning Representations for Multi-Vehicle Spatiotemporal Interactions with Semi-Stochastic Potential Fields},
+                    author={Wang, Wenshuo and Zhang, Chengyuan and Wang, Pin and Chan, Ching-Yao},
+                    booktitle={2020 IEEE Intelligent Vehicles Symposium (IV)},
+                    pages={1935--1940},
+                    organization={IEEE}
+                  }
+                </pre>
+			    </td>
       	</tr>
       	<tr id="cui2018deep" class="entry">
       		<td>
