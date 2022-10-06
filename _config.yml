@@ -72,7 +72,7 @@ description: PhD, Beijing Institute of Technology, Postdoc in Civil
 url: https://wenshuowang.github.io/
 baseurl: ''
 repository: wenshuowang.github.io
-teaser: Wenshuo.jpg
+teaser: Wenshuo.jpeg
 breadcrumbs: false
 words_per_minute: 160
 future: true
@@ -139,7 +139,7 @@ use_logo: true
 logo: "/assets/UW_square.png"
 author:
   name: Wenshuo Wang
-  avatar: Wenshuo.jpg
+  avatar: Wenshuo.jpeg
   bio: "<p> PhD, Postdoc in Applied Science <br /> IVADO Postdoctoral Fellowship <br />"
   location: Montreal
   employer: McGill University, Canada
