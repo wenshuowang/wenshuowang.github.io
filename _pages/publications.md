@@ -39,9 +39,9 @@ author_profile: true
           </div>
         </div>
       </td>
-          <td><strong>Z. Cui</strong>, et al.*</td>
+          <td><strong>W. Wang</strong>, L. Sun*</td>
       <td>
-        Traffic Performance Score for Measuring the Impact of COVID-19 on Urban Mobility<br>
+        Local Prior Sensitivity Analysis with Gradient Descent Search for Nonparametric Bayesian Learning<br>
                 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('cui2020traffic','abstract')">Abstract</a>]
                   [<a href="javascript:toggleInfo('cui2020traffic','bibtex')">BibTeX</a>] 
