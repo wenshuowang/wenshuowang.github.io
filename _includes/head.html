@@ -1,0 +1,78 @@
+{% include base_path %}
+
+<meta charset="utf-8">
+
+{% include seo.html %}
+
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<!-- favicon -->
+<link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/favicon.ico" />
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="msvalidate.01" content="10712080D109E3CFF18C6D1C73C3046B" />
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132678836-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132678836-1');
+</script>
+
+
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<script type="text/javascript">
+
+	function toggleInfo(articleid,info) {
+
+		var entry = document.getElementById(articleid);
+		var abs = document.getElementById('abs_'+articleid);
+		var bib = document.getElementById('bib_'+articleid);
+
+		if (abs && info == 'abstract') {
+			if(abs.className.indexOf('abstract') != -1) {
+			abs.className.indexOf('noshow') == -1?abs.className = 'abstract noshow':abs.className = 'abstract';
+			}
+		} else if (bib && info == 'bibtex') {
+			if(bib.className.indexOf('bibtex') != -1) {
+			bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+			}
+		} else {
+			return;
+		}
+
+		var absshow = false;
+		var bibshow = false;
+		(abs && abs.className.indexOf('noshow') == -1)? absshow = true: absshow = false;
+		(bib && bib.className == 'bibtex')? bibshow = true: bibshow = false;
+
+		if(entry) {
+			if (absshow || bibshow) {
+			entry.className = 'entry highlight show';
+			} else {
+			entry.className = 'entry show';
+			}
+		}
+
+		if(absshow) {
+			(bibshow)?abs.className = 'abstract nextshow':abs.className = 'abstract';
+		}
+	}
+</script>

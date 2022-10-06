@@ -1,0 +1,44 @@
+<script src="{{ base_path }}/assets/js/main.min.js"></script>
+
+{% include analytics.html %}
+{% include /comments-providers/scripts.html %}
+
+
+<script type="text/javascript">
+
+function toggleInfo(articleid,info) {
+
+		var entry = document.getElementById(articleid);
+		var abs = document.getElementById('abs_'+articleid);
+		var bib = document.getElementById('bib_'+articleid);
+
+		if (abs && info == 'abstract') {
+			if(abs.className.indexOf('abstract') != -1) {
+			abs.className.indexOf('noshow') == -1?abs.className = 'abstract noshow':abs.className = 'abstract';
+			}
+		} else if (bib && info == 'bibtex') {
+			if(bib.className.indexOf('bibtex') != -1) {
+			bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+			}
+		} else {
+			return;
+		}
+
+		var absshow = false;
+		var bibshow = false;
+		(abs && abs.className.indexOf('noshow') == -1)? absshow = true: absshow = false;
+		(bib && bib.className == 'bibtex')? bibshow = true: bibshow = false;
+
+		if(entry) {
+			if (absshow || bibshow) {
+			entry.className = 'entry highlight show';
+			} else {
+			entry.className = 'entry show';
+			}
+		}
+
+		if(absshow) {
+			(bibshow)?abs.className = 'abstract nextshow':abs.className = 'abstract';
+		}
+	}
+</script>
