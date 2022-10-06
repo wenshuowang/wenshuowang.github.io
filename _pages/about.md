@@ -28,11 +28,11 @@ My research **interests** mainly focus on Cognitive Autonomy & Interactive Learn
     </tr>
   </thead>
 </table>
-* <span style="color:darkred"> New! </span> Sept. 2022. My two conference papers are accepted by <span style="color:darkred">The Montreal AI Symposium 2022</span>. 
-* <span style="color:darkred"> New! </span> Aug. 2022. My new review paper on <span style="color:darkred">Social Interactions for Autonomous Driving</span> is online. 
-* <span style="color:darkred"> New! </span> Mar. 2021. Gradudation! I defend my PhD final exam and graduate!
-* <span style="color:darkred"> New! </span> Oct. 2020. Our paper receives the <span style="color:darkred">Best Paper Award</span> presented by  IEEE International Smart Cities Conference 2020. 
-* <span style="color:darkred"> New! </span> Oct. 2020. I give a talk at the Reasoning in GeoAI Mini-workshop. \[[link](http://spatial.ucsb.edu/mini-workshop/Reasoning_GeoAI/)\] 
+* <span style="color:darkred"> New! </span> Sept. 2022. My two conference papers were accepted by [The Montreal AI Symposium 2022](http://montrealaisymposium.com/). 
+* <span style="color:darkred"> New! </span> Aug. 2022. My new review paper on [Social Interactions for Autonomous Driving](https://arxiv.org/abs/2208.07541) is online. 
+* <span style="color:darkred"> New! </span> Jul. 2022. I was invited to give a talk on [COTA](http://cota-home.org/CICTP/CICTP2019.html).
+* <span style="color:darkred"> New! </span> May 2022. I was recognized as the a Rising Star Scholar on “AI+X” by Baidu Xueshu, Top 50. 
+* <span style="color:darkred"> New! </span> Jan. 2022. I give a talk at the Reasoning in GeoAI Mini-workshop. \[[link](http://spatial.ucsb.edu/mini-workshop/Reasoning_GeoAI/)\] 
 * <span style="color:darkred"> New! </span> Sep. 2020. I give a talk at 2020 JSM’s Transportation Statistics Interest Group business meeting. 
 * <span style="color:darkred"> New! </span> Jun. 2020. I'm honoured to receive the <span style="color:darkred">CEE Department Chair's Award</span> from UW CEE department for recognizing the teaching contributions. \[[link](https://www.ce.washington.edu/news/article/2020-07-08/cee-department-award-winners-announced)\]
 * <span style="color:darkred"> New! </span> May. 2020. Dr. Yinhai Wang and I give a presentation in [PacTrans Webinar](https://youtu.be/hw_fgkCQBmE): "Learning from Network-wide Traffic Sensor Data: Vehicle Travel and Traffic Performance Changes under the Influence of COVID-19". \[[YouTube](https://youtu.be/hw_fgkCQBmE)\]\[[Website](https://depts.washington.edu/pactrans/may-19-pactrans-webinar-featuring-yinhai-wang/)\]
