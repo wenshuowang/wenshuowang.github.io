@@ -25,8 +25,8 @@ author_profile: true
 			<th width="25%">Highlight</th>
 			<th width="13%">Authors</th>
 			<th width="40%">Title</th>
-			<th width="2%">Year</th>
-			<th width="20%">Journal/Proceedings</th>
+			<th width="1.5%">Year</th>
+			<th width="18%">Journal/Proceedings</th>
 		</tr>
     </thead>
 	<tbody>
