@@ -1,5 +1,5 @@
 ---
-title: Zhiyong Cui - Homepage
+title: Wenshuo Wang - Homepage
 timezone: America/Los_Angeles
 collections:
   portfolio:
@@ -66,7 +66,7 @@ defaults:
     share: true
 locale: en-US
 title_separator: "-"
-name: Zhiyong Cui
+name: Wenshuo Wang
 description: PhD, UW Data Science Postdoctoral Fellow, Postdoc in Civil and Environmental
   Engineering, University of Washington
 url: https://zhiyongc.github.io
