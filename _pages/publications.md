@@ -464,46 +464,44 @@ author_profile: true
                 </pre>
 			</td>
       	</tr>
-      	<tr id="cui2016new" class="entry">
+      	<tr id="wang2020understanding" class="entry">
       		<td>
-				<!-- <img src="../images/research/cui2016new.gif" width="600" class="single_img"> -->
 				<div class="polaroid">
-				  <img src="../images/research/cui2016new.gif" width="600" class="research_img">
-				  <div class="container">
-				  DRIVE Net
-				  </div>
+				  <img src="../images/research/wang2020understanding.png" width="600" class="research_img">
 				</div>
 			</td>
-       		<td><strong>Z. Cui</strong>, S. Zhang, K. Henrickson, Y. Wang </td>
+       		<td><strong>W. Wang</strong>, W. Zhang, J. Zhu, D. Zhao </td>
 			<td>
-				New progress of DRIVE Net: An E-science transportation platform for data sharing, visualization, modelling, and analysis<br>		
-        (<span style="color:darkred;">AASHTO High Value Research Project Award</span>)    
+				Understanding v2v driving scenarios through traffic primitives<br>		   
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('cui2016new','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('cui2016new','bibtex')">BibTeX</a>] 
-              		[<a href="https://ieeexplore.ieee.org/document/7580736">PDF</a>]
-              		[<a href="http://www.uwdrive.net/">Website</a>]
-              		[<a href="https://www.youtube.com/watch?v=uzOl3cNoLvc">Video</a>]
+              		[<a href="javascript:toggleInfo('wang2020understanding','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2020understanding','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/9184261">PDF</a>]
+              		<!-- [<a href="http://www.uwdrive.net/">Website</a>] -->
+              		<!-- [<a href="https://www.youtube.com/watch?v=uzOl3cNoLvc">Video</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
             	</p>
     		</td>
- 			<td>2016</td>
-        	<td>IEEE International Smart Cities Conference (ISC2)</td>
+ 			<td>2020</td>
+        	<td>IEEE Transactions on Intelligent Transportation Systems</td>
         </tr>
-        <tr id="abs_cui2016new" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Big data represents a new era in data exploration and utilization. With the growing quantity and variety of data being collected from intelligent transportation systems and other sensors, data-driven transportation research will rely on a new generation of tools to analyze and visualize those data. To address this need, the Digital Roadway Interactive Visualization and Evaluation Network (DRIVE Net) was developed to enable large-scale online data sharing, visualization, modeling and analysis. By incorporating an increasing variety of data sets from different sensing and acquisition technologies, the new DRIVE Net system provides a more stable, powerful, and interactive platform, and is now able to handle more complex computational tasks, visualize large-scale spatial data, and support data sharing services.</div></td>
+        <tr id="abs_wang2020understanding" class="abstract noshow">
+        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Understanding driver interaction behavioral semantics has potential benefits to autonomous car’s decision-making design. This article presents a framework of analyzing various encountering behaviors through decomposing driving encounter sequential data into small building blocks, called traffic primitives, using a Bayesian nonparametric learning (BNPL) approach. This framework offers a flexible way to gain semantic insights into complex driving encounters without any prerequisite knowledge of interaction behavior categories. Its effectiveness is then validated using 976 naturalistic driving encounters from which more than 4000 traffic primitives were learned with the BNPL approach. After that, a dynamic time warping method integrated with k-means clustering is then developed to cluster all these extracted traffic primitives into groups. Experimental results identify 20 kinds of traffic primitives capable of representing the essential components of driving encounters in our database. Based on the results, we conclude that the proposed primitive-based analysis could prove useful for autonomous vehicle applications.</div></td>
       	</tr>
-      	<tr id="bib_cui2016new" class="bibtex noshow">
+      	<tr id="bib_wang2020understanding" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@inproceedings{cui2016new,
-  title={New progress of DRIVE Net: An E-science transportation platform for data sharing, visualization, modeling, and analysis},
-  author={Cui, Zhiyong and Zhang, Shen and Henrickson, Kristian C and Wang, Yinhai},
-  booktitle={2016 IEEE International Smart Cities Conference (ISC2)},
-  pages={1--2},
-  year={2016},
-  organization={IEEE}
-}</pre>
-			</td>
+              	<pre>@article{wang2020understanding,
+                    title={Understanding v2v driving scenarios through traffic primitives},
+                    author={Wang, Wenshuo and Zhang, Weiyang and Zhu, Jiacheng and Zhao, Ding},
+                    journal={IEEE Transactions on Intelligent Transportation Systems},
+                    volume={23},
+                    number={1},
+                    pages ={610--619},
+                    year={2020},
+                    publisher={IEEE}
+                  }
+                </pre>
+		      </td>
       	</tr>
       	<tr id="cui2015vision" class="entry">
       		<td>
