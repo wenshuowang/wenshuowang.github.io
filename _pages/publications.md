@@ -30,10 +30,10 @@ author_profile: true
 		</tr>
     </thead>
 	<tbody>
-    <tr id="wang2022gradient" class="entry">
+    <tr id="wang2022local" class="entry">
           <td>
         <div class="polaroid">
-          <img src="../images/research/wang2022gradient.png" width="600" class="research_img">
+          <img src="../images/research/wang2022local.png" width="600" class="research_img">
           <div class="container">
           Local Prior Sensitivity Analysis
           </div>
@@ -43,11 +43,11 @@ author_profile: true
       <td>
         Local Prior Sensitivity Analysis with Gradient Descent Search for Nonparametric Bayesian Learning<br>
                 <p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('cui2020traffic','abstract')">Abstract</a>]
-                  [<a href="javascript:toggleInfo('cui2020traffic','bibtex')">BibTeX</a>] 
+                  [<a href="javascript:toggleInfo('wang2022local','abstract')">Abstract</a>]
+                  [<a href="javascript:toggleInfo('wang2022local','bibtex')">BibTeX</a>] 
                   <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
-                  [<a href="https://arxiv.org/pdf/2007.00648">arXiv</a>]
-                  [<a href="http://tps.uwstarlab.org/">Website</a>]
+                  <!-- [<a href="https://arxiv.org/pdf/2007.00648">arXiv</a>] -->
+                  <!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
                   <!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
                   <!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
@@ -56,18 +56,19 @@ author_profile: true
       <td>2022</td>
           <td>The Montreal AI Symposium 2022</td>
         </tr>
-        <tr id="abs_wang2022gradient" class="abstract noshow">
-          <td colspan="5"><div align="justify"> <b>Abstract</b>: Measuring traffic performance is critical for public agencies who manage traffic and individuals who plan trips, especially when special events happen. The COVID-19 pandemic has significantly influenced almost every aspect of daily life, including urban traffic patterns. Thus, it is important to measure the impact of COVID-19 on transportation to further guide agencies and residents to properly respond to changes in traffic patterns. However, most existing traffic performance metrics incorporate only a single traffic parameter and measure only the performance of individual corridors. To overcome these challenges, in this study, a Traffic Performance Score (TPS) is proposed that incorporates multiple parameters for measuring network-wide traffic performance. An interactive web-based TPS platform that provides real-time and historical spatial-temporal traffic performance analysis is developed by the STAR Lab at the University of Washington. Based on data from this platform, this study analyzes the impact of COVID-19 on different road segments and the traffic network as a whole. Considering this pandemic has greatly reshaped social and economic operations, this study also evaluates how COVID-19 is changing the urban mobility from both travel demand and driving behavior perspectives.</div></td>
+        <tr id="abs_wang2022local" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <b>Abstract</b>: The sensitivity of Bayesian analysis is mainly influenced by data (or observations), sampling distribution, and prior parameters. Inappropriate prior specifications can lead to distorted findings for influential observations and uncertainty of the sampling model. This paper mainly focuses on providing a computationally efficient gradient search approach to analyze the prior sensitivity of nonparametric Bayesian models. For the nonparametric Bayesian model with a hierarchical scheme for the prior hyperparameters, it requires robustness, i.e., an apolitically ideal Bayesian model should be lower sensitive to its prior distribution. However, there exist some challenges due to its hierarchical schemes. One is the model complexity, the hierarchical framework has led to the development of increasingly intricate models. The other one is the uninterpretability, the parameters within deeper layers in the hierarchical model are challenging to interpret. Generally, there are two approaches to analyzing the sensitivity of Bayesian models: formal and informal. Formal approaches use considerable theoretical advances (e.g., geometric approach) but are rarely used in everyday practice due to their high-computational cost and absence of software implementation. Informal approaches repetitively rerun models with ad-hoc modified based on prior parameter values and checked the posterior densities. Usually, non-sensitivity and robustness are claimed if the posterior subjectively do not differ much. The sensitive analysis could be local or global. The global one usually applies a class of all priors compatible with the elicited prior information and computes the range of posteriors as prior varies over the class. The local one focuses on the rate of change in posterior density to the changes in the prior, which is usually easier to compute than global. </div></td>
         </tr>
-        <tr id="bib_cui2020traffic" class="bibtex noshow">
+        <tr id="bib_wang2022local" class="bibtex noshow">
           <td colspan="5"><b>BibTeX</b>:
-                <pre>@article{cui2020traffic,
-  title={Traffic Performance Score for Measuring the Impact of COVID-19 on Urban Mobility},
-  author={Cui, Zhiyong and Zhu, Meixin and Wang, Shuo and Wang, Pengfei and Zhou, Yang and Cao, Qianxia and Kopca, Cole and Wang, Yinhai},
-  journal={arXiv preprint arXiv:2007.00648},
-  year={2020}
-}</pre>
-      </td>
+                <pre>@inproceedings{wang2022local,
+                      title={Local Prior Sensitivity Analysis with Gradient Descent Search for Nonparametric Bayesian Learning},
+                      author={Wang, Wenshuo and Sun, Lijun},
+                      journal={The Montreal AI Symposium 2022},
+                      year={2022}
+                      }
+                </pre>
+        </td>
     </tr>
 		<tr id="cui2019graph" class="entry">
       		<td>
