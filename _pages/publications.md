@@ -410,7 +410,7 @@ author_profile: true
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
             	</p>
     		</td>
- 			<td>2021</td>
+ 			<td>2020</td>
         	<td>2020 IEEE Intelligent Vehicles Symposium (IV'20)</td>
         </tr>
         <tr id="abs_wang2021learning" class="abstract noshow">
@@ -428,41 +428,40 @@ author_profile: true
                 </pre>
 			    </td>
       	</tr>
-      	<tr id="cui2018deep" class="entry">
+      	<tr id="wang2020clustering" class="entry">
       		<td>
-				<img src="../images/research/cui2018deep.png" width="600" class="single_img">
-<!-- 				<div class="polaroid">
-				  <img src="../images/research/cui2018deep.png" width="600" class="research_img">
-				  <div class="container">
-				  Simplified OPTICS
-				  </div>
-				</div>
- -->			</td>
-       		<td><strong>Z. Cui</strong>, R. Ke, Y. Wang </td>
+				<img src="../images/research/wang2020clustering.png" width="600" class="single_img">
+    			</td>
+       		<td><strong>W. Wang</strong>, A. Ramesh, et al. </td>
 			<td>
-				Deep Bidirectional and Unidirectional LSTM Recurrent Neural Network for Network-wide Traffic Speed Prediction<br>
+				Clustering Driving Encounter Scenarios Using Connected Vehicle Trajectories<br>
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('cui2018deep','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('cui2018deep','bibtex')">BibTeX</a>] 
-              		[<a href="http://urbcomp.ist.psu.edu/2017/papers/Deep.pdf">PDF</a>]
-              		[<a href="https://arxiv.org/abs/1801.02143">arXiv</a>]
-              		[<a href="https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM">Code</a>]
+              		[<a href="javascript:toggleInfo('wang2020clustering','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2020clustering','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8995532">PDF</a>]
+              		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Stacked_Bidirectional_Unidirectional_LSTM">Code</a>] -->
             	</p>
     		</td>
- 			<td>2017</td>
-        	<td>KDD Workshop on Urban Computing</td>
+ 			<td>2020</td>
+        	<td>IEEE Transactions on Intelligent Vehicles</td>
         </tr>
-        <tr id="abs_cui2018deep" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Short-term traffic forecasting based on deep learning methods, especially long short-term memory (LSTM) neural networks, has received much attention in recent years. However, the potential of deep learning methods in traffic forecasting has not yet fully been exploited in terms of the depth of the model architecture, the spatial scale of the prediction area, and the predictive power of spatial-temporal data. In this paper, a deep stacked bidirectional and unidirectional LSTM (SBU-LSTM) neural network architecture is proposed, which considers both forward and backward dependencies in time series data, to predict network-wide traffic speed. A bidirectional LSTM (BDLSM) layer is exploited to capture spatial features and bidirectional temporal dependencies from historical data. To the best of our knowledge, this is the first time that BDLSTMs have been applied as building blocks for a deep architecture model to measure the backward dependency of traffic data for prediction. The proposed model can handle missing values in input data by using a masking mechanism. Further, this scalable model can predict traffic speed for both freeway and complex urban traffic networks. Comparisons with other classical and state-of-the-art models indicate that the proposed SBU-LSTM neural network achieves superior prediction performance for the whole traffic network in both accuracy and robustness.</div></td>
+        <tr id="abs_wang2020clustering" class="abstract noshow">
+        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Classification and analysis of driving behaviors offer in-depth knowledge to make an efficient decision for autonomous vehicles. This paper aims to cluster a wide range of driving encounter scenarios based only on multi-vehicle GPS trajectories. Towards this end, we propose a generic unsupervised learning framework comprising of two layers: feature representation layer and clustering layer. In the feature representation layer, we combine the deep autoencoders with a distance-based measure to map the sequential observations of driving encounters into a computationally tractable space, which quantifies the spatiotemporal interaction characteristics of two vehicles. The clustering algorithm is then applied to the extracted representations to cluster homogeneous driving encounters into groups. Our proposed generic framework is then evaluated using 2,568 naturalistic driving encounters. Experimental results show that our proposed generic framework incorporated with unsupervised learning can cluster multi-trajectory data into distinct groups. These clustering results could benefit the decision-making and design of autonomous vehicles</div></td>
       	</tr>
-      	<tr id="bib_cui2018deep" class="bibtex noshow">
+      	<tr id="bib_wang2020clustering" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@article{cui2018deep,
-  title={Deep bidirectional and unidirectional LSTM recurrent neural network for network-wide traffic speed prediction},
-  author={Cui, Zhiyong and Ke, Ruimin and Pu, Ziyuan and Wang, Yinhai},
-  journal={arXiv preprint arXiv:1801.02143},
-  year={2018}
-}</pre>
+              	<pre>@article{wang2020clustering,
+                      title={Clustering of driving encounter scenarios using connected vehicle trajectories},
+                      author={Wang, Wenshuo and Ramesh, Aditya and Zhu, Jiacheng and Li, Jie and Zhao, Ding},
+                      journal={IEEE Transactions on intelligent vehicles},
+                      volume={5},
+                      number={3},
+                      pages={485--496},
+                      year={2020},
+                      publisher={IEEE}
+                    }
+                </pre>
 			</td>
       	</tr>
       	<tr id="cui2016new" class="entry">
