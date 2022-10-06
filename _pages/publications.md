@@ -212,7 +212,7 @@ author_profile: true
 				Instance-Level Knowledge Transfer for Data-Driven Driver Model Adaptation With Homogeneous Domains<br>
               	<p class="infolinks"> 
               		[<a href="javascript:toggleInfo('wang2022instance','abstract')">Abstract</a>]
-              		<!-- [<a href="javascript:toggleInfo('cui2019graph','bibtex')">BibTeX</a>]  -->
+              		[<a href="javascript:toggleInfo('cui2019graph','bibtex')">BibTeX</a>] 
               		[<a href="https://ieeexplore.ieee.org/abstract/document/9745808">PDF</a>]
               		<!-- [<a href="https://arxiv.org/abs/1912.05457">arXiv</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
