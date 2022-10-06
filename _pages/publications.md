@@ -288,19 +288,19 @@ author_profile: true
 				  <img src="../images/research/wang2021leverage.png" width="600" class="research_img">
 				</div>
 			</td>
-       		<td><strong>Z. Cui</strong>, K. Henrickson, R. Ke, Y. Wang*</td>
+       		<td>S. Yang, <strong>W. Wang*</strong>, J. Xi</td>
 			<td>
-				Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting<br>
+				Leveraging Human Driving Preferences to Predict Vehicle Speed<br>
               	<p class="infolinks"> 
               		[<a href="javascript:toggleInfo('wang2021leverage','abstract')">Abstract</a>]
               		[<a href="javascript:toggleInfo('wang2021leverage','bibtex')">BibTeX</a>] 
-              		[<a href="https://ieeexplore.ieee.org/abstract/document/8917706">PDF</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/9511318">PDF</a>] 
               		<!-- [<a href="https://arxiv.org/abs/1802.07007">arXiv</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">Code</a>] -->
             	</p>
     		</td>
  			<td>2021</td>
-        	<td>IEEE Transportation on Intelligent Transportation Systems <br>(Presented at TRB 2019)</td>
+        	<td>IEEE Transportation on Intelligent Transportation Systems</td>
         </tr>
         <tr id="abs_wang2021leverage" class="abstract noshow">
         	<td colspan="5"><div align="justify"> <b>Abstract</b>: Accurate speed prediction is practically critical to eco-safe driving for intelligent vehicles. Existing research only makes vehicles adapt to the dynamic driving environment while rarely considering the influence of human driving preferences. This paper proposes a learning-based model to leverage human driving preferences into speed prediction. We first designed an Oriented Hidden Semi-Markov Model (Oriented-HSMM) to learn and predict the driver’s driving preference sequences while considering traffic flow influence. Then, we developed an optimal speed prediction algorithm to retrieve the smooth speed trajectories with maximal likelihood based on the estimated driving preferences. Finally, we evaluated the proposed model using the Next Generation Simulation (NGSIM) data compared to its counterparts that do not consider driving preferences. Experimental results demonstrate that our proposed Oriented-HSMM method reaches the best results and achieves a satisfying performance with a low mean absolute error (4.16 km/h) and root mean square error (5.08 km/h) at a 200 m prediction horizon.</div></td>
@@ -320,45 +320,40 @@ author_profile: true
                 </pre>
 			</td>
       	</tr>
-      	<tr id="cui2020establishing" class="entry">
-      		<td>
-				<img src="../images/research/cui2020establishing.png" width="600" class="single_img">
-				<!-- <div class="polaroid">
-				  <img src="../images/research/cui2020establishing.png" width="600" class="research_img">
-				  <div class="container">
-				  Simplified OPTICS
-				  </div>
-				</div> -->
+      	<tr id="wang2021spatio" class="entry">
+      <td>
+				<img src="../images/research/wang2021spatio.png" width="600" class="single_img">
 			</td>
-       		<td><strong>Z. Cui</strong>, K. Henrickson, S. Biancardo, Z. Pu, Y, Wang* </td>
+       		<td>C. Zhang, J. Zhu, <strong>W. Wang*</strong>, J. Xi </td>
 			<td>
-				Establishing a Multi-Source Data Integration Framework for Transportation Data Analytics<br>
+				Spatiotemporal Learning of Multivehicle Interaction Patterns in Lane-Change Scenarios<br>
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('cui2020establishing','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('cui2020establishing','bibtex')">BibTeX</a>] 
-              		[<a href="https://ascelibrary.org/doi/full/10.1061/JTEPBS.0000331?mi=3i1ciu">PDF</a>]
+              		[<a href="javascript:toggleInfo('wang2021spatio','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2021spatio','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/9357407">PDF</a>]
               		<!-- [<a href="https://arxiv.org/abs/1811.04745">arXiv</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
             	</p>
     		</td>
- 			<td>2019</td>
-        	<td>Journal of Transportation Engineering, Part A: Systems <br>(Presented at TRB 2019)</td>
+ 			<td>2021</td>
+        	<td> IEEE Transactions on Intelligent Transportation Systems </td>
         </tr>
-        <tr id="abs_cui2020establishing" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: In recent years, with the advancement in traffic sensing, data storage, and communication technologies, the availability and diversity of transportation data have increased substantially. When the volume and variety of traffic data increase dramatically, integrating multisource traffic data to conduct traffic analysis is becoming a challenging task. The heterogeneous spatiotemporal resolutions of traffic data and the lack of standard geospatial representations of multisource data are the main hurdles for solving the traffic data-integration problem. In this study, to overcome these challenges, a transportation data-integration framework based on a uniform geospatial roadway referencing layer is proposed. In the framework, on the basis of traffic sensors’ locations and sensing areas, transportation-related data are classified into four categories, including on-road segment-based data, off-road segment-based data, on-road point-based data, and off-road point-based data. Four data-integration solutions are proposed accordingly. An iterative map conflation algorithm as a core component of the framework is proposed for integrating the on-road segment-based data. The overall integration performance of the four types of data and the efficiency of the iterative map conflation algorithm in terms of percentage of integrated roadway segments and computation time are analyzed. To produce efficient transportation analytics, the proposed framework is implemented on an interactive data-driven transportation analytics platform. Based on the implemented framework, several case studies of real-world transportation data analytics are presented and discussed.</div></td>
+        <tr id="abs_wang2021spatio" class="abstract noshow">
+        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Interpretation of common-yet-challenging inter- action scenarios can benefit well-founded decisions for autonomous vehicles. Previous research achieved this using their prior knowledge of specific scenarios with predefined models, limiting their adaptive capabilities. This paper describes a Bayesian nonparametric approach that leverages continuous (i.e., Gaussian processes) and discrete (i.e., Dirichlet processes) stochastic processes to reveal underlying interaction patterns of the ego vehicle with other nearby vehicles. Our model relaxes dependency on the number of surrounding vehicles by developing an acceleration-sensitive velocity field based on Gaussian processes. The experiment results demonstrate that the velocity field can represent the spatial interactions between the ego vehicle and its surroundings. A discrete Bayesian nonparametric model, integrating Dirichlet processes and hidden Markov models, is developed to learn the interaction patterns over the temporal space by segmenting and clustering the sequential interaction data into interpretable granular patterns automatically. We then evaluate our approach in the highway discretionary lane-change scenarios using the highD dataset collected from real-world settings. Results demonstrate that our proposed Bayesian nonparametric approach provides an insight into the complicated discretionary lane-change interactions of the ego vehicle with multiple surrounding traffic participants based on the interpretable interaction patterns and their transition properties in temporal relationships. Our proposed approach sheds light on efficiently analyzing other kinds of multi-agent interactions, such as vehicle-pedestrian interactions.</div></td>
       	</tr>
-      	<tr id="bib_cui2020establishing" class="bibtex noshow">
+      	<tr id="bib_wang2021spatio" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@article{cui2020establishing,
-  title={Establishing Multisource Data-Integration Framework for Transportation Data Analytics},
-  author={Cui, Zhiyong and Henrickson, Kristian and Biancardo, Salvatore Antonio and Pu, Ziyuan and Wang, Yinhai},
-  journal={Journal of Transportation Engineering, Part A: Systems},
-  volume={146},
-  number={5},
-  pages={04020024},
-  year={2020},
-  publisher={American Society of Civil Engineers}
-}</pre>
+              	<pre>@article{zhang2021spatiotemporal,
+                    title={Spatiotemporal learning of multivehicle interaction patterns in lane-change scenarios},
+                    author={Zhang, Chengyuan and Zhu, Jiacheng and Wang, Wenshuo and Xi, Junqiang},
+                    journal={IEEE Transactions on Intelligent Transportation Systems},
+                    volume = {23},
+                    number = {7},
+                    pages = {6446--6459},
+                    year={2021},
+                    publisher={IEEE}
+                    }
+                </pre>
 			</td>
       	</tr>
       	<tr id="cui2019perspectives" class="entry">
