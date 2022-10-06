@@ -67,11 +67,11 @@ defaults:
 locale: en-US
 title_separator: "-"
 name: Wenshuo Wang
-description: PhD, UW Data Science Postdoctoral Fellow, Postdoc in Civil and Environmental
-  Engineering, University of Washington
-url: https://zhiyongc.github.io
+description: PhD, Beijing Institute of Technology, Postdoc in Civil
+  Engineering, McGill University
+url: https://wenshuowang.github.io/
 baseurl: ''
-repository: zhiyongc.github.io
+repository: wenshuowang.github.io
 teaser: Zhiyong.jpg
 breadcrumbs: false
 words_per_minute: 160
@@ -138,13 +138,13 @@ google_analytics_code: UA-132678836-1
 use_logo: true
 logo: "/assets/UW_square.png"
 author:
-  name: Zhiyong Cui
+  name: Wenshuo Wang
   avatar: Zhiyong.jpg
-  bio: "<p> PhD, Postdoc in CEE <br /> UW Data Science Postdoctoral Fellow <br />"
-  location: 
-  employer: University of Washington, Seattle
-  googlescholar: https://scholar.google.com/citations?user=jytR7oAAAAAJ&hl=en&oi=ao
-  email: zhiyongc@uw.edu
+  bio: "<p> PhD, Postdoc in Civil Engineering <br /> IVADO Postdoctoral Fellowship <br />"
+  location: Montreal
+  employer: McGill University, Canada
+  googlescholar: https://scholar.google.ca/citations?user=vQ1dKQwAAAAJ&hl=en
+  email: wenshuo.wang@mcgill.ca
   CV: 
   researchgate: 
   uri: 
@@ -154,7 +154,7 @@ author:
   flickr: 
   facebook: 
   foursquare: 
-  github: zhiyongc
+  github: wenshuowang
   google_plus: 
   keybase: 
   instagram: 
