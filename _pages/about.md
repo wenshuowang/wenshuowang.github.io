@@ -37,10 +37,8 @@ My research **interests** mainly focus on Cognitive Autonomy & Interactive Learn
 
 
 
-## Featured Research
 
-
-<dl>
+<!-- <dl>
   <dt> <strong>Instructor</strong></dt>
   <dd> - CEE 412/CET 522: Transportation Data Management and Visualization -- Winter 2021</dd>
   <dd> &nbsp;&nbsp;&nbsp;&nbsp; - 44 undergrads and grads; rating: 4.1/5.0 </dd>
@@ -51,7 +49,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Interactive Learn
   <dd> - Engineering Discovery Days, University of Washington -- Spring 2017, 2018, 2019</dd>
   <dt> <strong>Teach Assistant</strong></dt>
   <dd> - CEE 412 / CET 512: Transportation Data Management, UW, Winter 2019</dd>
-</dl>
+</dl> -->
 <!-- <ul>
   <li><a href="https://zhiyongcui.com/CEE412_CET522/">CEE 412/CET 522: Transportation Data Management and Visualization</a> -- Winter 2020 (Instructor)[<a href="https://zhiyongcui.com/CEE412_CET522/">Gallery</a>]</li>
 </ul>
