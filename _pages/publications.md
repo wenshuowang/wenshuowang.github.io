@@ -35,7 +35,7 @@ author_profile: true
         <div class="polaroid">
           <img src="../images/research/wang2022MAISgradient.png" width="600" class="research_img">
           <div class="container">
-          Socially Interactive Autonomous Driving
+          Local Prior Sensitivity Analysis
           </div>
         </div>
       </td>
