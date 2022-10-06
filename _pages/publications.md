@@ -84,7 +84,7 @@ author_profile: true
 			<td>
 				An Action-Induced Model through Active Inference with Variational Bounds and Optimization
         <br>
-				(<span style="color:darkred;">ASA TSIG Student Paper Award</span>) 
+				<!-- (<span style="color:darkred;">ASA TSIG Student Paper Award</span>)  -->
               	<p class="infolinks"> 
               		[<a href="javascript:toggleInfo('wang2022action','abstract')">Abstract</a>]
               		[<a href="javascript:toggleInfo('wang2022action','bibtex')">BibTeX</a>] 
