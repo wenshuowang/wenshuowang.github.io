@@ -150,50 +150,48 @@ author_profile: true
                 </pre>
       </td>
     </tr>
-    <tr id="cui2020learning" class="entry">
-          <td>
+    <tr id="wang2022cv" class="entry">
+      <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../images/research/cui2020learning.png" width="600" class="research_img">
-          <div class="container">
+          <img src="../images/research/wang2022cv.png" width="600" class="research_img">
+          <!-- <div class="container">
           Gated Graph Wavelet RNN
-          </div>
+          </div> -->
         </div>
       </td>
-          <td><strong>Z. Cui</strong>, R. Ke, Z. Pu, X. Ma, Y. Wang *</td>
+      <td>N. Ma, J. Fan, <strong>W. Wang</strong>, et al.</td>
       <td>
-        Learning Traffic as a Graph: A Gated Graph Wavelet Recurrent Neural Network for Network-scale Traffic Prediction<br>
+        Computer vision for road imaging and pothole detection: A state-of-the-art review of systems and algorithms<br>
         <!-- <span class="style_award">
           (Winner of Best Student Paper)
         </span> -->
                 <p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('cui2020learning','abstract')">Abstract</a>]
-                  [<a href="javascript:toggleInfo('cui2020learning','bibtex')">BibTeX</a>] 
-                  [<a href="https://www.sciencedirect.com/science/article/pii/S0968090X19306448">PDF</a>]
+                  [<a href="javascript:toggleInfo('wang2022cv','abstract')">Abstract</a>]
+                  [<a href="javascript:toggleInfo('wang2022cv','bibtex')">BibTeX</a>] 
+                  [<a href="https://arxiv.org/abs/2204.13590">PDF</a>]
                   <!-- [<a href="https://arxiv.org/abs/1802.07007">arXiv</a>] -->
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
               </p>
-        </td>
-      <td>2020</td>
-          <td>Transportation Research Part C: Emerging Technologies</td>
-        </tr>
-        <tr id="abs_cui2020learning" class="abstract noshow">
-          <td colspan="5"><div align="justify"> <b>Abstract</b>: TNetwork-wide traffic forecasting is a critical component of modern intelligent transportation systems for urban traffic management and control. With the rise of artificial intelligence, many recent studies attempted to use deep neural networks to extract comprehensive features from traffic networks to enhance prediction performance, given the volume and variety of traffic data has been greatly increased. Considering that traffic status on a road segment is highly influenced by the upstream/downstream segments and nearby bottlenecks in the traffic network, extracting well-localized features from these neighboring segments is essential for a traffic prediction model. Although the convolution neural network or graph convolution neural network has been adopted to learn localized features from the complex geometric or topological structure of traffic networks, the lack of flexibility in the local-feature extraction process is still a big issue. Classical wavelet transform can detect sudden changes and peaks in temporal signals. Analogously, when extending to the graph/spectral domain, graph wavelet can concentrate more on key vertices in the graph and discriminatively extract localized features. In this study, to capture the complex spatial-temporal dependencies in network-wide traffic data, we learn the traffic network as a graph and propose a graph wavelet gated recurrent (GWGR) neural network. The graph wavelet is incorporated as a key component for extracting spatial features in the proposed model. A gated recurrent structure is employed to learn temporal dependencies in the sequence data. Comparing to baseline models, the proposed model can achieve state-of-the-art prediction performance and training efficiency on two real-world datasets. In addition, experiments show that the sparsity of graph wavelet weight matrices greatly increases the interpretability of GWGR.</div></td>
-        </tr>
-        <tr id="bib_cui2020learning" class="bibtex noshow">
-          <td colspan="5"><b>BibTeX</b>:
-                <pre>@article{cui2020learning,
-title={Learning traffic as a graph: A gated graph wavelet recurrent neural network for network-scale traffic prediction},
-author={Cui, Zhiyong and Ke, Ruimin and Pu, Ziyuan and Ma, Xiaolei and Wang, Yinhai},
-journal={Transportation Research Part C: Emerging Technologies},
-volume={115},
-pages={102620},
-year={2020},
-publisher={Elsevier}
-}</pre>
       </td>
-    </tr>
-  	<tr id="bib_cui2019graph" class="bibtex noshow">
+      <td>2020</td>
+      <td>Transportation Safety and Environment</td>
+      </tr>
+        <tr id="abs_wang2022cv" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <b>Abstract</b>: Computer vision algorithms have been prevalently utilized for 3-D road imaging and pothole detection for over two decades. Nonetheless, there is a lack of systematic survey articles on state-of-the-art (SoTA) computer vision techniques, especially deep learning models, developed to tackle these problems. This article first introduces the sensing systems employed for 2-D and 3-D road data acquisition, including camera(s), laser scanners, and Microsoft Kinect. Afterward, it thoroughly and comprehensively reviews the SoTA computer vision algorithms, including (1) classical 2-D image processing, (2) 3-D point cloud modeling and segmentation, and (3) machine/deep learning, developed for road pothole detection. This article also discusses the existing challenges and future development trends of computer vision-based road pothole detection approaches: classical 2-D image processing-based and 3-D point cloud modeling and segmentation-based approaches have already become history; and Convolutional neural networks (CNNs) have demonstrated compelling road pothole detection results and are promising to break the bottleneck with the future advances in self/un-supervised learning for multi-modal semantic segmentation. We believe that this survey can serve as practical guidance for developing the next-generation road condition assessment systems.</div></td>
+        </tr>
+        <tr id="bib_wang2022cv" class="bibtex noshow">
+          <td colspan="5"><b>BibTeX</b>:
+                <pre>@article{ma2022computer,
+                      title={Computer vision for road imaging and pothole detection: A state-of-the-art review of systems and algorithms},
+                      author={Ma, Nachuan and Fan, Jiahe and Wang, Wenshuo and Wu, Jin and Jiang, Yu and Xie, Lihua and Fan, Rui},
+                      journal={arXiv preprint arXiv:2204.13590},
+                      year={2022}
+                    }
+                </pre>
+            </td>
+        </tr>
+  	<!-- <tr id="bib_cui2019graph" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
               	<pre>@article{cui2019graph,
   title={Graph Markov Network for Traffic Forecasting with Missing Data},
@@ -202,7 +200,7 @@ publisher={Elsevier}
   year={2019}
 }</pre>
 			</td>
-      	</tr>
+      	</tr> -->
       	<tr id="ainet" class="entry">
       		<td>
 				<!-- <img src="../images/research/ainet.png" width="600" class="single_img"> -->
