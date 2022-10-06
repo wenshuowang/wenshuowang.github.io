@@ -34,9 +34,9 @@ author_profile: true
           <td>
         <div class="polaroid">
           <img src="../images/research/wang2022local.png" width="600" class="research_img">
-          <div class="container">
+          <!-- <div class="container">
           Local Prior Sensitivity
-          </div>
+          </div> -->
         </div>
       </td>
           <td><strong>W. Wang</strong>, L. Sun*</td>
@@ -112,13 +112,13 @@ author_profile: true
                   </pre>
       </td>
     </tr>
-    <tr id="lstm_i" class="entry">
+    <tr id="wang2022social" class="entry">
           <td>
         <!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
         <div class="polaroid">
-          <img src="../images/research/lstm_i.png" width="600" class="research_img">
+          <img src="../images/research/wang2022social.png" width="600" class="research_img">
           <div class="container">
-          LSTM-Imputation
+          Social Interaction
           </div>
         </div>
       </td>
