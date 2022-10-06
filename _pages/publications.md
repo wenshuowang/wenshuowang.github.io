@@ -35,7 +35,7 @@ author_profile: true
         <div class="polaroid">
           <img src="../images/research/wang2022local.png" width="600" class="research_img">
           <div class="container">
-          Local Prior Sensitivity Analysis
+          Local Prior Sensitivity
           </div>
         </div>
       </td>
@@ -64,53 +64,52 @@ author_profile: true
                 <pre>@inproceedings{wang2022local,
                       title={Local Prior Sensitivity Analysis with Gradient Descent Search for Nonparametric Bayesian Learning},
                       author={Wang, Wenshuo and Sun, Lijun},
-                      journal={The Montreal AI Symposium 2022},
+                      booktitle={The Montreal AI Symposium 2022},
                       year={2022}
                       }
                 </pre>
         </td>
     </tr>
-		<tr id="cui2019graph" class="entry">
+		<tr id="wang2022action" class="entry">
       		<td>
 				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
 				<div class="polaroid">
-				  <img src="../images/research/cui2019graph.png" width="600" class="research_img">
+				  <img src="../images/research/wang2022action.png" width="600" class="research_img">
 				  <div class="container">
-				  Graph Markov Network
+				  Active Inference and Optimization
 				  </div>
 				</div>
 			</td>
-       		<td><strong>Z. Cui</strong>, L. Lin, Z. Pu, Y. Wang*</td>
+       		<td><strong>W. Wang</strong>, C. Zhang, L. Sun*</td>
 			<td>
-				Graph Markov Network for Traffic Forecasting with Missing Data<br>
+				An Action-Induced Model through Active Inference with Variational Bounds and Optimization
+        <br>
 				(<span style="color:darkred;">ASA TSIG Student Paper Award</span>) 
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('cui2020graph','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('cui2020graph','bibtex')">BibTeX</a>] 
+              		[<a href="javascript:toggleInfo('wang2022action','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2022action','bibtex')">BibTeX</a>] 
               		<!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
-              		[<a href="https://arxiv.org/abs/1912.05457">arXiv</a>]
+              		<!-- [<a href="https://arxiv.org/abs/1912.05457">arXiv</a>]
                   [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>]
-                  [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>]
+                  [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
             	</p>
     		</td>
- 			<td>2020</td>
-        	<td>Transportation Research Part C: Emerging Technologies</td>
+ 			<td>2022</td>
+        	<td>The Montreal AI Symposium 2022</td>
         </tr>
         <tr id="abs_cui2020graph" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Traffic forecasting is a classical task for traffic management and it plays an important role in intelligent transportation systems. However, since traffic data are mostly collected by traffic sensors or probe vehicles, sensor failures and the lack of probe vehicles will inevitably result in missing values in the collected raw data for some specific links in the traffic network. Although missing values can be imputed, existing data imputation methods normally need long-term historical traffic state data. As for short-term traffic forecasting, especially under edge computing and online prediction scenarios, traffic forecasting models with the capability of handling missing values are needed. In this study, we consider the traffic network as a graph and define the transition between network-wide traffic states at consecutive time steps as a graph Markov process. In this way, missing traffic states can be inferred step by step and the spatial-temporal relationships among the roadway links can be Incorporated. Based on the graph Markov process, we propose a new neural network architecture for spatial-temporal data forecasting, i.e. the graph Markov network (GMN). By incorporating the spectral graph convolution operation, we also propose a spectral graph Markov network (SGMN). The proposed models are compared with baseline models and tested on three real-world traffic state datasets with various missing rates. Experimental results show that the proposed GMN and SGMN can achieve superior prediction performance in terms of both accuracy and efficiency. Besides, the proposed models' parameters, weights, and predicted results are comprehensively analyzed and visualized.</div></td>
+        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Modeling the action-reaction mechanism of human agents in interactive scenarios such as human drivers in real traffic is challenging. Rational human agents usually negotiate with others by actively perceiving information about the world via proactively taking specific actions that influence the world. For instance, in real traffic, human drivers make tentative attempts before decisively switching lanes as a way to signify their intention of lane switch and tease out the intentions of other vehicles in the adjoining lanes. However, it is still unclear (i) why a tentative behavior is efficient and matters in human interactions and (ii) how it could be modeled in an interpretable learning framework. This paper provides a new framework for modeling the process of generating actions by humans in interactive scenarios using active inference with the free energy theory. The hypothesis is that humans execute tentative behaviors to reduce the sensory uncertainties arising from people's quantity of possible outcomes, enabling them to make efficient decisions. We show a proof of concept that the process by that humans take tentative actions in interaction can be viewed as an optimization problem over variational bounds.  </div></td>
       	</tr>
-        <tr id="bib_cui2020graph" class="bibtex noshow">
+        <tr id="bib_wang2022action" class="bibtex noshow">
           <td colspan="5"><b>BibTeX</b>:
-                <pre>@article{cui2020graph,
-  title={Graph markov network for traffic forecasting with missing data},
-  author={Cui, Zhiyong and Lin, Longfei and Pu, Ziyuan and Wang, Yinhai},
-  journal={Transportation Research Part C: Emerging Technologies},
-  volume={117},
-  pages={102671},
-  year={2020},
-  publisher={Elsevier}
-}</pre>
+                <pre>@inproceedings{wang2022action,
+                      title={An Action-Induced Model through Active Inference with Variational Bounds and Optimization},
+                      author={Wang, Wenshuo and Zhang, Chengyuan and Sun, Lijun},
+                      booktitle={The Montreal AI Symposium 2022},
+                      year={2022}
+                    }
+                  </pre>
       </td>
     </tr>
     <tr id="lstm_i" class="entry">
