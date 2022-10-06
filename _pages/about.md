@@ -1,5 +1,5 @@
 ---
-title: Zhiyong Cui
+title: Wenshuo Wang
 permalink: "/"
 excerpt: About me
 author_profile: true
@@ -9,7 +9,7 @@ redirect_from:
 - "/about.html"
 ---
 
-I am a **Postdoctoral Research Associate** in the Department of Civil & Environmental Engineering at the [University of Washington](https://www.washington.edu/) advised by Prof. [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). I'm also a **UW Data Science Postdoctoral Fellow** at the [eScience Institute](https://escience.washington.edu/). I received my Master degree in Software Engineering from [Peking University](http://english.pku.edu.cn/) and my Bachelor degree in Software Engineering from [Beihang University](https://ev.buaa.edu.cn/). I was a visiting master student in the College of Electrical Engineering and Computer Science at [National Taiwan University](http://www.ntu.edu.tw/english/) advised by Prof. [Hsin-Mu (Michael) Tsai](https://www.csie.ntu.edu.tw/~hsinmu/wiki/). 
+I am a **Postdoctoral Research Fellow** in the Department of Civil Engineering at the [University of Washington](https://www.washington.edu/) advised by Prof. [Yinhai Wang](https://www.ce.washington.edu/facultyfinder/yinhai-wang). I'm also a **UW Data Science Postdoctoral Fellow** at the [eScience Institute](https://escience.washington.edu/). I received my Master degree in Software Engineering from [Peking University](http://english.pku.edu.cn/) and my Bachelor degree in Software Engineering from [Beihang University](https://ev.buaa.edu.cn/). I was a visiting master student in the College of Electrical Engineering and Computer Science at [National Taiwan University](http://www.ntu.edu.tw/english/) advised by Prof. [Hsin-Mu (Michael) Tsai](https://www.csie.ntu.edu.tw/~hsinmu/wiki/). 
 
 For urban systems to be smart and intelligent, they must be able to understand evolving urban patterns, reason about the future, and optimize the operation --  how should we leverage, devise, and interpret models that learn urban patterns from real-world data and adapt our current urban systems to the future? Towards this question and others, I work on machine learning, artificial intelligence, and optimization with a focus on mobility modeling, urban computing, and intelligent transportation systems. I'm specifically interested in building data-driven models that reflect the real world to inform forecasting and control tasks. My work touches on a range of problems including urban/transportation data integration/imputation/prediction, human mobility modeling, and traffic control in connected autonomous vehicle environments.
 
