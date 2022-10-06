@@ -239,46 +239,47 @@ author_profile: true
                 </pre>
           </td>
       	</tr>
-		<tr id="ma2020forecasting" class="entry">
+		<tr id="wang2021social" class="entry">
       		<td>
 				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
 				<div class="polaroid">
-				  <img src="../images/research/ma2020forecasting.png" width="600" class="research_img">
-				  <div class="container">
-				  CapsNet Nested LSTM
-				  </div>
+				  <img src="../images/research/wang2021social.png" width="600" class="research_img">
 				</div>
 			</td>
-       		<td>X. Ma, H. Zhong, Y. Li, J. Ma, <strong>Z. Cui*</strong>, Y. Wang</td>
+       		<td>H. Wang, <strong>W. Wang*</strong>, S. Yuan, X. Li, L. Sun</td>
 			<td>
-				Forecasting Transportation Network Speed Using Deep Capsule Networks with Nested LSTM Models<br>
+				On Social Interactions of Merging Behaviors at Highway On-Ramps in Congested Traffic<br>
 				<!-- <span class="style_award">
 					(Winner of Best Student Paper)
 				</span> -->
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('ma2020forecasting','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('ma2020forecasting','bibtex')">BibTeX</a>] 
-              		[<a href="https://ieeexplore.ieee.org/abstract/document/9069477">PDF</a>]
-              		[<a href="https://arxiv.org/abs/1811.04745">arXiv</a>]
+              		[<a href="javascript:toggleInfo('wang2021social','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2021social','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/9511791">PDF</a>]
+              		<!-- [<a href="https://arxiv.org/abs/1811.04745">arXiv</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
             	</p>
     		</td>
- 			<td>2020</td>
+ 			<td>2021</td>
         	<td>IEEE Transportation on Intelligent Transportation Systems</td>
         </tr>
         <tr id="abs_ma2020forecasting" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Accurate and reliable traffic forecasting for complicated transportation networks is of vital importance to modern transportation management. The complicated spatial dependencies of roadway links and the dynamic temporal patterns of traffic states make it particularly challenging. To address these challenges, we propose a new capsule network (CapsNet) to extract the spatial features of traffic networks and utilize a nested LSTM (NLSTM) structure to capture the hierarchical temporal dependencies in traffic sequence data. A framework for network-level traffic forecasting is also proposed by sequentially connecting CapsNet and NLSTM. On the basis of literature review, our study is the first to adopt CapsNet and NLSTM in the field of traffic forecasting. An experiment on a Beijing transportation network with 278 links shows that the proposed framework with the capability of capturing complicated spatiotemporal traffic patterns outperforms multiple state-of-the-art traffic forecasting baseline models. The superiority and feasibility of CapsNet and NLSTM are also demonstrated, respectively, by visualizing and quantitatively evaluating the experimental results.</div></td>
+        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Merging at highway on-ramps while interacting with other human-driven vehicles is challenging for autonomous vehicles (AVs). An efficient route to this challenge requires exploring and exploiting knowledge of the interaction process from demonstrations by humans. However, it is unclear what information (or environmental states) is utilized by the human driver to guide their behavior throughout the whole merging process. This paper provides quantitative analysis and evaluation of the merging behavior at highway on-ramps with congested traffic in a volume of time and space. Two types of social interaction scenarios are considered based on the social preferences of surrounding vehicles: courteous and rude. The significant levels of environmental states for characterizing the interactive merging process are empirically analyzed based on the real-world INTERACTION dataset. Experimental results reveal two fundamental mechanisms in the merging process: 1) Human drivers select different states to make sequential decisions at different moments of task execution; and 2) the social preference of surrounding vehicles can impact variable selection for making decisions. It implies that efficient decision-making design should filter out irrelevant information while considering social preference to achieve comparable human-level performance. These essential findings shed light on developing new decision-making approaches for AVs.</div></td>
       	</tr>
-      	<tr id="bib_ma2020forecasting" class="bibtex noshow">
+      	<tr id="bib_wang2021social" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@article{ma2020forecasting,
-	title={Forecasting transportation network speed using deep capsule networks with nested lstm models},
-	author={Ma, Xiaolei and Zhong, Houyue and Li, Yi and Ma, Junyan and Cui, Zhiyong and Wang, Yinhai},
-	journal={IEEE Transactions on Intelligent Transportation Systems},
-	year={2020},
-	publisher={IEEE}
-}</pre>
-			</td>
+              	<pre>@article{wang2021social,
+                    title={On social interactions of merging behaviors at highway on-ramps in congested traffic},
+                    author={Wang, Huanjie and Wang, Wenshuo and Yuan, Shihua and Li, Xueyuan and Sun, Lijun},
+                    journal={IEEE Transactions on Intelligent Transportation Systems},
+                    volume = {23},
+                    number = {8},
+                    pages = {11237--11248},
+                    year={2021},
+                    publisher={IEEE}
+                  }
+                </pre>
+			    </td>
       	</tr>
       	<tr id="cui2019traffic" class="entry">
       		<td>
