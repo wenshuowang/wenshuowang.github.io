@@ -503,45 +503,42 @@ author_profile: true
                 </pre>
 		      </td>
       	</tr>
-      	<tr id="cui2015vision" class="entry">
+      	<tr id="wang2020decision" class="entry">
       		<td>
-				<img src="../images/research/cui2015vision.gif" width="600" class="single_img">
-				<!-- <div class="polaroid">
-				  <img src="../images/research/cui2015vision.gif" width="600" class="research_img">
-				  <div class="container">
-				  Rear Light Recognition
-				  </div>
-				</div> -->
+				<img src="../images/research/wang2020decision.png" width="600" class="single_img">
 			</td>
-       		<td><strong>Z. Cui</strong>, S. Yang, H. Tsai</td>
+       		<td><strong>W. Wang</strong>, et al.</td>
 			<td>
-				A vision-based hierarchical framework for autonomous front-vehicle taillights detection and signal recognition<br>
+				Decision-making in driver-automation shared control: A review and perspectives<br>
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('cui2015vision','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('cui2015vision','bibtex')">BibTeX</a>] 
-              		[<a href="https://ieeexplore.ieee.org/abstract/document/7313248">PDF</a>]
-              		[<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>]
+              		[<a href="javascript:toggleInfo('wang2020decision','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2020decision','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/9146977">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
               		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
-              		[<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a>]
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a>] -->
             	</p>
     		</td>
- 			<td>2015</td>
-        	<td>IEEE International Conference on Intelligent Transportation Systems (ITSC)</td>
+ 			<td>2020</td>
+        	<td>IEEE/CAA Journal of Automatica Sinica</td>
         </tr>
-        <tr id="abs_cui2015vision" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Automatically recognizing rear light signals of front vehicles can significantly improve driving safety by automatic alarm and taking actions proactively to prevent rear-end collisions and accidents. Much previous research only focuses on detecting brake signals at night. In this paper, we present the design and implementation of a robust hierarchical framework for detecting taillights of vehicles and estimating alert signals (turning and braking) in the daytime. The three-layer structure of the vision-based framework can obviously reduce both false positives and false negatives of taillight detection. Comparing to other existing work addressing nighttime detection, the proposed method is capable of recognizing taillight signals under different illumination circumstances. By carrying out contrast experiments with existing state-of-the-art methods, the results show the high detection rate of the framework in different weather conditions during the daytime.</div></td>
+        <tr id="abs_wang2020decision" class="abstract noshow">
+        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Shared control schemes allow a human driver to work with an automated driving agent in driver-vehicle systems while retaining the driverʼ s abilities to control. The human driver, as an essential agent in the driver-vehicle shared control systems, should be precisely modeled regarding their cognitive processes, control strategies, and decision-making processes. The interactive strategy design between drivers and automated driving agents brings an excellent challenge for human-centric driver assistance systems due to the inherent characteristics of humans. Many open-ended questions arise, such as what proper role of human drivers should act in a shared control scheme? How to make an intelligent decision capable of balancing the benefits of agents in shared control systems? Due to the advent of these attentions and questions, it is desirable to present a survey on the decision making between human drivers and highly automated vehicles, to understand their architectures, human driver modeling, and interaction strategies under the driver-vehicle shared schemes. Finally, we give a further discussion on the key future challenges and opportunities. They are likely to shape new potential research directions.</div></td>
       	</tr>
-      	<tr id="bib_cui2015vision" class="bibtex noshow">
+      	<tr id="bib_wang2020decision" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@inproceedings{cui2015vision,
-  title={A vision-based hierarchical framework for autonomous front-vehicle taillights detection and signal recognition},
-  author={Cui, Zhiyong and Yang, Shao-Wen and Tsai, Hsin-Mu},
-  booktitle={2015 IEEE 18th International Conference on Intelligent Transportation Systems},
-  pages={931--937},
-  year={2015},
-  organization={IEEE}
-}</pre>
-			</td>
+              	<pre>@article{wang2020decision,
+                      title={Decision-making in driver-automation shared control: A review and perspectives},
+                      author={Wang, Wenshuo and Na, Xiaoxiang and Cao, Dongpu and Gong, Jianwei and Xi, Junqiang and Xing, Yang and Wang, Fei-Yue},
+                      journal={IEEE/CAA Journal of Automatica Sinica},
+                      volume={7},
+                      number={5},
+                      pages={1289--1307},
+                      year={2020},
+                      publisher={IEEE}
+                    }
+                </pre>
+			    </td>
       	</tr>
       	<tr id="cui2014characterizing" class="entry">
       		<td>
