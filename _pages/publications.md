@@ -201,46 +201,44 @@ author_profile: true
 }</pre>
 			</td>
       	</tr> -->
-      	<tr id="ainet" class="entry">
+      	<tr id="wang2022instance" class="entry">
       		<td>
-				<!-- <img src="../images/research/ainet.png" width="600" class="single_img"> -->
 				<div class="polaroid">
-				  <img src="../images/research/ainet.png" width="600" class="research_img">
-				  <div class="container">
-				  Transportation AI Platform
-				  </div>
+				  <img src="../images/research/wang2022instance.png" width="600" class="research_img">
 				</div>
 			</td>
-       		<td><strong>Z. Cui</strong>, M. Fu, M. Zhu, X. Ban, Y. Wang* </td>
+       		<td>C. Lu, C. Lv, <strong>W. Wang</strong>, et al. </td>
 			<td>
-				An Artificial Intelligence Platform for Network-Wide Congestion Detection and Prediction using Multi-Source Data<br>
+				Instance-Level Knowledge Transfer for Data-Driven Driver Model Adaptation With Homogeneous Domains<br>
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('ainet','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2022instance','abstract')">Abstract</a>]
               		<!-- [<a href="javascript:toggleInfo('cui2019graph','bibtex')">BibTeX</a>]  -->
-              		<!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/9745808">PDF</a>]
               		<!-- [<a href="https://arxiv.org/abs/1912.05457">arXiv</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
-              		[<a href="https://zhiyongcui.com/TRAFFIX_Web/">Website</a>]
-              		[<a href="http://c2smart.engineering.nyu.edu/2019/04/19/an-artificial-intelligence-platform-for-network-wide-congestion-detection-and-prediction-using-multi-source-data-2/">Project</a>]
-              		[<a href="http://c2smart.engineering.nyu.edu/wp-content/uploads/2019/07/Transportation_AI%20Platform_FinalReport_C2SMART_Wang.pdf">Report</a>]
+              		<!-- [<a href="https://zhiyongcui.com/TRAFFIX_Web/">Website</a>] -->
+              		<!-- [<a href="http://c2smart.engineering.nyu.edu/2019/04/19/an-artificial-intelligence-platform-for-network-wide-congestion-detection-and-prediction-using-multi-source-data-2/">Project</a>] -->
+              		<!-- [<a href="http://c2smart.engineering.nyu.edu/wp-content/uploads/2019/07/Transportation_AI%20Platform_FinalReport_C2SMART_Wang.pdf">Report</a>] -->
             	</p>
     		</td>
- 			<td>2020</td>
-        	<td>Under Review <br>(Presented at TRB 2020) </td>
+ 			<td>2022</td>
+        	<td>IEEE Transactions on Intelligent Transportation Systems </td>
         </tr>
-        <tr id="abs_ainet" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: The advancement of new smart traffic sensing, mobile communication, and artificial intelligence technologies has greatly stimulated the growth of transportation data. The increase of computation power enabled by advanced hardware and the rise of artificial intelligence (AI) technologies provides great opportunities to comprehensively utilize the transportation big data. Transportation domain knowledge is beneficial for designing AI models and solving transportation problems. However, because most AI algorithms were not originally designed for transportation problems, using big data and AI technologies to solve transportation problems is facing challenges. Since key hyper-parameters are missed in some proposed AI models, many proposed AI-based methods can hardly be accurately re-implemented. Further, in most of the AI-based transportation research studies, there is no uniform dataset to evaluate the proposed models. In this study, to overcome the challenges mentioned earlier, we propose a transportation AI platform with widely accepted datasets, provide well-established models, and use uniform training and testing procedures to assist the evaluation of emerging novel methodologies. We design a novel architecture for platform to enhance the efficiency of the transportation data processing, management, and communication and increase the computational power of the platform. Traffic forecasting involving high-dimensional spatiotemporal data is a good applicable scenario to utilize novel deep learning models to solve complicated transportation problems. The developed transportation AI platform is capable of evaluating the traffic prediction performance of various implemented models by comparing and visualizing the prediction results tested on multiple real-world network-wide traffic state data sets.</div></td>
+        <tr id="abs_wang2022instance" class="abstract noshow">
+        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Driver model adaptation (DMA) plays an essential role for driving behaviour modelling when there is a lack of sufficient data for training the new model. A new data-driven DMA method is proposed in this paper to realise the instance-level knowledge transfer between individual drivers. Using the importance-weighted transfer learning (IWTL), the data collected from one driver (source driver) can be directly used to train the model of another driver (target driver). Under the framework of IWTL, the relationship between two different drivers can be modelled by the importance weight (IW). Two estimation methods Kullback-Leibler (KL) Divergence and least-squares (LS), are used to estimate IW for each data instance by modelling the importance-weight function as a radial basis function (RBF). Experiments based on the driving simulator and real vehicle are carried out to test the performance of TL for steering behaviour adaptation during the overtaking manoeuvre. The experimental results show that the TL method can transfer the knowledge observed from one driver to another when training the new driver model without sufficient data by keeping the modelling error at a low level.</div></td>
       	</tr>
-      	<!-- <tr id="bib_ainet" class="bibtex noshow">
+      	<tr id="bib_wang2022instance" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@article{cui2019graph,
-  title={Graph Markov Network for Traffic Forecasting with Missing Data},
-  author={Cui, Zhiyong and Lin, Longfei and Pu, Ziyuan and Wang, Yinhai},
-  journal={arXiv preprint arXiv:1912.05457},
-  year={2019}
-}</pre>
-			</td>
-      	</tr> -->
+              	<pre>@article{lu2022instance,
+                    title={Instance-Level Knowledge Transfer for Data-Driven Driver Model Adaptation With Homogeneous Domains},
+                    author={Lu, Chao and Lv, Chen and Gong, Jianwei and Wang, Wenshuo and Cao, Dongpu and Wang, Fei-Yue},
+                    journal={IEEE Transactions on Intelligent Transportation Systems},
+                    year={2022},
+                    publisher={IEEE}
+                  }
+                </pre>
+          </td>
+      	</tr>
 		<tr id="ma2020forecasting" class="entry">
       		<td>
 				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
