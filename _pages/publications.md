@@ -16,7 +16,7 @@ author_profile: true
 -->
 
 ### Dissertation
-- **Cui Z**. (2021) Deep Learning for Short-term Network-wide Road Traffic Forecasting. *Ph.D., Civil Engineering, Unversity of Washington* \[[summary](/files/dissertation_summary.pdf)\] \[[url](http://hdl.handle.net/1773/47035)\]
+- **W. Wang**. (2018) Adaptive Control of Advanced Driver Assistance Systems. *Ph.D., Mechanical Engineering, Beijing Institute of Technology*
 
 
 <table style="width:100%">
