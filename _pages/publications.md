@@ -30,10 +30,10 @@ author_profile: true
 		</tr>
     </thead>
 	<tbody>
-    <tr id="cui2020traffic" class="entry">
+    <tr id="wang2022gradient" class="entry">
           <td>
         <div class="polaroid">
-          <img src="../images/research/wang2022MAISgradient.png" width="600" class="research_img">
+          <img src="../images/research/wang2022gradient.png" width="600" class="research_img">
           <div class="container">
           Local Prior Sensitivity Analysis
           </div>
@@ -53,10 +53,10 @@ author_profile: true
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
               </p>
         </td>
-      <td>2021</td>
-          <td>TRB Annual Meeting 2021</td>
+      <td>2022</td>
+          <td>The Montreal AI Symposium 2022</td>
         </tr>
-        <tr id="abs_cui2020traffic" class="abstract noshow">
+        <tr id="abs_wang2022gradient" class="abstract noshow">
           <td colspan="5"><div align="justify"> <b>Abstract</b>: Measuring traffic performance is critical for public agencies who manage traffic and individuals who plan trips, especially when special events happen. The COVID-19 pandemic has significantly influenced almost every aspect of daily life, including urban traffic patterns. Thus, it is important to measure the impact of COVID-19 on transportation to further guide agencies and residents to properly respond to changes in traffic patterns. However, most existing traffic performance metrics incorporate only a single traffic parameter and measure only the performance of individual corridors. To overcome these challenges, in this study, a Traffic Performance Score (TPS) is proposed that incorporates multiple parameters for measuring network-wide traffic performance. An interactive web-based TPS platform that provides real-time and historical spatial-temporal traffic performance analysis is developed by the STAR Lab at the University of Washington. Based on data from this platform, this study analyzes the impact of COVID-19 on different road segments and the traffic network as a whole. Considering this pandemic has greatly reshaped social and economic operations, this study also evaluates how COVID-19 is changing the urban mobility from both travel demand and driving behavior perspectives.</div></td>
         </tr>
         <tr id="bib_cui2020traffic" class="bibtex noshow">
