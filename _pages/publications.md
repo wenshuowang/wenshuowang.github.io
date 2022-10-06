@@ -281,42 +281,43 @@ author_profile: true
                 </pre>
 			    </td>
       	</tr>
-      	<tr id="cui2019traffic" class="entry">
+      	<tr id="wang2021leverage" class="entry">
       		<td>
 				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
 				<div class="polaroid">
-				  <img src="../images/research/cui2019traffic.png" width="600" class="research_img">
-				  <div class="container">
-				  Traffic Graph Conv LSTM
-				  </div>
+				  <img src="../images/research/wang2021leverage.png" width="600" class="research_img">
 				</div>
 			</td>
        		<td><strong>Z. Cui</strong>, K. Henrickson, R. Ke, Y. Wang*</td>
 			<td>
 				Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting<br>
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('cui2019traffic','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('cui2019traffic','bibtex')">BibTeX</a>] 
+              		[<a href="javascript:toggleInfo('wang2021leverage','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2021leverage','bibtex')">BibTeX</a>] 
               		[<a href="https://ieeexplore.ieee.org/abstract/document/8917706">PDF</a>] 
-              		[<a href="https://arxiv.org/abs/1802.07007">arXiv</a>]
-              		[<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">Code</a>]
+              		<!-- [<a href="https://arxiv.org/abs/1802.07007">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">Code</a>] -->
             	</p>
     		</td>
- 			<td>2019</td>
+ 			<td>2021</td>
         	<td>IEEE Transportation on Intelligent Transportation Systems <br>(Presented at TRB 2019)</td>
         </tr>
-        <tr id="abs_cui2019traffic" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Traffic forecasting is a particularly challenging application of spatiotemporal forecasting, due to the time-varying traffic patterns and the complicated spatial dependencies on road networks. To address this challenge, we learn the traffic network as a graph and propose a novel deep learning framework, Traffic Graph Convolutional Long Short-Term Memory Neural Network (TGC-LSTM), to learn the interactions between roadways in the traffic network and forecast the network-wide traffic state. We define the traffic graph convolution based on the physical network topology. The relationship between the proposed traffic graph convolution and the spectral graph convolution is also discussed. An L1-norm on graph convolution weights and an L2-norm on graph convolution features are added to the model's loss function to enhance the interpretability of the proposed model. Experimental results show that the proposed model outperforms baseline methods on two real-world traffic state datasets. The visualization of the graph convolution weights indicates that the proposed framework can recognize the most influential road segments in real-world traffic networks.</div></td>
+        <tr id="abs_wang2021leverage" class="abstract noshow">
+        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Accurate speed prediction is practically critical to eco-safe driving for intelligent vehicles. Existing research only makes vehicles adapt to the dynamic driving environment while rarely considering the influence of human driving preferences. This paper proposes a learning-based model to leverage human driving preferences into speed prediction. We first designed an Oriented Hidden Semi-Markov Model (Oriented-HSMM) to learn and predict the driver’s driving preference sequences while considering traffic flow influence. Then, we developed an optimal speed prediction algorithm to retrieve the smooth speed trajectories with maximal likelihood based on the estimated driving preferences. Finally, we evaluated the proposed model using the Next Generation Simulation (NGSIM) data compared to its counterparts that do not consider driving preferences. Experimental results demonstrate that our proposed Oriented-HSMM method reaches the best results and achieves a satisfying performance with a low mean absolute error (4.16 km/h) and root mean square error (5.08 km/h) at a 200 m prediction horizon.</div></td>
       	</tr>
-      	<tr id="bib_cui2019traffic" class="bibtex noshow">
+      	<tr id="bib_wang2021leverage" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@article{cui2019traffic,
-	title={Traffic graph convolutional recurrent neural network: A deep learning framework for network-scale traffic learning and forecasting},
-	author={Cui, Zhiyong and Henrickson, Kristian and Ke, Ruimin and Wang, Yinhai},
-	journal={IEEE Transactions on Intelligent Transportation Systems},
-	year={2019},
-	publisher={IEEE}
-}</pre>
+              	<pre>@article{yang2021leveraging,
+                      title={Leveraging human driving preferences to predict vehicle speed},
+                      author={Yang, Sen and Wang, Wenshuo and Xi, Junqiang},
+                      journal={IEEE Transactions on Intelligent Transportation Systems},
+                      volume = {23},
+                      number = {8},
+                      pages = {11137--11147},
+                      year={2021},
+                      publisher={IEEE}
+                    }
+                </pre>
 			</td>
       	</tr>
       	<tr id="cui2020establishing" class="entry">
