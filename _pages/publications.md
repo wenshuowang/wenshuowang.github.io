@@ -98,7 +98,7 @@ author_profile: true
  			<td>2022</td>
         	<td>The Montreal AI Symposium 2022</td>
         </tr>
-        <tr id="abs_cui2020graph" class="abstract noshow">
+        <tr id="abs_wang2022action" class="abstract noshow">
         	<td colspan="5"><div align="justify"> <b>Abstract</b>: Modeling the action-reaction mechanism of human agents in interactive scenarios such as human drivers in real traffic is challenging. Rational human agents usually negotiate with others by actively perceiving information about the world via proactively taking specific actions that influence the world. For instance, in real traffic, human drivers make tentative attempts before decisively switching lanes as a way to signify their intention of lane switch and tease out the intentions of other vehicles in the adjoining lanes. However, it is still unclear (i) why a tentative behavior is efficient and matters in human interactions and (ii) how it could be modeled in an interpretable learning framework. This paper provides a new framework for modeling the process of generating actions by humans in interactive scenarios using active inference with the free energy theory. The hypothesis is that humans execute tentative behaviors to reduce the sensory uncertainties arising from people's quantity of possible outcomes, enabling them to make efficient decisions. We show a proof of concept that the process by that humans take tentative actions in interaction can be viewed as an optimization problem over variational bounds.  </div></td>
       	</tr>
         <tr id="bib_wang2022action" class="bibtex noshow">
