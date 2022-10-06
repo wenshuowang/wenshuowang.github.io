@@ -126,8 +126,8 @@ author_profile: true
       <td>
         Social Interactions for Autonomous Driving: A Review and Perspectives<br>
                 <p class="infolinks"> 
-                  [<a href="javascript:toggleInfo('cui2020stacked','abstract')">Abstract</a>]
-                  [<a href="javascript:toggleInfo('cui2020stacked','bibtex')">BibTeX</a>] 
+                  [<a href="javascript:toggleInfo('wang2022social','abstract')">Abstract</a>]
+                  [<a href="javascript:toggleInfo('wang2022social','bibtex')">BibTeX</a>] 
                   <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
                   [<a href="https://arxiv.org/abs/2208.07541">arXiv</a>]
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
@@ -136,10 +136,10 @@ author_profile: true
       <td>2020</td>
           <td>Foundations and Trends in Robotics (Under review)</td>
         </tr>
-        <tr id="abs_cui2020stacked" class="abstract noshow">
+        <tr id="abs_wang2022social" class="abstract noshow">
           <td colspan="5"><div align="justify"> <b>Abstract</b>: No human drives a car in a vacuum; she/he must negotiate with other road users to achieve their goals in social traffic scenes. A rational human driver can interact with other road users in a socially-compatible way through implicit communications to complete their driving tasks smoothly in interaction-intensive, safety-critical environments. This paper aims to review the existing approaches and theories to help understand and rethink the interactions among human drivers toward social autonomous driving. We take this survey to seek the answers to a series of fundamental questions: 1) What is social interaction in road traffic scenes? 2) How to measure and evaluate social interaction? 3) How to model and reveal the process of social interaction? 4) How do human drivers reach an implicit agreement and negotiate smoothly in social interaction? This paper reviews various approaches to modeling and learning the social interactions between human drivers, ranging from optimization theory, deep learning, and graphical models to social force theory and behavioral & cognitive science. We also highlight some new directions, critical challenges, and opening questions for future research.</div></td>
         </tr>
-        <tr id="bib_cui2020stacked" class="bibtex noshow">
+        <tr id="bib_wang2022social" class="bibtex noshow">
           <td colspan="5"><b>BibTeX</b>:
                 <pre>@article{wang2022social,
                       title={Social Interactions for Autonomous Driving: A Review and Perspective},
