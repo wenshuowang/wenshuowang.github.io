@@ -356,46 +356,41 @@ author_profile: true
                 </pre>
 			</td>
       	</tr>
-      	<tr id="cui2019perspectives" class="entry">
+      	<tr id="wang2021uncover" class="entry">
       		<td>
 				<!-- <img src="../images/research/cui2020establishing.png" width="600" class="single_img"> -->
 				<div class="polaroid">
-				  <img src="../images/research/cui2019perspectives.png" width="600" class="research_img">
-				  <div class="container">
-				  Simplified OPTICS
-				  </div>
+				  <img src="../images/research/wang2021uncover.png" width="600" class="research_img">
 				</div>
 			</td>
-       		<td><strong>Z. Cui</strong>, Y. Long* </td>
+       		<td>H. Wang, <strong>W. Wang*</strong>, S. Yuan, X. Li </td>
 			<td>
-				Perspectives on Stability and Mobility of Transit Passenger’s Travel Behaviour through Smart Card Data<br>
+				Uncovering Interpretable Internal States of Merging Tasks at Highway On-Ramps for Autonomous Driving Decision-Making<br>
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('cui2019perspectives','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('cui2019perspectives','bibtex')">BibTeX</a>] 
-              		[<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>]
-              		[<a href="https://arxiv.org/abs/1508.06033">arXiv</a>]
+              		[<a href="javascript:toggleInfo('wang2021uncover','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2021uncover','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/9512609">PDF</a>]
+              		<!-- [<a href="https://arxiv.org/abs/1508.06033">arXiv</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a> -->
             	</p>
     		</td>
- 			<td>2019</td>
-        	<td>IET Intelligent Transport Systems <br>(Presented at KDD Workshop on Urban Computing 2015)</td>
+ 			<td>2021</td>
+        	<td>IEEE Transactions on Automation Science and Engineering</td>
         </tr>
-        <tr id="abs_cui2019perspectives" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Existing studies have extensively used spatiotemporal data to discover the mobility patterns of various types of travellers. Smart card data (SCD) collected by the automated fare collection systems can reflect a general view of the mobility pattern of public transit riders. Mobility patterns of transit riders are temporally and spatially dynamic, and therefore difficult to measure. However, few existing studies measure both the mobility and stability of transit riders’ travel patterns over a long period of time. To analyse the long-term changes of transit riders’ travel behaviour, the authors define a metric for measuring the similarity between SCD, in this study. Also an improved density-based clustering algorithm, simplified smoothed ordering points to identify the clustering structure (SS-OPTICS), to identify transit rider clusters is proposed. Compared to the original OPTICS, SS-OPTICS needs fewer parameters and has better generalisation ability. Further, the generated clusters are categorised according to their features of regularity and occasionality. Based on the generated clusters and categories, fine- and coarse-grained travel pattern transitions of transit riders over four years from 2010 to 2014 are measured. By combining socioeconomic data of Beijing in the year of 2010 and 2014, the interdependence between stability and mobility of transit riders’ travel behaviour is also discussed.</div></td>
+        <tr id="abs_wang2021uncover" class="abstract noshow">
+        	<td colspan="5"><div align="justify"> <b>Abstract</b>: Humans make daily routine decisions based on their internal states in intricate interaction scenarios. This article presents a probabilistically reconstructive learning approach to identify the internal states of multivehicle sequential interactions when merging at highway on-ramps. We treated the merging task's sequential decision as a dynamic, stochastic process and then integrated the internal states into a hidden Markov model (HMM)-Gaussian mixture regression (GMR) model, a probabilistic combination of an extended GMR and HMM. We also developed a variant of the expectation-maximization (EM) algorithm to estimate the model parameters and verified it based on a real-world dataset. Experiment results reveal that three interpretable internal states can semantically describe the interactive merge procedure at highway on-ramps. This finding provides a basis for developing an efficient model-based decision-making algorithm for autonomous vehicles (AVs) in a partially observable environment.</div></td>
       	</tr>
-      	<tr id="bib_cui2019perspectives" class="bibtex noshow">
+      	<tr id="bib_wang2021uncover" class="bibtex noshow">
         	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@article{cui2019perspectives,
-	title={Perspectives on stability and mobility of transit passenger's travel behaviour through smart card data},
-	author={Cui, Zhiyong and Long, Ying},
-	journal={IET Intelligent Transport Systems},
-	volume={13},
-	number={12},
-	pages={1761--1769},
-	year={2019},
-	publisher={IET}
-}</pre>
-			</td>
+              	<pre>@article{wang2021uncovering,
+                      title={Uncovering interpretable internal states of merging tasks at highway on-ramps for autonomous driving decision-making},
+                      author={Wang, Huanjie and Wang, Wenshuo and Yuan, Shihua and Li, Xueyuan},
+                      journal={IEEE Transactions on Automation Science and Engineering},
+                      year={2021},
+                      publisher={IEEE}
+                    }
+                </pre>
+			      </td>
       	</tr>
       	<tr id="liang2018deep" class="entry">
       		<td>
