@@ -540,46 +540,82 @@ author_profile: true
                 </pre>
 			    </td>
       	</tr>
-      	<tr id="cui2014characterizing" class="entry">
-      		<td>
-				<img src="../images/research/cui2014characterizing.png" width="600" class="single_img">
-				<!-- <div class="polaroid">
-				  <img src="../images/research/cui2015vision.gif" width="600" class="research_img">
-				  <div class="container">
-				  Rear Light Recognition
-				  </div>
-				</div> -->
-			</td>
-       		<td><strong>Z. Cui</strong>, S. Yang, H. Tsai</td>
-			<td>
-				Characterizing channel fading in vehicular visible light communications with video data<br>
+      <tr id="wang2020measure" class="entry">
+      	<td>
+				  <img src="../images/research/wang2020measure.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         Q. Lin, <strong>W. Wang</strong>, Y. Zhang, J. Dolan
+        </td>
+		    <td>
+				Measuring Similarity of Interactive Driving Behaviors Using Matrix Profile<br>
               	<p class="infolinks"> 
-              		[<a href="javascript:toggleInfo('cui2014characterizing','abstract')">Abstract</a>]
-              		[<a href="javascript:toggleInfo('cui2014characterizing','bibtex')">BibTeX</a>] 
-              		[<a href="https://ieeexplore.ieee.org/abstract/document/7013353">PDF</a>]
+              		[<a href="javascript:toggleInfo('wang2020measure','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2020measure','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/9147893">PDF</a>]
               		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
               		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
             	</p>
     		</td>
- 			<td>2014</td>
-        	<td>IEEE Vehicular Networking Conference (VNC)</td>
-        </tr>
-        <tr id="abs_cui2014characterizing" class="abstract noshow">
-        	<td colspan="5"><div align="justify"> <b>Abstract</b>: There is no prior work in characterizing fading caused by vehicle mobility in vehicular visible light communications (V2LC). Different from a radio frequency (RF) communication link, the path loss of a V2LC link is dictated by not only the transmitter-receiver (T-R) distance, but also the irradiance angle and the incidence angle, which have large variation when the vehicles are in motion. In this paper, we took a novel approach to take a first look at the problem. Utilizing the video data obtained from a dashboard camera and computer vision techniques, we are able to estimate the relative location and angle parameters of neighboring vehicles with great level of detail. These parameters are then used to derive a time function of path loss, with which the autocorrelation and the channel coherence time are calculated. Our results show that V2LC links have much slower channel time variation compared to RF V2V links: the coherence time is at least an order larger.</div></td>
-      	</tr>
-      	<tr id="bib_cui2014characterizing" class="bibtex noshow">
-        	<td colspan="5"><b>BibTeX</b>:
-              	<pre>@inproceedings{cui2014characterizing,
-  title={Characterizing channel fading in vehicular visible light communications with video data},
-  author={Cui, Zhiyong and Wang, Chenqi and Tsai, Hsin-Mu},
-  booktitle={2014 IEEE Vehicular Networking Conference (VNC)},
-  pages={226--229},
-  year={2014},
-  organization={IEEE}
-}</pre>
-			</td>
-      	</tr>
+ 			  <td>2020</td>
+        <td>IEEE American Control Conference (ACC)</td>
+      </tr>
+      <tr id="abs_wang2020measure" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Understanding multi-vehicle interactive behaviors with temporal sequential observations is crucial for autonomous vehicles to make appropriate decisions in an uncertain traffic environment. On-demand similarity measures are significant for autonomous vehicles to deal with massive interactive driving behaviors by clustering and classifying diverse scenarios. This paper proposes a general approach for measuring spatiotemporal similarity of interactive behaviors using a multivariate matrix profile technique. The key attractive features of the approach are its reduced space and time complexity, real- time online computing for streaming traffic data, and possible capability of leveraging hardware for parallel computation. The proposed approach is validated through automatically discovering similar interactive driving behaviors at intersections from sequential data.</div></td>
+      </tr>
+      <tr id="bib_wang2020measure" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@inproceedings{lin2020measuring,
+                    title={Measuring similarity of interactive driving behaviors using matrix profile},
+                    author={Lin, Qin and Wang, Wenshuoa and Zhang, Yihuan and Dolan, John M},
+                    booktitle={2020 American Control Conference (ACC)},
+                    pages={3965--3970},
+                    year={2020},
+                    organization={IEEE}
+                  }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2020influence" class="entry">
+      	<td>
+				  <img src="../images/research/wang2020influence.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         C. Zhao, <strong>W. Wang*</strong>, S. Li, J. Gong
+        </td>
+		    <td>
+				Influence of Cut-In Maneuvers for an Autonomous Car on Surrounding Drivers: Experiment and Analysis<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2020influence','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2020influence','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8715668">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2020</td>
+        <td>IEEE Transactions on Intelligent Transportation Systems</td>
+      </tr>
+      <tr id="abs_wang2020influence" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: To safely and efficiently change lanes among human drivers, autonomous vehicles (AVs) should make human-like decisions and seamlessly cooperate with surrounding vehicles. Both overaggressive and over-conservative cut-in maneuvers will have adverse effects on traffic efficiency and safety. However, it is still not entirely clear how much influence of the AV's cut-in behavior would lay on the surrounding drivers in urban traffic. To investigate this question, we design a series of driving scenarios and analyze the impact of different cut-in maneuvers performed by the human-like AV on the surrounding drivers' comfort. Ten volunteer drivers participate in our experiment and take a series of trials in a driving simulator. The experimental results demonstrate that the relative distance between the AV and the target car on the adjacent lane has a more significant effect on the surrounding drivers' comfort than the relative speed does. In addition, different parameters should be considered with different cut-in scenarios. This conclusion could provide practical support to make a friendly cut-in decision for the AVs.</div></td>
+      </tr>
+      <tr id="bib_wang2020influence" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{zhao2019influence,
+                title={Influence of cut-in maneuvers for an autonomous car on surrounding drivers: experiment and analysis},
+                author={Zhao, Chunqing and Wang, Wenshuo and Li, Shaopeng and Gong, Jianwei},
+                journal={IEEE transactions on intelligent transportation systems},
+                volume={21},
+                number={6},
+                pages={2266--2276},
+                year={2019},
+                publisher={IEEE}
+              }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
