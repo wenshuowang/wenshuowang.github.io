@@ -1,6 +1,6 @@
 ---
 title: 
-permalink: "/service/"
+permalink: "/services/"
 layout: archive
 author_profile: true
 ---
