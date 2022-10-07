@@ -1,5 +1,5 @@
 ---
-title: Wenshuo Wang
+title: About Me
 permalink: "/"
 excerpt: About me
 author_profile: true
