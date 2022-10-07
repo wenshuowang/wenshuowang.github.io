@@ -23,9 +23,9 @@ author_profile: true
 <table style="width:100%">
     <thead>
 		<tr>
-			<th width="22%">Highlight</th>
+			<th width="20%">Highlight</th>
 			<th width="15%">Authors</th>
-			<th width="41%">Title</th>
+			<th width="43%">Title</th>
 			<th width="2%">Year</th>
 			<th width="20%">Journal/Proceedings</th>
 		</tr>
