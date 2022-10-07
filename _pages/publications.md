@@ -954,6 +954,117 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2019probabilistic" class="entry">
+      	<td>
+				  <img src="../images/research/wang2019probabilistic.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         J. Zhu, S. Qin, <strong>W. Wang*</strong>, et al.
+        </td>
+		    <td>
+				Probabilistic Trajectory Prediction for Autonomous Vehicles with Attentive Recurrent Neural Process<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2019probabilistic','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2019probabilistic','bibtex')">BibTeX</a>] 
+              		<!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8917212">PDF</a>] -->
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		[<a href="https://arxiv.org/abs/1910.08102">arXiv</a>]
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2019</td>
+        <td> NeuraIPS Workshop</td>
+      </tr>
+      <tr id="abs_wang2019probabilistic" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Predicting surrounding vehicle behaviors are critical to autonomous vehicles when negotiating in multi-vehicle interaction scenarios. Most existing approaches require tedious training process with large amounts of data and may fail to capture the propagating uncertainty in interaction behaviors. The multi-vehicle behaviors are assumed to be generated from a stochastic process. This paper proposes an attentive recurrent neural process (ARNP) approach to overcome the above limitations, which uses a neural process (NP) to learn a distribution of multi-vehicle interaction behavior. Our proposed model inherits the flexibility of neural networks while maintaining Bayesian probabilistic characteristics. Constructed by incorporating NPs with recurrent neural networks (RNNs), the ARNP model predicts the distribution of a target vehicle trajectory conditioned on the observed long-term sequential data of all surrounding vehicles. This approach is verified by learning and predicting lane-changing trajectories in complex traffic scenarios. Experimental results demonstrate that our proposed method outperforms previous counterparts in terms of accuracy and uncertainty expressiveness. Moreover, the meta-learning instinct of NPs enables our proposed ARNP model to capture global information of all observations, thereby being able to adapt to new targets efficiently.</div></td>
+      </tr>
+      <tr id="bib_wang2019probabilistic" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{zhu2019probabilistic,
+                  title={Probabilistic trajectory prediction for autonomous vehicles with attentive recurrent neural process},
+                  author={Zhu, Jiacheng and Qin, Shenghao and Wang, Wenshuo and Zhao, Ding},
+                  journal={arXiv preprint arXiv:1910.08102},
+                  year={2019}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2019driver" class="entry">
+      	<td>
+				  <img src="../images/research/wang2019driver.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         S. Yang, J. Xi, <strong>W. Wang</strong>
+        </td>
+		    <td>
+				Driver Drowsiness Detection through a Vehicle's Active Probe Action<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2019driver','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2019driver','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8887773">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1910.08102">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2019</td>
+        <td> IEEE 2nd Connected and Automated Vehicles Symposium (CAVS)</td>
+      </tr>
+      <tr id="abs_wang2019driver" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Drowsy driving is one of the major causes of traffic collisions, injuries, and fatalities. Existing literature primarily detects driver drowsiness by passively monitoring lanes, steering angles, behavioral states, and physiological states. The paper presents an approach towards enabling vehicles to detect driver drowsiness through the vehicle's active probe action actively. To this end, we record and analyze drivers' responses to a slight active left-lane drifting action of the vehicle in a driving simulator. According to drivers' responses, six indicators of drowsiness are extracted and then used to detect driver drowsiness with three recognition methods, i.e., support vector machine, Gaussian kernel density estimation, and back- propagation neural networks, in comparison to traditional monitoring features regarding steering- wheel movement. Experimental results demonstrate that our proposed active probe approach outperforms the traditional monitor methods for driver drowsiness detection with an accuracy of 97.50%, precision of 95%, and specificity of 98.21%. The proposed active driver drowsiness detection could facilitate a new development of active safety systems.</div></td>
+      </tr>
+      <tr id="bib_wang2019driver" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@inproceedings{yang2019driver,
+                  title={Driver drowsiness detection through a vehicle's active probe action},
+                  author={Yang, Sen and Xi, Junqiang and Wang, Wenshuo},
+                  booktitle={2019 IEEE 2nd Connected and Automated Vehicles Symposium (CAVS)},
+                  pages={1--7},
+                  year={2019},
+                  organization={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2019estimating" class="entry">
+      	<td>
+				  <img src="../images/research/wang2019estimating.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         X. Li, <strong>W. Wang*</strong>, M. Roetting
+        </td>
+		    <td>
+				Estimating driver’s lane-change intent considering driving style and contextual traffic<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2019estimating','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2019estimating','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8500333">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1910.08102">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2019</td>
+        <td> IEEE Transactions on Intelligent Transportation Systems</td>
+      </tr>
+      <tr id="abs_wang2019estimating" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Estimating a driver's lane-change (LC) intent is very important so as to avoid traffic accidents caused by improper LC maneuvers. This paper proposes a lane-change Bayesian network (LCBN) incorporated with a Gaussian mixture model (GMM), termed as LCBN-GMM, to estimate a driver's LC intent considering a driver's driving style over varying scenarios. According to the scores made by participates with a behavioral-psychological questionnaire, three driving styles are classified. In order to get more effective labeled LC and lane-keep (LK) data for model training, we propose a gaze-based labeling (GBL) method by monitoring a drivers's gaze behavior, instead of using a time-window labeling method. The capability of LCBN-GMM to estimate a driver's lane-change intent is evaluated in different LC scenarios and driving styles, in comparison to support vector machine and Naive Bayes. Data are collected in a seat-box-based driving simulator where 32 drivers, consisting of 9 aggressive, 15 neutral, and 8 conservative drivers, participated. Experimental results demonstrate that the LCBN-GMM with GBL achieves the best performance, estimating a driver's LC intent an average of 4.5 s ahead of actual LC maneuvers with 78.2% accuracy considering both driving style and contextual traffic, compared with other approaches.</div></td>
+      </tr>
+      <tr id="bib_wang2019estimating" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{li2018estimating,
+                  title={Estimating driver’s lane-change intent considering driving style and contextual traffic},
+                  author={Li, Xiaohan and Wang, Wenshuo and Roetting, Matthias},
+                  journal={IEEE Transactions on Intelligent Transportation Systems},
+                  volume={20},
+                  number={9},
+                  pages={3258--3271},
+                  year={2018},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
