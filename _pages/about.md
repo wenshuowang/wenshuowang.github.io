@@ -13,13 +13,13 @@ Hi! I am a **Postdoc Fellow** supported by [IVADO Fellowship Awards](https://iva
 <!-- My research lies in the intersection of Bayesian learning, reinforcement learning, optimization, and their applications to AI-based agents. -->
 
 
-My research *goal* is to develop analytically computable techniques to semantically understand and predict any human-involved interactions using machine learning with support of data and cognitive science toward eco-safe deployment of AI-based agents (e.g., autonomous cars) in human cyber-physical systems (H-CPS).
+My research *goal* is to develop analytically computable techniques to semantically understand and predict any human-involved interactions using machine learning (Bayesian learning, reinforcement learning, and active inference) with support of data and cognitive science toward eco-safe deployment of AI-based agents (e.g., autonomous cars) in human cyber-physical systems (H-CPS).
 
-My research *task* focuses on **Cognitive Autonomy & Interactive Learning (CAIL)** -- combining human interactive behavior analysis and prediction from insights of computational cognition with machine learning & AI techniques to enable mobile robotic systems (e.g. intelligent vehicles) to reason competently about their own safety, thus making H-CPS more safe and smarter, including:
+My research focuses on **Cognitive Autonomy & Interactive Learning (CAIL)** -- combining human interactive behavior analysis and prediction from insights of computational cognition with machine learning & AI techniques to enable mobile robotic systems (e.g. intelligent vehicles) to reason competently about their own safety, including:
 
 * Human interaction, Cognition & perception, Human-robot interaction 
 * Autonomous driving, Multi-agent interaction, Advanced driver assistance systems 
-* Bayesian statistics & machine learning, Stocastic processes, (Inverse) Reinforcement learning and optimal control
+* Bayesian learning, Stocastic processes, (Inverse) Reinforcement learning, and Optimization
 
 ## News 
 <table style="width:100%">
