@@ -16,10 +16,10 @@ author_profile: true
 -->
 
 ## Dissertation
-- **W. Wang**. (2018) Adaptive Control of Personalized Driver Assistance Systems. *Ph.D., Mechanical Engineering, Beijing Institute of Technology*
+- **W. Wang**. (2018) Adaptive Control of Personalized Driver Assistance Systems. *Ph.D., Mechanical Engineering, Beijing Institute of Technology* (Best Ph.D. Dissertation Awards in SAE-China)
 
 ## Journal/Conference
- 
+
 <table style="width:100%">
     <thead>
 		<tr>
