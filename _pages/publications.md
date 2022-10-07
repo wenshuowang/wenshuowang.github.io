@@ -738,11 +738,11 @@ author_profile: true
          <strong>W. Wang*</strong>, J. Xi, J. K. Hedrick
         </td>
 		    <td>
-				A Learning-Based Personalized Driver Model Using Bounded Generalized Gaussian Mixture Models<br>
+				Learning V2V Interactive Driving Patterns at Signalized Intersections<br>
               	<p class="infolinks"> 
               		[<a href="javascript:toggleInfo('wang2019v2v','abstract')">Abstract</a>]
               		[<a href="javascript:toggleInfo('wang2019v2v','bibtex')">BibTeX</a>] 
-              		[<a href="https://ieeexplore.ieee.org/abstract/document/8879516">PDF</a>]
+              		[<a href="https://www.sciencedirect.com/science/article/pii/S0968090X18313329">PDF</a>]
               		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
               		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
               		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
@@ -768,6 +768,55 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2019time" class="entry">
+      	<td>
+				  <img src="../images/research/wang2019time.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         S. Yang, <strong>W. Wang</strong>, et al.
+        </td>
+		    <td>
+				A Time-Efficient Approach for Decision-Making Style Recognition in Lane-Changing Behavior<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2019time','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2019time','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8836105">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2019</td>
+        <td> IEEE Transactions on Human-Machine Systems</td>
+      </tr>
+      <tr id="abs_wang2019time" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Fast recognition of a driver's decision-making style when changing lanes plays a pivotal role in a safety-oriented and personalized vehicle control system design. This article presents a time-efficient recognition method by integrating k-means clustering (k-MC) with the K-nearest neighbor (KNN) algorithm, called kMC-KNN. Mathematical morphology is implemented to automatically label the decision-making data into three styles (moderate, vague, and aggressive), while the integration of k-MC and the KNN algorithm helps to improve the recognition speed and accuracy. Our developed mathematical-morphology-based clustering algorithm is then validated by a comparison with agglomerative hierarchical clustering. Experimental results demonstrate that the developed kMC-KNN method, in comparison with the traditional KNN algorithm, can shorten the recognition time by more than 72.67% with a recognition accuracy of 90-98%. In addition, our developed kMCKNN method also outperforms a support vector machine in terms of recognition accuracy and stability. The developed time-efficient recognition approach would have great application potential for in-vehicle embedded solutions with restricted design specifications.</div></td>
+      </tr>
+      <tr id="bib_wang2019time" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{yang2019time,
+                  title={A time-efficient approach for decision-making style recognition in lane-changing behavior},
+                  author={Yang, Sen and Wang, Wenshuo and Lu, Chao and Gong, Jianwei and Xi, Junqiang},
+                  journal={IEEE Transactions on Human-Machine Systems},
+                  volume={49},
+                  number={6},
+                  pages={579--588},
+                  year={2019},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+	</tbody>
+</table>
+
+<!-- ## Teaching
+
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th width="100%">&nbsp;</th>
+    </tr>
 	</tbody>
 </table>
 
@@ -779,7 +828,7 @@ author_profile: true
       <th width="100%">&nbsp;</th>
     </tr>
   </thead>
-</table>
+</table> -->
 
 <!-- 
 ### Refereed Journal Publications
