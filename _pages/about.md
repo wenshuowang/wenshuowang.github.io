@@ -29,7 +29,7 @@ My research **interests** mainly focus on Cognitive Autonomy & Interactive Learn
   </thead>
 </table>
 * <span style="color:darkred"> New! </span> Oct. 2022. I will give an invited talk for the School of Mechanical Engineering, Southeast University.
-* <span style="color:darkred"> New! </span> Sept. 2022. My two conference papers were accepted by [The Montreal AI Symposium 2022](http://montrealaisymposium.com/). 
+* <span style="color:darkred"> New! </span> Sept. 2022. My two papers were accepted by [The Montreal AI Symposium 2022](http://montrealaisymposium.com/). 
 * <span style="color:darkred"> New! </span> Aug. 2022. My new review paper on [Social Interactions for Autonomous Driving](https://arxiv.org/abs/2208.07541) is online. 
 * <span style="color:darkred"> New! </span> Jul. 2022. I was invited to give a talk on [COTA](http://cota-home.org/CICTP/CICTP2019.html).
 * <span style="color:darkred"> New! </span> May 2022. I was recognized as the a Rising Star Scholar on “AI+X” by Baidu Xueshu, Top 50. 
