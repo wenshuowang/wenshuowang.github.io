@@ -1,6 +1,6 @@
 ---
 title: 
-permalink: "/awards/"
+permalink: "/talk_awards/"
 layout: archive
 author_profile: true
 ---
