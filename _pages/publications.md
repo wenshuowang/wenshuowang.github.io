@@ -1219,6 +1219,42 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2018effects" class="entry">
+      	<td>
+				  <img src="../images/research/wang2018effects.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         X. Li, <strong>W. Wang*</strong>, Z. Zhang, M. Rotting
+        </td>
+		    <td>
+				Effects of feature selection on lane-change maneuver recognition: an analysis of naturalistic driving data<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2018effects','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2018effects','bibtex')">BibTeX</a>] 
+              		[<a href="https://www.emerald.com/insight/content/doi/10.1108/JICV-09-2018-0010/full/html">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1910.08102">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2018</td>
+        <td> Journal of Intelligent and Connected Vehicles  </td>
+      </tr>
+      <tr id="abs_wang2018effects" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Feature selection is crucial for machine learning to recognize lane-change (LC) maneuver as there exist a large number of feature candidates. Blindly using feature could take up large storage and excessive computation time, while insufficient feature selection would cause poor performance. Selecting high contributive features to classify LC and lane-keep behavior is effective for maneuver recognition. This paper aims to propose a feature selection method from a statistical view based on an analysis from naturalistic driving data.</div></td>
+      </tr>
+      <tr id="bib_wang2018effects" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{li2018effects,
+                  title={Effects of feature selection on lane-change maneuver recognition: an analysis of naturalistic driving data},
+                  author={Li, Xiaohan and Wang, Wenshuo and Zhang, Zhang and R{\"o}tting, Matthias},
+                  journal={Journal of intelligent and connected vehicles},
+                  year={2018},
+                  publisher={Emerald Publishing Limited}
+                }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
