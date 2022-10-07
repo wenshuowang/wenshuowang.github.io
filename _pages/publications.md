@@ -1637,6 +1637,233 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2017develop" class="entry">
+      	<td>
+				  <img src="../images/research/wang2017develop.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang</strong>, D. Zhao, J. Xi, D. LeBlanc, J. K. Hedrick
+        </td>
+		    <td>
+				Development and evaluation of two learning-based personalized driver models for car-following behaviors<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2017develop','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2017develop','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/7963105">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2017</td>
+        <td>  IEEE American Control Conference (ACC)  </td>
+      </tr>
+      <tr id="abs_wang2017develop" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Personalized driver models play a key role in the development of advanced driver assistance systems and automated driving systems. Traditionally, physical-based driver models with fixed structures usually lack the flexibility to describe the uncertainties and high non-linearity of driver behaviors. In this paper, two kinds of learning-based car-following personalized driver models were developed using naturalistic driving data collected from the University of Michigan Safety Pilot Model Deployment program. One model is developed by combining the Gaussian Mixture Model (GMM) and the Hidden Markov Model (HMM), and the other one is developed by combining the Gaussian Mixture Model (GMM) and Probability Density Functions (PDF). Fitting results between the two approaches were analyzed with different model inputs and numbers of GMM components. Statistical analyses show that both models provide good performance of fitting while the GMM-PDF approach shows a higher potential to increase the model accuracy given a higher dimension of training data.</div></td>
+      </tr>
+      <tr id="bib_wang2017develop" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@inproceedings{wang2017development,
+                  title={Development and evaluation of two learning-based personalized driver models for car-following behaviors},
+                  author={Wang, Wenshuo and Zhao, Ding and Xi, Junqiang and LeBlanc, David J and Hedrick, J Karl},
+                  booktitle={2017 American Control Conference (ACC)},
+                  pages={1133--1138},
+                  year={2017},
+                  organization={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2017human" class="entry">
+      	<td>
+				  <img src="../images/research/wang2017human.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang</strong>, J. Xi, C. Liu, X. Li
+        </td>
+		    <td>
+				Human-Centered Feed-Forward Control of a Vehicle Steering System Based on a Driver's Path-Following Characteristics<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2017human','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2017human','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/7576705">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2017</td>
+        <td>  IEEE Transactions on Intelligent Transportation Systems  </td>
+      </tr>
+      <tr id="abs_wang2017human" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: To improve vehicle path-following performance and to reduce driver workload, a human-centered feed-forward control (HCFC) system for a vehicle steering system is proposed. To be specific, a novel dynamic control strategy for the steering ratio of vehicle steering systems that treats vehicle speed, lateral deviation, yaw error, and steering angle as the inputs and a driver's expected steering ratio as the output is developed. To determine the parameters of the proposed dynamic control strategy, drivers are classified into three types according to the level of sensitivity to errors, i.e., low, middle, and high. The proposed HCFC system offers a human-centered steering system (HCSS) with a tunable steering gain, which can assist drivers in tracking a given path with smaller steering wheel angles and change rate of the angle by adaptively adjusting steering ratio according to driver's path-following characteristics, reducing the driver's workload. A series of experiments of tracking the centerline of double lane change (DLC) are conducted in CarSim and three different types of drivers are subsequently selected to test in a portable driving simulator under a fixed-speed condition. The simulation and experiment results show that the proposed HCSS with the dynamic control strategy, as compared with the classical control strategy of steering ratio, can improve task performance by about 7% and reduce the driver's physical workload and mental workload by about 35% and 50%, respectively, when following the given path.</div></td>
+      </tr>
+      <tr id="bib_wang2017human" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{wang2016human,
+                    title={Human-centered feed-forward control of a vehicle steering system based on a driver's path-following characteristics},
+                    author={Wang, Wenshuo and Xi, Junqiang and Liu, Chang and Li, Xiaohan},
+                    journal={IEEE transactions on intelligent transportation systems},
+                    volume={18},
+                    number={6},
+                    pages={1440--1453},
+                    year={2016},
+                    publisher={IEEE}
+                  }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2016review" class="entry">
+      	<td>
+				  <img src="../images/research/wang2016review.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         M. Zhou, H. Jin, <strong>W. Wang*</strong>
+        </td>
+		    <td>
+				A review of vehicle fuel consumption models to evaluate eco-driving and eco-routing<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2016review','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2016review','bibtex')">BibTeX</a>] 
+              		[<a href="https://www.sciencedirect.com/science/article/pii/S1361920916306009">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2017</td>
+        <td>  Transportation Research Part D: Transport and Environment  </td>
+      </tr>
+      <tr id="abs_wang2016review" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Fuel consumption models have been widely used to predict fuel consumption and evaluate new vehicle technologies. However, due to the uncertainty and high nonlinearity of fuel systems, it is difficult to develop an accurate fuel consumption model for real-time calculations. Additionally, whether the developed fuel consumption models are suitable for eco-routing and eco-driving systems is unknown. To address these issues, a systematic review of fuel consumption models and the factors that influence fuel economy is presented. First, the primary factors that affect fuel economy, including travel-related, weather-related, vehicle-related, roadway-related, traffic-related, and driver-related factors, are discussed. Then, state-of-the-art fuel consumption models developed after 2000 are summarized and classified into three broad types based on transparency, i.e., white-box, grey-box and black-box models. Consequently, the limitations and potential possibilities of fuel consumption modelling are highlighted in this review.</div></td>
+      </tr>
+      <tr id="bib_wang2016review" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{zhou2016review,
+                    title={A review of vehicle fuel consumption models to evaluate eco-driving and eco-routing},
+                    author={Zhou, Min and Jin, Hui and Wang, Wenshuo},
+                    journal={Transportation Research Part D: Transport and Environment},
+                    volume={49},
+                    pages={203--218},
+                    year={2016},
+                    publisher={Elsevier}
+                  }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2016bayesian" class="entry">
+      	<td>
+				  <img src="../images/research/wang2016bayesian.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         X. Li, M. Rotting, <strong>W. Wang</strong>
+        </td>
+		    <td>
+				Bayesian Network-based Identification of Driver Lane-changing Intents Using Eye Tracking and Vehicle-Based Data<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2016bayesian','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2016bayesian','bibtex')">BibTeX</a>] 
+              		[<a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781315265285-147/bayesian-network-based-identification-driver-lane-changing-intents-using-eye-tracking-vehicle-based-data-li-r%C3%B6tting-wang">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2016</td>
+        <td>  13th International Symposium on Advanced Vehicle Control (AVEC)  </td>
+      </tr>
+      <tr id="abs_wang2016bayesian" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: A Bayesian network decision-making method is proposed by combining driver’s eye-tracking data and vehicle-based data together to identify driver lane-changing intents. First, experiments are conducted in a driving simulator with eye-tracker device to obtain the data when a subject driver makes lane-changing maneuvers. Second, collected data are analyzed in machine learning method using Bayesian decision-making approach to predict driver’s lane-changing intents. Last, to show the benefits of our proposed method, comparison experiments are made between the data fusion way and only using eye tracking data or vehicle-based data. The results show that the Bayesian network with data fusion method performs better than using single information to recognize driver’s lane-changing intents. At the same time, thresholds of Lane-changing probability and vehicle-based data as restricting condition choosing work is discussed in order to select the best identification parameter.</div></td>
+      </tr>
+      <tr id="bib_wang2016bayesian" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@incollection{li2016bayesian,
+                title={Bayesian network-based identification of driver lane-changing intents using eye tracking and vehicle-based data},
+                author={Li, XH and R{\"o}tting, M and Wang, WS},
+                booktitle={Advanced Vehicle Control AVEC’16},
+                pages={299--304},
+                year={2016},
+                publisher={CRC Press}
+              }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2016rapid" class="entry">
+      	<td>
+				  <img src="../images/research/wang2016rapid.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang</strong>, J. Xi
+        </td>
+		    <td>
+				A rapid pattern-recognition method for driving styles using clustering-based support vector machines<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2016rapid','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2016rapid','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/7526495">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2016</td>
+        <td>  IEEE American Control Conference (ACC)  </td>
+      </tr>
+      <tr id="abs_wang2016rapid" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: A rapid pattern-recognition approach to characterize driver's curve-negotiating behavior is proposed. To shorten the recognition time and improve the recognition of driving styles, a k-means clustering-based support vector machine (kMC-SVM) method is developed and used for classifying drivers into two types: aggressive and moderate. First, vehicle speed and throttle opening are treated as the feature parameters to reflect the driving styles. Second, to discriminate driver curve-negotiating behaviors and reduce the number of support vectors, the k-means clustering method is used to extract and gather the two types of driving data and shorten the recognition time. Then, based on the clustering results, a support vector machine approach is utilized to generate the hyperplane for judging and predicting to which types the human driver are subject. Lastly, to verify the validity of the kMC-SVM method, a cross-validation experiment is designed and conducted. The research results show that the kMC-SVM is an effective method to classify driving styles with a short time, compared with SVM method.</div></td>
+      </tr>
+      <tr id="bib_wang2016rapid" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@inproceedings{wang2016rapid,
+                  title={A rapid pattern-recognition method for driving styles using clustering-based support vector machines},
+                  author={Wang, Wenshuo and Xi, Junqiang},
+                  booktitle={2016 American Control Conference (ACC)},
+                  pages={5270--5275},
+                  year={2016},
+                  organization={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2015suspension" class="entry">
+      	<td>
+				  <img src="../images/research/wang2015suspension.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang</strong>, J. Xi
+        </td>
+		    <td>
+				Study of semi-active suspension control strategy based on driving behaviour characteristics<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2015suspension','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2015suspension','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/7526495">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2015</td>
+        <td>  International Journal of Vehicle Design  </td>
+      </tr>
+      <tr id="abs_wang2015suspension" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: In this paper, a semi-active suspension control system incorporatingdriving behaviour characteristics is presented by recognising driver behaviourson the basis of a quarter car model with a magneto-rheological (MR) damper.First, a specific driver model for recognising driver behaviours is developedto accurately recognise drivers’ intentions based on driving data from vehiclesensors. Then, by changing the controllable MR damping ratio in real-timebased on the outputs of the driver model, the individual driver’s expectationof overall comfort or road-holding performance can be satisfied. Furthermore,simulations of the semi-active suspension control strategy with the driver modelcompared with the simulations without the driver model are conducted using Matlab/Simulink. The simulation results indicate that the proposed semi-activesuspension control strategy with embedded driving behaviour characteristics isbetter suited to the driver’s intentions than other control strategies.</div></td>
+      </tr>
+      <tr id="bib_wang2015suspension" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{wang2015study,
+                  title={Study of semi-active suspension control strategy based on driving behaviour characteristics},
+                  author={Wang, Wenshuo and Xi, Junqiang},
+                  journal={International Journal of Vehicle Design},
+                  volume={68},
+                  number={1-3},
+                  pages={141--161},
+                  year={2015},
+                  publisher={Inderscience Publishers (IEL)}
+                }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
@@ -1660,9 +1887,12 @@ author_profile: true
   </thead>
 </table> -->
 
-<!-- 
+
 ## Patents
-1.	Wang Y, Ban X, **Cui Z**, Zhu M. (2019) An artificial intelligence platform for network-wide congestion detection and prediction using multi-source data. Connected Cities and Smart Mobility (C2SMART) Research Report (USDOT award number: 69A3551747124)\[[url](http://c2smart.engineering.nyu.edu/2019/04/19/an-artificial-intelligence-platform-for-network-wide-congestion-detection-and-prediction-using-multi-source-data-2/)\]\[[report](http://c2smart.engineering.nyu.edu/wp-content/uploads/2019/07/Transportation_AI%20Platform_FinalReport_C2SMART_Wang.pdf)\]\[[dataset](https://zenodo.org/record/3258904#.Xc2oKldKiUk)\]
-2.	Wang Y, **Cui Z**, Henrickson, K. (2018) Pilot Testing of SHRP2 Reliability Data and Analytical Products: Washington. SHRP2 Reliability Project L38 Report.
-3.	Hallenbeck M, Ishimaru J, **Cui Z**, Wang Y, Wright D, Zhang W, Henrickson K. (2017) Implementing the Routine Computation and Use of Roadway Performance Measures Within WSDOT. SHRP2 PM Software Research Report. (Grant number: Agreement T1461, Task 16)
-<!-- 4.	Wang Y, Ke R, Zhang W, **Cui Z**, Henrickson K. (2016) Digital roadway interactive visualization and evaluation network applications to WSDOT operational data usage. Washington State Department of Transportation (WSDOT) Research Report (Report number: WA-RD 854.1).\[[report](https://www.wsdot.wa.gov/research/reports/fullreports/854.1.pdf)\] -->
+4. **Wenshuo Wang**, Aditya Ramesh, Ding Zhao. [Unsurpervised classification of encountering scenarios using connected vehicle datasets](https://patents.google.com/patent/US20200133269A1/en). US20200133269A1, USA, 2020
+
+3. Ding Zhao, Jiacheng Zhu, **Wenshuo Wang**. [System and method for unifying heterogenous datasets using primitives](https://patents.google.com/patent/US20200193324A1/en). US20200193324A1, USA, 2020
+
+2. Ding Zhao, Senyu Mou, Yan Chang, **Wenshuo Wang**. [System and method for determining optimal LiDAR placement on autonomous vehicles](https://patents.google.com/patent/US20200191972A1/en). US20200191972A1, USA, 2020
+
+1. Junqiang Xi and **Wenshuo Wang**. [Intelligent driving systems with an embedded driver model](https://patents.google.com/patent/US10286900B2/en). US20170297564A1, USA, 2019
