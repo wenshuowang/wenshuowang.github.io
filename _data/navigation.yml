@@ -11,8 +11,8 @@ main:
   - title: "Awards"
     url: /awards/ 
 
-  # - title: "Tools & Code"
-  #   url: /tool_code/ 
+  - title: "Tools & Code"
+    url: /tool_code/ 
 
   # - title: "Dataset"
   #   url: /dataset/
