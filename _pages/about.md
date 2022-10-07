@@ -13,7 +13,7 @@ Hi! I am a **Postdoc Fellow** supported by [IVADO Fellowship Awards](https://iva
 <!-- My research lies in the intersection of Bayesian learning, reinforcement learning, optimization, and their applications to AI-based agents. -->
 
 
-My research *goal* is to develop analytically computable techniques to semantically understand and predict any human-involved interactions using machine learning (Bayesian learning, reinforcement learning, and active inference) with support of data and cognitive science toward eco-safe deployment of AI-based agents (e.g., autonomous cars) in human cyber-physical systems (H-CPS).
+My research *goal* is to develop analytically computable techniques to semantically understand and predict any human-involved interactions using machine learning (Bayesian learning, reinforcement learning, and active inference) with support of data and cognitive science toward *Socially Interactive Autonomous Mobility (SIAM)* in human cyber-physical systems.
 
 My research focuses on **Cognitive Autonomy & Interactive Learning (CAIL)** -- combining human interactive behavior analysis and prediction from insights of computational cognition with machine learning & AI techniques to enable mobile robotic systems (e.g. intelligent vehicles) to reason competently about their own safety, including:
 
