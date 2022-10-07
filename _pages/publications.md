@@ -1405,6 +1405,162 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2018brake" class="entry">
+      	<td>
+				  <img src="../images/research/wang2018brake.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang</strong>, et al.
+        </td>
+		    <td>
+				Learning and Inferring a Driver's Braking Action in Car-Following Scenarios<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2018brake','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2018brake','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8259345">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2018</td>
+        <td> IEEE Transactions on Vehicular Technology </td>
+      </tr>
+      <tr id="abs_wang2018brake" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Accurately predicting and inferring a driver's decision to brake is critical for designing warning systems and avoiding collisions. In this paper, we focus on predicting a driver's intent to brake in car-following scenarios from a perception-decision-action perspective according to his/her driving history. A learning-based inference method, using onboard data from CAN-Bus, radar, and cameras as explanatory variables, is introduced to infer drivers' braking decisions by combining a Gaussian mixture model (GMM) with a hidden Markov model (HMM). The GMM is used to model stochastic relationships among variables, while the HMM is applied to infer drivers' braking actions based on the GMM. Real-case driving data from 49 drivers (more than three years' driving data per driver on average) have been collected from the University of Michigan Safety Pilot Model Deployment database. We compare the GMM-HMM method to a support vector machine (SVM) method and a SVM-Bayesian filtering method. The experimental results are evaluated by employing three performance metrics: accuracy, sensitivity, and specificity. The comparison results show that the GMM-HMM obtains the best performance, with an accuracy of 90%, sensitivity of 84%, and specificity of 97%. Thus, we believe that this method has great potential for real-world active safety systems.</div></td>
+      </tr>
+      <tr id="bib_wang2018brake" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{wang2018learning,
+                  title={Learning and inferring a driver's braking action in car-following scenarios},
+                  author={Wang, Wenshuo and Xi, Junqiang and Zhao, Ding},
+                  journal={IEEE Transactions on Vehicular Technology},
+                  volume={67},
+                  number={5},
+                  pages={3887--3899},
+                  year={2018},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2018extracting" class="entry">
+      	<td>
+				  <img src="../images/research/wang2018extracting.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang</strong>, D. Zhao
+        </td>
+		    <td>
+				Extracting Traffic Primitives Directly From Naturalistically Logged Data for Self-Driving Applications<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2018extracting','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2018extracting','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8260870">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2018</td>
+        <td> IEEE Robotics and Automation Letters </td>
+      </tr>
+      <tr id="abs_wang2018extracting" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Developing an automated vehicle, that can handle complicated driving scenarios and appropriately interact with other road users, requires the ability to semantically learn and understand driving environment, oftentimes, based on analyzing massive amounts of naturalistic driving data. An important paradigm that allows automated vehicles to both learn from human drivers and gain insights is understanding the principal compositions of the entire traffic, termed as traffic primitives. However, the exploding data growth presents a great challenge in extracting primitives from high-dimensional time-series traffic data with various types of road users engaged. Therefore, automatically extracting primitives is becoming one of the cost-efficient ways to help autonomous vehicles understand and predict the complex traffic scenarios. In addition, the extracted primitives from raw data should 1) be appropriate for automated driving applications and also 2) be easily used to generate new traffic scenarios. However, existing literature does not provide a method to automatically learn these primitives from large-scale traffic data. The contribution of this letter has two manifolds. The first one is that we proposed a new framework to generate new traffic scenarios from a handful of limited traffic data. The second one is that, we introduce a nonparametric Bayesian learning method-a sticky hierarchical Dirichlet process hidden Markov model-to automatically extract primitives from multidimensional traffic data without prior knowledge of the primitive settings. The developed method is then validated using one day of naturalistic driving data. Experiment results show that the nonparametric Bayesian learning method is able to extract primitives from traffic scenarios where both the binary and continuous events coexist.</div></td>
+      </tr>
+      <tr id="bib_wang2018extracting" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{wang2018extracting,
+                  title={Extracting traffic primitives directly from naturalistically logged data for self-driving applications},
+                  author={Wang, Wenshuo and Zhao, Ding},
+                  journal={IEEE Robotics and Automation Letters},
+                  volume={3},
+                  number={2},
+                  pages={1223--1229},
+                  year={2018},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2017style" class="entry">
+      	<td>
+				  <img src="../images/research/wang2017style.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang</strong>, et al.
+        </td>
+		    <td>
+				Driving Style Classification Using a Semisupervised Support Vector Machine<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2017style','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2017style','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8015191">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2017</td>
+        <td>  IEEE Transactions on Human-Machine Systems  </td>
+      </tr>
+      <tr id="abs_wang2017style" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Supervised learning approaches are widely used for driving style classification; however, they often require a large amount of labeled training data, which is usually scarce in a real-world setting. Moreover, it is time-consuming to manually label huge amounts of driving data due to uncertainties of driver behavior and variances among the data analysts. To address this problem, a semisupervised approach, a semisupervised support vector machine (S3VM), is employed to classify drivers into aggressive and normal styles based on a few labeled data points. First, a few data clusters are selected and manually labeled using a k-means clustering method. Then, a specific differentiable surrogate of a loss function is developed, which makes it feasible to use standard optimization tools to solve the nonconvex optimization problem. One of the most popular quasi-Newton algorithms is then used to assign the optimal label to all of the training data. Finally, we compare the S3VM method with a support vector machine method for classifying driving styles from different amounts of labeled data. Experiments show that the S3VM method can improve the classification accuracy by about 10% and reduce the labeling effort by using only a few labeled data clusters among huge amounts of unlabeled data.</div></td>
+      </tr>
+      <tr id="bib_wang2017style" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{wang2017driving,
+                  title={Driving style classification using a semisupervised support vector machine},
+                  author={Wang, Wenshuo and Xi, Junqiang and Chong, Alexandre and Li, Lin},
+                  journal={IEEE Transactions on Human-Machine Systems},
+                  volume={47},
+                  number={5},
+                  pages={650--660},
+                  year={2017},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2017evaluation" class="entry">
+      	<td>
+				  <img src="../images/research/wang2017evaluation.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang</strong>, D. Zhao
+        </td>
+		    <td>
+				Evaluation of Lane Departure Correction Systems Using a Regenerative Stochastic Driver Model<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2017evaluation','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2017evaluation','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8049298">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2017</td>
+        <td>  IEEE Transactions on Intelligent Vehicles  </td>
+      </tr>
+      <tr id="abs_wang2017evaluation" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Evaluating the effectiveness and benefits of driver assistance systems is crucial for improving the system performance. In this paper, we propose a novel framework for testing and evaluating lane departure correction systems at a low cost by using lane departure events reproduced from naturalistic driving data. First, 529 096 lane departure events were extracted from the Safety Pilot Model Deployment database collected by the University of Michigan Transportation Research Institute. Second, a stochastic lane departure model consisting of eight random key variables was developed to reduce the dimension of the data description and improve the computational efficiency. With this purpose, we used a bounded Gaussian mixture model to describe drivers' stochastic lane departure behaviors. Then, a lane departure correction system with an aim point controller was designed, and a batch of lane departure events was reproduced from the learned stochastic driver model. Finally, we assessed the developed evaluation approach by comparing lateral departure areas of vehicles between with and without correction controllers. The simulation results show that the proposed method can effectively evaluate lane departure correction systems.</div></td>
+      </tr>
+      <tr id="bib_wang2017evaluation" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{wang2017evaluation,
+                  title={Evaluation of lane departure correction systems using a regenerative stochastic driver model},
+                  author={Wang, Wenshuo and Zhao, Ding},
+                  journal={IEEE Transactions on Intelligent Vehicles},
+                  volume={2},
+                  number={3},
+                  pages={221--232},
+                  year={2017},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
