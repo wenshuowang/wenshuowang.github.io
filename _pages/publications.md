@@ -735,7 +735,7 @@ author_profile: true
 				  <img src="../images/research/wang2019v2v.png" width="600" class="single_img">
 	      </td>
        	<td>
-         <strong>W. Wang*</strong>, J. Xi, J. K. Hedrick
+         W. Zhang, <strong>W. Wang*</strong>
         </td>
 		    <td>
 				Learning V2V Interactive Driving Patterns at Signalized Intersections<br>
