@@ -8,14 +8,14 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "Teaching"
-    url: /teaching/ 
+  - title: "Awards"
+    url: /awards/ 
 
-  - title: "Tools & Code"
-    url: /tool_code/ 
+  # - title: "Tools & Code"
+  #   url: /tool_code/ 
 
-  - title: "Dataset"
-    url: /dataset/
+  # - title: "Dataset"
+  #   url: /dataset/
     
   - title: "CV"
     url: /cv/
