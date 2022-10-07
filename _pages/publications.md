@@ -616,6 +616,81 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2020probabilistic" class="entry">
+      	<td>
+				  <img src="../images/research/wang2020probabilistic.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang*</strong>, et al.
+        </td>
+		    <td>
+				A Probabilistic Approach to Measuring Driving Behavior Similarity With Driving Primitives<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2020probabilistic','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2020probabilistic','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8910384">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2020</td>
+        <td>IEEE Transactions on Intelligent Vehicles</td>
+      </tr>
+      <tr id="abs_wang2020probabilistic" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Evaluating the similarity levels of driving behavior plays a pivotal role in driving style classification and analysis, thus benefiting the design of human-centric driver assistance systems. This article presents a novel framework capable of quantitatively measuring the similarity of driving behaviors for human based on driving primitives, i.e., the building blocks of driving behavior. To this end, we develop a Bayesian nonparametric method by integrating hierarchical Dirichlet process (HDP) with a hidden Markov model (HMM) in order to automatically extract the driving primitives from sequential observations without using any prior knowledge. Then, we propose a grid-based relative entropy approach, which allows quantifying the probabilistic similarity levels among these extracted primitives. Finally, the naturalistic driving data from 10 drivers are collected to evaluate the proposed framework, with comparison to traditional work. Experimental results demonstrate that the proposed probabilistic framework based on driving primitives can provide a quantitative measurement of similar levels of driving behavior associated with the dynamic and stochastic characteristics.</div></td>
+      </tr>
+      <tr id="bib_wang2020probabilistic" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{wang2019probabilistic,
+                  title={A probabilistic approach to measuring driving behavior similarity with driving primitives},
+                  author={Wang, Wenshuo and Han, Wei and Na, Xiaoxiang and Gong, Jianwei and Xi, Junqiang},
+                  journal={IEEE Transactions on Intelligent Vehicles},
+                  volume={5},
+                  number={1},
+                  pages={127--138},
+                  year={2019},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2020multivehicle" class="entry">
+      	<td>
+				  <img src="../images/research/wang2020multivehicle.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         W. Zhang, <strong>W. Wang*</strong>, J. Zhu, D. Zhao
+        </td>
+		    <td>
+				Multi-Vehicle Interaction Scenarios Generation with Interpretable Traffic Primitives and Gaussian Process Regression<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2020multivehicle','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2020multivehicle','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/9304568">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2020</td>
+        <td>2020 IEEE Intelligent Vehicles Symposium (IV)</td>
+      </tr>
+      <tr id="abs_wang2020multivehicle" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Generating multi-vehicle interaction scenarios can benefit motion planning and decision making of autonomous vehicles when on-road data is insufficient. This paper presents an efficient approach to generate varied multi-vehicle interaction scenarios that can both adapt to different road geometries and inherit the key interaction patterns in real-world driving. Towards this end, the available multi-vehicle interaction scenarios are temporally segmented into several interpretable fundamental building blocks, called traffic primitives, via the Bayesian nonparametric learning. Then, the changepoints of traffic primitives are transformed into the desired road to generate collision-free interaction trajectories through a sampling-based path planning algorithm. The Gaussian process regression is finally introduced to control the variance and smoothness of the generated multi-vehicle interaction trajectories. Experiments with simulation results of three multi-vehicle trajectories at different road conditions are carried out. The experimental results demonstrate that our proposed method can generate a bunch of human-like multi-vehicle interaction trajectories that can fit different road conditions remaining the key interaction patterns of agents in the provided scenarios, which is import to the development of autonomous vehicles.</div></td>
+      </tr>
+      <tr id="bib_wang2020multivehicle" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@inproceedings{zhang2020multi,
+                  title={Multi-vehicle interaction scenarios generation with interpretable traffic primitives and Gaussian process regression},
+                  author={Zhang, Weiyang and Wang, Wenshuo and Zhu, Jiacheng and Zhao, Ding},
+                  booktitle={2020 IEEE Intelligent Vehicles Symposium (IV)},
+                  pages={1197--1204},
+                  organization={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
