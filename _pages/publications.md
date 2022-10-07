@@ -919,6 +919,41 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2019recurrent" class="entry">
+      	<td>
+				  <img src="../images/research/wang2019recurrent.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         S. Qin, J. Zhu, J. Qin, <strong>W. Wang*</strong>, et al.
+        </td>
+		    <td>
+				Recurrent attentive neural process for sequential data<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2019recurrent','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2019recurrent','bibtex')">BibTeX</a>] 
+              		<!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8917212">PDF</a>] -->
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		[<a href="https://arxiv.org/abs/1910.09323">arXiv</a>]
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2019</td>
+        <td> NeuraIPS Workshop</td>
+      </tr>
+      <tr id="abs_wang2019recurrent" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Neural processes (NPs) learn stochastic processes and predict the distribution of target output adaptively conditioned on a context set of observed input-output pairs. Furthermore, Attentive Neural Process (ANP) improved the prediction accuracy of NPs by incorporating attention mechanism among contexts and targets. In a number of real-world applications such as robotics, finance, speech, and biology, it is critical to learn the temporal order and recurrent structure from sequential data. However, the capability of NPs capturing these properties is limited due to its permutation invariance instinct. In this paper, we proposed the Recurrent Attentive Neural Process (RANP), or alternatively, Attentive Neural Process-RecurrentNeural Network(ANP-RNN), in which the ANP is incorporated into a recurrent neural network. The proposed model encapsulates both the inductive biases of recurrent neural networks and also the strength of NPs for modelling uncertainty. We demonstrate that RANP can effectively model sequential data and outperforms NPs and LSTMs remarkably in a 1D regression toy example as well as autonomous-driving applications.</div></td>
+      </tr>
+      <tr id="bib_wang2019recurrent" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{qin2019recurrent,
+                  title={Recurrent attentive neural process for sequential data},
+                  author={Qin, Shenghao and Zhu, Jiacheng and Qin, Jimmy and Wang, Wenshuo and Zhao, Ding},
+                  journal={arXiv preprint arXiv:1910.09323},
+                  year={2019}
+                }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
