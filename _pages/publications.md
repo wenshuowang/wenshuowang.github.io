@@ -31,6 +31,46 @@ author_profile: true
 		</tr>
     </thead>
 	<tbody>
+  <tr id="wang2022trustworthy" class="entry">
+          <td>
+        <div class="polaroid">
+          <img src="../images/research/wang2022trustworthy.png" width="600" class="research_img">
+          <!-- <div class="container">
+          Local Prior Sensitivity
+          </div> -->
+        </div>
+      </td>
+          <td>H. Wang, <strong>W. Wang</strong>, H. Liu,  L. Sun</td>
+      <td>
+        On the Trustworthy Decision-Making Process of Human Drivers From the View of Perceptual Uncertainty Reduction<br>
+                <p class="infolinks"> 
+                  [<a href="javascript:toggleInfo('wang2022trustworthy','abstract')">Abstract</a>]
+                  <!-- [<a href="javascript:toggleInfo('wang2022trustworthy','bibtex')">BibTeX</a>]  -->
+                  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
+                  <!-- [<a href="https://arxiv.org/pdf/2007.00648">arXiv</a>] -->
+                  <!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
+                  <!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+                  <!-- [<a href="https://github.com/zhiyongc/GraphMarkovNetwork">Code</a>] -->
+                  <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+              </p>
+        </td>
+      <td>2022</td>
+          <td>IEEE Transactions on Intelligent Transportation Systems (Under review)</td>
+        </tr>
+        <tr id="abs_wang2022local" class="abstract noshow">
+          <td colspan="5"><div align="justify"> <b>Abstract</b>: Humans are experts in making decisions for challenging driving tasks with uncertainties. Many efforts have been made to model the decision-making process of human drivers at the behavior level. However, limited studies explain how human drivers actively make reliable sequential decisions to complete interactive driving tasks in an uncertain environment. This paper argues that human drivers intently search for actions to reduce the uncertainty of their perception of the environment, i.e., perceptual uncertainty, to a low level that allows them to make a trustworthy decision easily. This paper provides a proof of concept framework to empirically reveal that human drivers' perceptual uncertainty decreases when executing interactive tasks with uncertainties. We first introduce an explainable-artificial intelligence approach (i.e., SHapley Additive exPlanation, SHAP) to determine the salient features and ranks on which human drivers make decisions. Then, we use entropy-based measures to quantify the drivers' perceptual changes in these ranked salient features across the decision-making process, reflecting the changes in uncertainties. The validation and verification of our proposed method are conducted in the highway on-ramp merging scenario with congested traffic using the INTERACTION dataset. Experimental results support that human drivers intentionally seek information to reduce their perceptual uncertainties in the number and rank of salient features of their perception of environments to make a trustworthy decision.  </div></td>
+        </tr>
+        <tr id="bib_wang2022local" class="bibtex noshow">
+          <td colspan="5"><b>BibTeX</b>:
+                <pre>@inproceedings{wang2022local,
+                      title={Local Prior Sensitivity Analysis with Gradient Descent Search for Nonparametric Bayesian Learning},
+                      author={Wang, Wenshuo and Sun, Lijun},
+                      booktitle={The Montreal AI Symposium 2022},
+                      year={2022}
+                      }
+                </pre>
+        </td>
+    </tr>
     <tr id="wang2022local" class="entry">
           <td>
         <div class="polaroid">
