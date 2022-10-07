@@ -807,6 +807,118 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2019what" class="entry">
+      	<td>
+				  <img src="../images/research/wang2019what.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         S. Yang, <strong>W. Wang</strong>, et al.
+        </td>
+		    <td>
+				What contributes to driving behavior prediction at unsignalized intersections?<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2019what','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2019what','bibtex')">BibTeX</a>] 
+              		[<a href="https://www.sciencedirect.com/science/article/pii/S0968090X19312744">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2019</td>
+        <td> Transportation Research Part C: Emerging Technologies</td>
+      </tr>
+      <tr id="abs_wang2019what" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Safely passing through unsignalized intersections (USI) in urban area is challenging for autonomous vehicles due to high uncertainties of surrounding engaged human-driven vehicles. In order to achieve this, various variables have been selected to estimate and predict the surrounding human driver's behavior. However, it is still not fully clear what variables mostly contribute to driving behavior prediction at USI. This paper investigates the contribution levels of 13 features of human driver's decision-making at USI using a random forest approach. Thirty skilled driver participants are tested in a real-time driving simulator where the traffic scenarios with merging vehicles were designed in different motion styles to mimic real traffic. The experiment results indicate that the relative distance and velocity between merging vehicles have a wider contribution range (i.e., −0.4 −0.4) than the absolute velocity and distance features (i.e., −0.2 −0.2) to predict driver behavior. The contribution also varies over the selected feature values and driving conditions. This contribution research gains insight in the influence of different variables on driver behavior prediction at USI, thereby assisting researchers in selecting representative features in self-driving applications.</div></td>
+      </tr>
+      <tr id="bib_wang2019what" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{yang2019contributes,
+                  title={What contributes to driving behavior prediction at unsignalized intersections?},
+                  author={Yang, Shun and Wang, Wenshuo and Jiang, Yuande and Wu, Jian and Zhang, Sumin and Deng, Weiwen},
+                  journal={Transportation research part C: emerging technologies},
+                  volume={108},
+                  pages={100--114},
+                  year={2019},
+                  publisher={Elsevier}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2019modeling" class="entry">
+      	<td>
+				  <img src="../images/research/wang2019modeling.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         Y. Guo, V.V. Kalidindi, M. Arief, <strong>W. Wang</strong>, et al.
+        </td>
+		    <td>
+				Modeling Multi-Vehicle Interaction Scenarios Using Gaussian Random Field<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2019modeling','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2019modeling','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8917516">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2019</td>
+        <td> IEEE Intelligent Transportation Systems Conference (ITSC)</td>
+      </tr>
+      <tr id="abs_wang2019modeling" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Autonomous vehicles are expected to navigate in complex traffic scenarios with multiple surrounding vehicles. The correlations between road users vary over time, the degree of which, in theory, could be infinitely large, thus posing a great challenge in modeling and predicting the driving environment. In this paper, we propose a method to model multi-vehicle interactions using a stochastic vector field model and apply non-parametric Bayesian learning to extract the underlying motion patterns from a large quantity of naturalistic traffic data. We then use this model to reproduce the high-dimensional driving scenarios in a finitely tractable form. We use a Gaussian process to model multi-vehicle motion, and a Dirichlet process to assign each observation to a specific scenario. We verify the effectiveness of the proposed method on highway and intersection datasets from the NGSIM project, in which complex multi-vehicle interactions are prevalent. The results show that the proposed method can capture motion patterns from both settings, without imposing heroic prior, and hence demonstrate the potential application for a wide array of traffic situations. The proposed modeling method could enable simulation platforms and other testing methods designed for autonomous vehicle evaluation, to easily model and generate traffic scenarios emulating large scale driving data.</div></td>
+      </tr>
+      <tr id="bib_wang2019modeling" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@inproceedings{guo2019modeling,
+                  title={Modeling multi-vehicle interaction scenarios using gaussian random field},
+                  author={Guo, Yaohui and Kalidindi, Vinay Varma and Arief, Mansur and Wang, Wenshuo and Zhu, Jiacheng and Peng, Huei and Zhao, Ding},
+                  booktitle={2019 IEEE Intelligent Transportation Systems Conference (ITSC)},
+                  pages={3974--3980},
+                  year={2019},
+                  organization={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2019general" class="entry">
+      	<td>
+				  <img src="../images/research/wang2019general.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         C. Zhang, J. Zhu, <strong>W. Wang</strong>, et al.
+        </td>
+		    <td>
+				A General Framework of Learning Multi-Vehicle Interaction Patterns from Video<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2019general','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2019general','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8917212">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2019</td>
+        <td> IEEE Intelligent Transportation Systems Conference (ITSC)</td>
+      </tr>
+      <tr id="abs_wang2019general" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Semantic learning and understanding of multi-vehicle interaction patterns in a cluttered driving environment are essential but challenging for autonomous vehicles to make proper decisions. This paper presents a general framework to gain insights into intricate multi-vehicle interaction patterns from bird's-eye view traffic videos. We adopt a Gaussian velocity field to describe the time-varying multi-vehicle interaction behaviors and then use deep autoencoders to learn associated latent representations for each temporal frame. Then, we utilize a hidden semi-Markov model with a hierarchical Dirichlet process as a prior to segment these sequential representations into granular components, also called traffic primitives, corresponding to interaction patterns. Experimental results demonstrate that our proposed framework can extract traffic primitives from videos, thus providing a semantic way to analyze multi-vehicle interaction patterns, even for cluttered driving scenarios that are far messier than human beings can cope with.</div></td>
+      </tr>
+      <tr id="bib_wang2019general" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@inproceedings{zhang2019general,
+                  title={A general framework of learning multi-vehicle interaction patterns from video},
+                  author={Zhang, Chengyuan and Zhu, Jiacheng and Wang, Wenshuo and Zhao, Ding},
+                  booktitle={2019 IEEE Intelligent Transportation Systems Conference (ITSC)},
+                  pages={4323--4328},
+                  year={2019},
+                  organization={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
