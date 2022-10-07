@@ -8,11 +8,11 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "Awards"
-    url: /awards/ 
+  - title: "Talk & Awards"
+    url: /talk_awards/ 
 
-  - title: "Tools & Code"
-    url: /tool_code/ 
+  - title: "Services"
+    url: /services/ 
 
   # - title: "Dataset"
   #   url: /dataset/
