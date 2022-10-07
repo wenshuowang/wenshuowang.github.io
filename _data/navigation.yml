@@ -11,8 +11,8 @@ main:
   - title: "Talk & Awards"
     url: /talk_awards/ 
 
-  - title: "Services"
-    url: /services/ 
+  - title: "Service"
+    url: /service/ 
 
   # - title: "Dataset"
   #   url: /dataset/
