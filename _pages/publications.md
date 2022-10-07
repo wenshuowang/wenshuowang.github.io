@@ -1561,6 +1561,82 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2017how" class="entry">
+      	<td>
+				  <img src="../images/research/wang2017how.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang</strong>, C. Liu, D. Zhao
+        </td>
+		    <td>
+				How Much Data Are Enough? A Statistical Approach With Case Study on Longitudinal Driving Behavior<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2017how','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2017how','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/7959200">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2017</td>
+        <td>  IEEE Transactions on Intelligent Vehicles  </td>
+      </tr>
+      <tr id="abs_wang2017how" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Big data has shown its uniquely powerful ability to reveal, model, and understand driver behaviors. The amount of data affects the experiment cost and conclusions in the analysis. Insufficient data may lead to inaccurate models, whereas excessive data lead to waste resources. For projects that cost millions of dollars, it is critical to determine the right amount of data needed. However, how to decide the appropriate amount has not been fully studied in the realm of driver behaviors. This paper systematically investigates this issue to estimate how much naturalistic driving data (NDD) is needed for understanding driver behaviors from a statistical point of view. A general assessment method is proposed using a Gaussian kernel density estimation to catch the underlying characteristics of driver behaviors. We then apply the Kullback-Leibler divergence method to measure the similarity between density functions with differing amounts of NDD. A max-minimum approach is used to compute the appropriate amount of NDD. To validate our proposed method, we investigated the car-following case using NDD collected from the University of Michigan Safety Pilot Model Deployment program. We demonstrate that from a statistical perspective, the proposed approach can provide an appropriate amount of NDD capable of capturing most features of the normal car-following behavior, which is consistent with the experiment settings in many literatures.</div></td>
+      </tr>
+      <tr id="bib_wang2017how" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{wang2017much,
+                  title={How much data are enough? A statistical approach with case study on longitudinal driving behavior},
+                  author={Wang, Wenshuo and Liu, Chang and Zhao, Ding},
+                  journal={IEEE Transactions on Intelligent Vehicles},
+                  volume={2},
+                  number={2},
+                  pages={85--98},
+                  year={2017},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2017feature" class="entry">
+      	<td>
+				  <img src="../images/research/wang2017feature.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         S. Yang, <strong>W. Wang</strong>, C. Liu, W. Deng, J. K. Hedrick
+        </td>
+		    <td>
+				Feature analysis and selection for training an end-to-end autonomous vehicle controller using deep learning approach<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2017feature','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2017feature','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/7995850">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2017</td>
+        <td>  IEEE Intelligent Vehicles Symposium (IV)  </td>
+      </tr>
+      <tr id="abs_wang2017feature" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Deep learning-based approaches have been widely used for training controllers for autonomous vehicles due to their powerful ability to approximate nonlinear functions or policies. However, the training process usually requires large labeled data sets and takes a lot of time. In this paper, we analyze the influences of features on the performance of controllers trained using the convolutional neural networks (CNNs), which gives a guideline of feature selection to reduce computation cost. We collect a large set of data using The Open Racing Car Simulator (TORCS) and classify the image features into three categories (sky-related, roadside-related, and road-related features). We then design two experimental frameworks to investigate the importance of each single feature for training a CNN controller. The first framework uses the training data with all three features included to train a controller, which is then tested with data that has one feature removed to evaluate the feature's effects. The second framework is trained with the data that has one feature excluded, while all three features are included in the test data. Different driving scenarios are selected to test and analyze the trained controllers using the two experimental frameworks. The experiment results show that (1) the road-related features are indispensable for training the controller, (2) the roadside-related features are useful to improve the generalizability of the controller to scenarios with complicated roadside information, and (3) the sky-related features have limited contribution to train an end-to-end autonomous vehicle controller.</div></td>
+      </tr>
+      <tr id="bib_wang2017how" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@inproceedings{yang2017feature,
+                  title={Feature analysis and selection for training an end-to-end autonomous vehicle controller using deep learning approach},
+                  author={Yang, Shun and Wang, Wenshuo and Liu, Chang and Deng, Weiwen and Hedrick, J Karl},
+                  booktitle={2017 IEEE Intelligent Vehicles Symposium (IV)},
+                  pages={1033--1038},
+                  year={2017},
+                  organization={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
