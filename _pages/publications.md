@@ -1255,6 +1255,156 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2018HEV" class="entry">
+      	<td>
+				  <img src="../images/research/wang2018HEV.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         S. Yang, <strong>W. Wang*</strong>, F. Zhang, et al.
+        </td>
+		    <td>
+				Driving-Style-Oriented Adaptive Equivalent Consumption Minimization Strategies for HEVs<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2018HEV','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2018HEV','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8410451">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1910.08102">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2018</td>
+        <td> IEEE Transactions on Vehicular Technology  </td>
+      </tr>
+      <tr id="abs_wang2018HEV" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: The performance of energy management systems in hybrid electric vehicles (HEVs) is highly related to drivers’ driving style. This paper proposes a driving-style-oriented adaptive equivalent consumption minimization strategy (AECMS-style) in order to improve fuel economy for HEVs. For this purpose, first, a statistical pattern recognition approach is proposed to classify drivers into six groups from moderate to aggressive using kernel density estimation and entropy theory. Then, the effects of driving style on energy management strategies are discussed by analyzing the performance of the equivalent consumption minimization strategy (ECMS). Based on the comprehensive analysis, we design a new optimal equivalent factor adjustment rule for the AECMS-style and also redesign the braking strategy of motors at driving charging mode for different driving styles. Finally, five drivers with typical driving styles participate in experiments to show the effectiveness of our proposed method. Experimental results demonstrate that the AECMS-style can improve the fuel economy and charging sustainability of HEVs, compared with ECMS.</div></td>
+      </tr>
+      <tr id="bib_wang2018HEV" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{yang2018driving,
+                  title={Driving-style-oriented adaptive equivalent consumption minimization strategies for HEVs},
+                  author={Yang, Sen and Wang, Wenshuo and Zhang, Fengqi and Hu, Yuhui and Xi, Junqiang},
+                  journal={IEEE Transactions on Vehicular Technology},
+                  volume={67},
+                  number={10},
+                  pages={9249--9261},
+                  year={2018},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2018lane" class="entry">
+      	<td>
+				  <img src="../images/research/wang2018lane.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang</strong>, et al.
+        </td>
+		    <td>
+				A Learning-Based Approach for Lane Departure Warning Systems With a Personalized Driver Model<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2018lane','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2018lane','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8408761">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1910.08102">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2018</td>
+        <td> IEEE Transactions on Vehicular Technology  </td>
+      </tr>
+      <tr id="abs_wang2018lane" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Misunderstanding of driver correction behaviors is the primary reason for false warnings of lane-departure-prediction systems. We proposed a learning-based approach to predict unintended lane-departure behaviors and chances of drivers to bring vehicles back to the lane. First, a personalized driver model for lane-departure and lane-keeping behavior is established by combining the Gaussian mixture model and the hidden Markov model. Second, based on this model, we developed an online model-based prediction algorithm to predict the forthcoming vehicle trajectory and judge whether the driver will act a lane departure behavior or correction behavior. We also develop a warning strategy based on the model-based prediction algorithm that allows the lane-departure warning system to be acceptable for drivers according to the predicted trajectory. In addition, the naturalistic driving data of ten drivers were collected to train the personalized driver model and validate this approach. We compared the proposed method with a basic time-to-lane-crossing (TLC) method and a TLC-directional sequence of piecewise lateral slopes (TLC-DSPLS) method. Experimental results show that the proposed approach can reduce the false-warning rate to 3.13% on average at 1-s prediction time.</div></td>
+      </tr>
+      <tr id="bib_wang2018lane" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{wang2018learning,
+                  title={A learning-based approach for lane departure warning systems with a personalized driver model},
+                  author={Wang, Wenshuo and Zhao, Ding and Han, Wei and Xi, Junqiang},
+                  journal={IEEE Transactions on Vehicular Technology},
+                  volume={67},
+                  number={10},
+                  pages={9145--9157},
+                  year={2018},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2018lidar" class="entry">
+      	<td>
+				  <img src="../images/research/wang2018lidar.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         S. Mou, Y. Chang, <strong>W. Wang</strong>, et al.
+        </td>
+		    <td>
+				An Optimal LiDAR Configuration Approach for Self-Driving Cars<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2018lidar','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2018lidar','bibtex')">BibTeX</a>] 
+              		<!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8408761">PDF</a>] -->
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		[<a href="https://arxiv.org/abs/1805.07843">arXiv</a>]
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2018</td>
+        <td> ArXiv  </td>
+      </tr>
+      <tr id="abs_wang2018lidar" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: LiDARs plays an important role in self-driving cars and its configuration such as the location placement for each LiDAR can influence object detection performance. This paper aims to investigate an optimal configuration that maximizes the utility of on-hand LiDARs. First, a perception model of LiDAR is built based on its physical attributes. Then a generalized optimization model is developed to find the optimal configuration, including the pitch angle, roll angle, and position of LiDARs. In order to fix the optimization issue with off-the-shelf solvers, we proposed a lattice-based approach by segmenting the LiDAR's range of interest into finite subspaces, thus turning the optimal configuration into a nonlinear optimization problem. A cylinder-based method is also proposed to approximate the objective function, thereby making the nonlinear optimization problem solvable. A series of simulations are conducted to validate our proposed method. This proposed approach to optimal LiDAR configuration can provide a guideline to researchers to maximize the utility of LiDARs.</div></td>
+      </tr>
+      <tr id="bib_wang2018lidar" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{mou2018optimal,
+                  title={An optimal lidar configuration approach for self-driving cars},
+                  author={Mou, Shenyu and Chang, Yan and Wang, Wenshuo and Zhao, Ding},
+                  journal={arXiv preprint arXiv:1805.07843},
+                  year={2018}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2018unify" class="entry">
+      	<td>
+				  <img src="../images/research/wang2018unify.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         J. Zhu, <strong>W. Wang</strong>, et al.
+        </td>
+		    <td>
+				A Tempt to Unify Heterogeneous Driving Databases using Traffic Primitives<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2018unify','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2018unify','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8569940">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1805.07843">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2018</td>
+        <td> 21st International Conference on Intelligent Transportation Systems (ITSC) </td>
+      </tr>
+      <tr id="abs_wang2018unify" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: A multitude of publicly-available driving datasets and data platforms have been raised for autonomous vehicles (AV). However, the heterogeneities of databases in size, structure and driving context make existing datasets practically ineffective due to a lack of uniform frameworks and searchable indexes. In order to overcome these limitations on existing public datasets, this paper proposes a data unification framework based on traffic primitives with ability to automatically unify and label heterogeneous traffic data. This is achieved by two steps: 1) Carefully arrange raw multidimensional time series driving data into a relational database and then 2) automatically extract labeled and indexed traffic primitives from traffic data through a Bayesian nonparametric learning method. Finally, we evaluate the effectiveness of our developed framework using the collected real vehicle data.</div></td>
+      </tr>
+      <tr id="bib_wang2018unify" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@inproceedings{zhu2018tempt,
+                  title={A tempt to unify heterogeneous driving databases using traffic primitives},
+                  author={Zhu, Jiacheng and Wang, Wenshuo and Zhao, Ding},
+                  booktitle={2018 21st International Conference on Intelligent Transportation Systems (ITSC)},
+                  pages={2052--2057},
+                  year={2018},
+                  organization={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
