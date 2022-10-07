@@ -9,15 +9,16 @@ redirect_from:
 - "/about.html"
 ---
 
-Hi! I am a **Postdoc Fellow** supported by [IVADO Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding)  at the McGill University with [Lijun Sun](https://www.mcgill.ca/civil/lijun-sun). I am also fortunate to work with [J. Karl Hedrick](https://senate.universityofcalifornia.edu/in-memoriam/files/karl-hedrick.html), [Changliu Liu](http://icontrol.ri.cmu.edu/), [Xuanlong Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/), and [Ding Zhao](https://safeai-lab.github.io/). I received my Ph.D. degree in Mechanical Engineering from Beijing Institute of Technology, China in 2018. Prior to joining McGill, I was a Postdoctoral Fellow (2018-2020) with [UC Berkeley, DeepDrive](https://deepdrive.berkeley.edu/) and [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/). I was a Research Assistant (2015-2017) working with J. Karl Hedrick at UC Berkeley and Ding Zhao and Xuanlong Nguyen at University of Michigan. My research falls in the intersection of Bayesian learning, reinforcement learning, optimization, and their applications to AI-based mobilities.
+Hi! I am a **Postdoc Fellow** supported by [IVADO Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding)  at the McGill University with [Lijun Sun](https://www.mcgill.ca/civil/lijun-sun). I am also fortunate to work with [J. Karl Hedrick](https://senate.universityofcalifornia.edu/in-memoriam/files/karl-hedrick.html), [Changliu Liu](http://icontrol.ri.cmu.edu/), [Xuanlong Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/), and [Ding Zhao](https://safeai-lab.github.io/). I received my Ph.D. degree in Mechanical Engineering from Beijing Institute of Technology, China in 2018. Prior to joining McGill, I was a Postdoctoral Fellow (2018-2020) with [UC Berkeley, DeepDrive](https://deepdrive.berkeley.edu/) and [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/). I was a Research Assistant (2015-2017) working with J. Karl Hedrick at UC Berkeley and Ding Zhao and Xuanlong Nguyen at University of Michigan. 
+<!-- My research lies in the intersection of Bayesian learning, reinforcement learning, optimization, and their applications to AI-based agents. -->
 
 
-My research *goal* is to develop analytically computable tools to semantically understand and predict human-involved interactions using machine learning techniques with support of data science and cognitive science toward eco-safe deployment of AI-based agents (e.g., autonomous cars) in the human cyber-physical systems (H-CPS).
+My research *goal* is to develop analytically computable techniques to semantically understand and predict any human-involved interactions using machine learning with support of data and cognitive science toward eco-safe deployment of AI-based agents (e.g., autonomous cars) in human cyber-physical systems (H-CPS).
 
-My research *interests* mainly focus on **Cognitive Autonomy & Interactive Learning (CAIL)** --- combining human interactive behavior analysis and prediction from insights of computational cognition with machine learning & AI techniques to enable mobile robotic systems (e.g. intelligent vehicles) to reason competently about their own safety, thus making H-CPS more safe and smarter, including:
+My research *task* focuses on **Cognitive Autonomy & Interactive Learning (CAIL)** -- combining human interactive behavior analysis and prediction from insights of computational cognition with machine learning & AI techniques to enable mobile robotic systems (e.g. intelligent vehicles) to reason competently about their own safety, thus making H-CPS more safe and smarter, including:
 
-* Interaction behavior modeling and prediction, Cognition & perception, Human-robot interaction 
-* Intelligent transportation, Autonomous driving, Multi-agent interaction, Advanced driver assistance systems 
+* Human interaction, Cognition & perception, Human-robot interaction 
+* Autonomous driving, Multi-agent interaction, Advanced driver assistance systems 
 * Bayesian statistics & machine learning, Stocastic processes, (Inverse) Reinforcement learning and optimal control
 
 ## News 
