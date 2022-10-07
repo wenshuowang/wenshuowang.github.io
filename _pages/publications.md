@@ -691,6 +691,83 @@ author_profile: true
             </pre>
 			  </td>
       </tr>
+      <tr id="wang2019learning" class="entry">
+      	<td>
+				  <img src="../images/research/wang2019learning.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang*</strong>, J. Xi, J. K. Hedrick
+        </td>
+		    <td>
+				A Learning-Based Personalized Driver Model Using Bounded Generalized Gaussian Mixture Models<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2019learning','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2019learning','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8879516">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2019</td>
+        <td> IEEE Transactions on Vehicular Technology</td>
+      </tr>
+      <tr id="abs_wang2019learning" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Individual driver's driving behavior plays a pivotal role in personalized driver assistance systems. Gaussian mixture models (GMM) have been widely used to fit driving data, but unsuitable for capturing the data with a long-tailed distribution. Though the generalized GMM (GGMM) could overcome this fitting issue to some extent, it still cannot handle naturalistic data which is generally bounded. This paper presents a learning-based personalized driver model that can handle non-Gaussian and bounded naturalistic driving data. To this end, we develop a BGGMM-HMM framework to model driver behavior by integrating a hidden Markov model (HMM) in a bounded GGMM (BGGMM), which synthetically includes GMM and GGMM as special cases. Further, we design an associated iterative learning algorithm to estimate the model parameters. Naturalistic car-following driving data from eight drivers are used to demonstrate the effectiveness of BGGMM-HMM. Experimental results show that the personalized driver model of BGGMM-HMM that leverages the non-Gaussian and bounded support of driving data can improve model accuracy from 23~30% over traditional GMM-based models.</div></td>
+      </tr>
+      <tr id="bib_wang2019learning" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{wang2019learning,
+                  title={A learning-based personalized driver model using bounded generalized Gaussian mixture models},
+                  author={Wang, Wenshuo and Xi, Junqiang and Hedrick, J Karl},
+                  journal={IEEE Transactions on Vehicular Technology},
+                  volume={68},
+                  number={12},
+                  pages={11679--11690},
+                  year={2019},
+                  publisher={IEEE}
+                }
+            </pre>
+			  </td>
+      </tr>
+      <tr id="wang2019v2v" class="entry">
+      	<td>
+				  <img src="../images/research/wang2019v2v.png" width="600" class="single_img">
+	      </td>
+       	<td>
+         <strong>W. Wang*</strong>, J. Xi, J. K. Hedrick
+        </td>
+		    <td>
+				A Learning-Based Personalized Driver Model Using Bounded Generalized Gaussian Mixture Models<br>
+              	<p class="infolinks"> 
+              		[<a href="javascript:toggleInfo('wang2019v2v','abstract')">Abstract</a>]
+              		[<a href="javascript:toggleInfo('wang2019v2v','bibtex')">BibTeX</a>] 
+              		[<a href="https://ieeexplore.ieee.org/abstract/document/8879516">PDF</a>]
+              		<!-- [<a href="https://www.youtube.com/watch?v=CPfXCHWMZW8">Video</a>] -->
+              		<!-- [<a href="https://arxiv.org/abs/1801.02143">arXiv</a>] -->
+              		<!-- [<a href="https://github.com/zhiyongc/Vehicle-Rear-Light-Data">Data</a> -->
+            	</p>
+    		</td>
+ 			  <td>2019</td>
+        <td> Transportation Research Part C: Emerging Technologies</td>
+      </tr>
+      <tr id="abs_wang2019v2v" class="abstract noshow">
+        <td colspan="5"><div align="justify"> <b>Abstract</b>: Semantic understanding of multi-vehicle interaction patterns at intersections play a pivotal role in proper decision-making of autonomous vehicles. This paper presents a flexible framework to automatically extract these interaction patterns from observed temporal sequences based on driving primitives. A Bayesian nonparametric approach is developed to segment vehicle-to-vehicle (V2V) sequential observations into small analytically interpretable components (called driving primitives) without using prior knowledge. Then, an unsupervised clustering method is developed to gather these driving primitives into groups (called driving patterns) by integrating with dynamic time warping. In addition, the extracted driving primitives are used to quantitatively analyze the similarities between behaviors at different intersections using a relative entropy metric, i.e., KullbackLeibler (KL) divergence. Finally, 706 naturalistic V2V events from eight typical urban signalized intersections are used to validate the effectiveness of the proposed primitive-based framework. Experimental results demonstrate that there exist 15 types of interactive driving patterns for V2V behaviors at intersections in our database. Moreover, the distribution of interactive driving patterns could characterize the types of intersections.</div></td>
+      </tr>
+      <tr id="bib_wang2019v2v" class="bibtex noshow">
+        <td colspan="5"><b>BibTeX</b>:
+            <pre>@article{zhang2019learning,
+                title={Learning V2V interactive driving patterns at signalized intersections},
+                author={Zhang, Weiyang and Wang, Wenshuo},
+                journal={Transportation Research Part C: Emerging Technologies},
+                volume={108},
+                pages={151--166},
+                year={2019},
+                publisher={Elsevier}
+              }
+            </pre>
+			  </td>
+      </tr>
 	</tbody>
 </table>
 
