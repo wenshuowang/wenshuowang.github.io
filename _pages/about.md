@@ -17,7 +17,7 @@ My research *goal* is to develop analytically computable techniques to semantica
 
 My research focuses on <span style="color:gray"> **Cognitive Autonomy & Interactive Learning (CAIL)** </span> -- combining human interactive behavior analysis and prediction from insights of computational cognition with machine learning & AI techniques to enable mobile robotic systems to reason competently about their own safety, including:
 
-* Human interaction, Cognition & perception, Human-robot interaction 
+* Human behaivor, Cognition & perception, Human-robot interaction 
 * Autonomous driving, Multi-agent interaction, Advanced driver assistance systems 
 * Bayesian learning, Stocastic processes, (Inverse) Reinforcement learning, and Optimization
 
