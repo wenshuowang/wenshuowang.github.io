@@ -6,14 +6,12 @@ author_profile: true
 ---
 
 ## Editors/Associate Editors
-
 - IEEE Transactions on Intelligent Vehicles, 2022/02 --
 - IEEE Transactions on Vehcular Technology, 2021/01 --
 - Transportation Safety & Environment, 2021/01 --
 - The Journal of Engineering, 2020/05 --
 
 ## Reviewers
-
 - IEEE Transactions on Intelligent Transportaion Systems
 - IEEE Transactions on Intelligent Vehicles
 - IEEE Transactions on Human-Machine Systems
@@ -29,7 +27,6 @@ author_profile: true
 - IFAC Conference on Cyber-Physical \& Human-Systems
 
 ## Chairs/Co-chairs
-
 - Chair, Special Technical Session of AVVision on [ICIP2022](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1008).
 - General Chairs, [3rd AVVision Workshop](https://avvision.xyz/eccv22/) on ECCV’22.
 - Program Committee, [2nd AVVision Workshop](https://avvision.xyz/iccv21/) Organized Session on the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)
