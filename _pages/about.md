@@ -13,9 +13,9 @@ Hi! I am a Postdoc Fellow supported by [IVADO Fellowship Awards](https://ivado.c
 <!-- My research lies in the intersection of Bayesian learning, reinforcement learning, optimization, and their applications to AI-based agents. -->
 
 
-My research goal is to develop analytically computable techniques to understand and predict human-involved interactions using machine learning theory (Bayesian learning, reinforcement learning, and active inference) with support of data and cognitive sciences toward <span style="color:gray"> **Socially Interactive Autonomous Mobility (SIAM)** </span>.
+My research goal is to develop analytically-computable theoretical frameworks and practical algorithms to understand human-involved interactions using **machine learning** and **optimization** with support of data and cognitive sciences toward <span style="color:gray"> **Socially Interactive Autonomous Mobility (SIAM)** </span>, a turly intelligent vehicle which places the human at the center of a superior driving experience.
 
-My research interests lie in <span style="color:gray"> **Cognitive Autonomy & Interactive Learning (CAIL)** </span> -- integrating insights of computational cognition into <span style="color:gray"> **SIAM** </span> using machine learning & AI techniques to make AI-based agents more efficient, safer, and smarter, including:
+I study <span style="color:gray"> **Cognitive Autonomy & Interactive Learning (CAIL) toward SIAM** </span> -- integrating insights of computational cognition into SIAM using machine learning & AI techniques to make AI-based agents more efficient, safer, and smarter, including:
 
 * Human robot interaction, Human modeling, Cognition & perception
 * Autonomous vehicles, Multi-agent interaction, Human-centric systems 
