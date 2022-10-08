@@ -4,9 +4,9 @@ permalink: "/"
 excerpt: 
 author_profile: true
 layout: archive
-redirect_from:
-- "/about/"
-- "/about.html"
+# redirect_from:
+# - "/about/"
+# - "/about.html"
 ---
 ## About Me
 
