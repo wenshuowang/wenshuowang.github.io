@@ -8,8 +8,8 @@ layout: archive
 # - "/about/"
 # - "/about.html"
 ---
-## About Me
 
+## About Me
 Hi! I am a Postdoc Fellow supported by [IVADO Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) at McGill University with [Lijun Sun](https://www.mcgill.ca/civil/lijun-sun). I am also fortunate to work with [J. Karl Hedrick](https://senate.universityofcalifornia.edu/in-memoriam/files/karl-hedrick.html), [Changliu Liu](http://icontrol.ri.cmu.edu/), [Xuanlong Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/), and [Ding Zhao](https://safeai-lab.github.io/). I received my Ph.D. degree in Mechanical Engineering from Beijing Institute of Technology, China in 2018. Prior to joining McGill, I was a Postdoctoral Fellow (2018-2020) with [UC Berkeley, DeepDrive](https://deepdrive.berkeley.edu/) and [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/). I was a Research Assistant (2015-2017) working with J. Karl Hedrick at UC Berkeley and Ding Zhao and Xuanlong Nguyen at University of Michigan. 
 <!-- My research lies in the intersection of Bayesian learning, reinforcement learning, optimization, and their applications to AI-based agents. -->
 
