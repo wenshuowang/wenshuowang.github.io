@@ -17,9 +17,9 @@ My research goal is to develop analytically computable techniques to understand 
 
 My research interests lie in <span style="color:gray"> **Cognitive Autonomy & Interactive Learning (CAIL)** </span> -- integrating insights of computational cognition into <span style="color:gray"> **SIAM** </span> using machine learning & AI techniques to make AI-based agents more efficient, safer, and smarter, including:
 
-* Human robot interaction, Cognition & perception, Human modeling 
-* Autonomous driving, Multi-agent interaction, Human-centric systems 
-* Bayesian learning, Stocastic processes, (Inverse) Reinforcement learning, and Optimization
+* Human robot interaction, Human modeling, Cognition & perception
+* Autonomous vehicles, Multi-agent interaction, Human-centric systems 
+* Bayesian learning, (Inverse) Reinforcement learning, Active inference, and Optimization
 
 
 
