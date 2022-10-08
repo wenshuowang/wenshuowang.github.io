@@ -9,16 +9,16 @@ layout: archive
 # - "/about.html"
 ---
 
-Hi! I am a Postdoc Fellow supported by [IVADO Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) at McGill University with [Lijun Sun](https://www.mcgill.ca/civil/lijun-sun). I am also fortunate to work with [J. Karl Hedrick](https://senate.universityofcalifornia.edu/in-memoriam/files/karl-hedrick.html), [Changliu Liu](http://icontrol.ri.cmu.edu/), [Xuanlong Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/), and [Ding Zhao](https://safeai-lab.github.io/). I received my Ph.D. degree in Mechanical Engineering from Beijing Institute of Technology, China in 2018. Prior to joining McGill, I was a Postdoctoral Fellow (2018-2020) with [UC Berkeley, DeepDrive](https://deepdrive.berkeley.edu/) and [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/). I was a Research Assistant (2015-2017) working with J. Karl Hedrick at UC Berkeley and Ding Zhao and Xuanlong Nguyen at University of Michigan. 
+Hi! I am a Postdoc Fellow supported by [IVADO Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) at McGill University with [Lijun Sun](https://www.mcgill.ca/civil/lijun-sun). I am also fortunate to work with [J. Karl Hedrick](https://senate.universityofcalifornia.edu/in-memoriam/files/karl-hedrick.html), [Changliu Liu](http://icontrol.ri.cmu.edu/), [Xuanlong Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/), and [Ding Zhao](https://safeai-lab.github.io/). I received my Ph.D. degree in Mechanical Engineering from Beijing Institute of Technology, China in 2018. Prior to joining McGill, I was a Postdoctoral Fellow (2018-2020) with [UC Berkeley, DeepDrive](https://deepdrive.berkeley.edu/) and [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/). I was a Research Assistant at [UC Berkeley](https://me.berkeley.edu/faculty/) and [University of Michigan](https://me.engin.umich.edu/) (2015-2017). 
 <!-- My research lies in the intersection of Bayesian learning, reinforcement learning, optimization, and their applications to AI-based agents. -->
 
 
-My research goal is to develop analytically computable techniques to semantically understand and predict any human-involved interactions using machine learning (Bayesian learning, reinforcement learning, and active inference) with support of data and cognitive science toward <span style="color:gray"> **Socially Interactive Autonomous Mobility** </span> in human environments.
+My research goal is to develop analytically computable techniques to understand and predict human-involved interactions using machine learning theory (Bayesian learning, reinforcement learning, and active inference) with support of data and cognitive sciences toward <span style="color:gray"> **Socially Interactive Autonomous Mobility (SIAM)** </span>.
 
-My research interests lie in <span style="color:gray"> **Cognitive Autonomy & Interactive Learning (CAIL)** </span> -- integrating insights of computational cognition into socially interactive autonomous mobility using machine learning & AI techniques to make AI-based agents more efficient, safer, and smarter, including:
+My research interests lie in <span style="color:gray"> **Cognitive Autonomy & Interactive Learning (CAIL)** </span> -- integrating insights of computational cognition into <span style="color:gray"> **SIAM** </span> using machine learning & AI techniques to make AI-based agents more efficient, safer, and smarter, including:
 
-* Human robot interaction, Cognition & perception, Human factors 
-* Autonomous driving, Multi-agent interaction, Advanced driver assistance systems 
+* Human robot interaction, Cognition & perception, Human modeling 
+* Autonomous driving, Multi-agent interaction, Human-centric systems 
 * Bayesian learning, Stocastic processes, (Inverse) Reinforcement learning, and Optimization
 
 
