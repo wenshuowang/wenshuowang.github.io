@@ -19,8 +19,8 @@ My research goal is to develop theoretical frameworks and practical algorithms t
 I am working on <span style="color:gray"> **Cognitive Autonomy & Interactive Learning (CAIL) toward SIAM** </span> -- integrating insights of computational cognition into SIAM using machine learning & AI techniques to make AI-based agents more efficient, safer, and smarter, including:
 
 * Human robot interaction, Human modeling, Cognition & perception
-* Autonomous vehicles, Multi-agent interaction, Human-centric systems 
-* Bayesian learning, (Inverse) Reinforcement learning, Active inference, and Optimization
+* Autonomous vehicles, Multi-agent interaction, Human-centric systems, Personalized mobility 
+* Bayesian learning, (Inverse) Reinforcement learning, Active inference, and Optimization & control
 
 
 
