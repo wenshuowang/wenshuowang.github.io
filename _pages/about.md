@@ -39,16 +39,16 @@ I am working on <span style="color:gray"> **Cognitive Autonomy & Interactive Lea
   </thead>
 </table>
 
-* <span style="color:darkred"> New! </span> Nov. 2022. I will give a talk to the Applied Research for Mobility System (ARMS) Group, Oak Ridge National Laboratory (ORNL).
-* <span style="color:darkred"> New! </span> Oct. 2022. Our AVVision workshop will be held on the special session of [ICIP2022](https://2022.ieeeicip.org/special-sessions/).
-* <span style="color:darkred"> New! </span> Oct. 2022. I was invited to give an online talk for the School of Mechanical Engineering, Southeast University.
-* <span style="color:darkred"> New! </span> Sept. 2022. My two papers were accepted to [The Montreal AI Symposium 2022](http://montrealaisymposium.com/). 
-* <span style="color:darkred"> New! </span> Sept. 2022. Our new [NSERC](https://www.nserc-crsng.gc.ca/innovate-innover/alliance-alliance/index_eng.asp) propsoal on Driving Behavior Interaction was approved by collaborating with [Changliu Liu @ CMU](http://icontrol.ri.cmu.edu/)! 
-* <span style="color:darkred"> New! </span> Aug. 2022. My new review paper on [Social Interactions for Autonomous Driving](https://arxiv.org/abs/2208.07541) is online. 
-* <span style="color:darkred"> New! </span> Jul. 2022. I was invited to give a talk on [COTA](http://cota-home.org/CICTP/CICTP2019.html).
-* <span style="color:darkred"> New! </span> May 2022. I was recognized as the Top 50 [Rising Star Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu. 
-* <span style="color:darkred"> New! </span> May 2022. I was invited to give an online talk on [IEEE ICRA2022](https://www.icra2022.org/). 
-* <span style="color:darkred"> New! </span> Jan. 2022. I was asigned as the Associate Editor of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857).
+* <span style="color:darkred"> New! </span> 11/2022. I will give a talk to the Applied Research for Mobility System (ARMS) Group, Oak Ridge National Laboratory (ORNL).
+* <span style="color:darkred"> New! </span> 10/2022. Our AVVision workshop will be held on the special session of [ICIP2022](https://2022.ieeeicip.org/special-sessions/).
+* <span style="color:darkred"> New! </span> 10/2022. I was invited to give an online talk for the School of Mechanical Engineering, Southeast University.
+* <span style="color:darkred"> New! </span> 09/2022. My two papers were accepted to [The Montreal AI Symposium 2022](http://montrealaisymposium.com/). 
+* <span style="color:darkred"> New! </span> 09/2022. Our new [NSERC](https://www.nserc-crsng.gc.ca/innovate-innover/alliance-alliance/index_eng.asp) propsoal on Driving Behavior Interaction was approved by collaborating with [Changliu Liu @ CMU](http://icontrol.ri.cmu.edu/)! 
+* <span style="color:darkred"> New! </span> 08/2022. My new review paper on [Social Interactions for Autonomous Driving](https://arxiv.org/abs/2208.07541) is online. 
+* <span style="color:darkred"> New! </span> 07/2022. I was invited to give a talk on [COTA](http://cota-home.org/CICTP/CICTP2019.html).
+* <span style="color:darkred"> New! </span> 05/2022. I was recognized as the Top 50 [Rising Star Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu. 
+* <span style="color:darkred"> New! </span> 05/2022. I was invited to give an online talk on [IEEE ICRA2022](https://www.icra2022.org/). 
+* <span style="color:darkred"> New! </span> 01/2022. I was asigned as the Associate Editor of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857).
 
 
 
