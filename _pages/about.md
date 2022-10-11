@@ -46,7 +46,7 @@ I am working on <span style="color:gray"> **Cognitive Autonomy & Interactive Lea
 * <span style="color:darkred"> New! </span> Sept. 2022. Our new NSERC propsoal on Quantification of Multiagent Driving Behavior Interaction was approved! 
 * <span style="color:darkred"> New! </span> Aug. 2022. My new review paper on [Social Interactions for Autonomous Driving](https://arxiv.org/abs/2208.07541) is online. 
 * <span style="color:darkred"> New! </span> Jul. 2022. I was invited to give a talk on [COTA](http://cota-home.org/CICTP/CICTP2019.html).
-* <span style="color:darkred"> New! </span> May 2022. I was recognized as the a Rising Star Scholar on “AI+X” by Baidu Xueshu, Top 50. 
+* <span style="color:darkred"> New! </span> May 2022. I was recognized as the Top 50 [Rising Star Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu. 
 * <span style="color:darkred"> New! </span> May 2022. I was invited to give an online talk on [IEEE ICRA2022](https://www.icra2022.org/). 
 * <span style="color:darkred"> New! </span> Jan. 2022. I was asigned as the Associate Editor of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857).
 
