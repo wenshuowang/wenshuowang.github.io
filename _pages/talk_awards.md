@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %}
 -->
 ## Awards
-- 2022/04, Top 50 Rising Star Scholar on “AI+X” by Baidu Xueshu in the world.
+- 2022/04, Top 50 [Rising Star Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu.
 - 2020/08, [IVADO Postdoc Research Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) for Two Years, Canada.
 - 2019/07, [3rd Summer School on Cognitive Robotics](https://sites.usc.edu/cognitive-robotics/), LA, USA.
 - 2018/07, The Best Ph.D. Dissertation Awards in China Society of Automotive Engineers (SAE-China).
