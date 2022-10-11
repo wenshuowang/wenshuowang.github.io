@@ -48,7 +48,7 @@ I am working on <span style="color:gray"> **Cognitive Autonomy & Interactive Lea
 * <span style="color:darkred"> New! </span> Jul. 2022. I was invited to give a talk on [COTA](http://cota-home.org/CICTP/CICTP2019.html).
 * <span style="color:darkred"> New! </span> May 2022. I was recognized as the a Rising Star Scholar on “AI+X” by Baidu Xueshu, Top 50. 
 * <span style="color:darkred"> New! </span> May 2022. I was invited to give an online talk on [IEEE ICRA2022](https://www.icra2022.org/). 
-* <span style="color:darkred"> New! </span> May 2022. I was asigned as the Associate Editor of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857).
+* <span style="color:darkred"> New! </span> Jan. 2022. I was asigned as the Associate Editor of [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857).
 
 
 
