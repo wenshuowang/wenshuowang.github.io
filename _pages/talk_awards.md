@@ -12,12 +12,12 @@ author_profile: true
 {% endfor %}
 -->
 ## Awards
-- 2022/04, Top 50 [Rising Star Young Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu.
-- 2020/08, [IVADO Postdoc Research Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) for Two Years, Canada.
-- 2019/07, [3rd Summer School on Cognitive Robotics](https://sites.usc.edu/cognitive-robotics/), LA, USA.
-- 2018/07, The Best Ph.D. Dissertation Awards in China Society of Automotive Engineers (SAE-China).
-- 2017/09, Excellent Ph.D. Programs Fellowship of Beijing Institute of Technology (BIT), China.
-- 2015/04, Two-Year Graduate Student Fellowship of China Scholarship Councils (CSC), China.
+- 04/2022, Top 50 [Rising Star Young Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu.
+- 08/2020, [IVADO Postdoc Research Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) for Two Years, Canada.
+- 07/2019, [3rd Summer School on Cognitive Robotics](https://sites.usc.edu/cognitive-robotics/), LA, USA.
+- 07/2018, The Best Ph.D. Dissertation Awards in China Society of Automotive Engineers (SAE-China).
+- 09/2017, Excellent Ph.D. Programs Fellowship of Beijing Institute of Technology (BIT), China.
+- 04/2015, Two-Year Graduate Student Fellowship of China Scholarship Councils (CSC), China.
 
 ## Talks
 
