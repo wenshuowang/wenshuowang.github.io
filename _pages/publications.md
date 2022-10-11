@@ -20,6 +20,8 @@ author_profile: true
 
 ## Journal/Conference
 
+*Corresponding Author
+
 <table style="width:100%">
     <thead>
 		<tr>
@@ -40,7 +42,7 @@ author_profile: true
           </div> -->
         </div>
       </td>
-          <td>H. Wang, <strong>W. Wang</strong>, H. Liu,  L. Sun</td>
+          <td>H. Wang, H. Liu, <strong>W. Wang*</strong>,  L. Sun</td>
       <td>
         On the Trustworthy Decision-Making Process of Human Drivers From the View of Perceptual Uncertainty Reduction<br>
                 <p class="infolinks"> 
