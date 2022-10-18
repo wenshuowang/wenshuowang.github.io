@@ -42,8 +42,9 @@ I am working on <span style="color:gray"> **Cognitive Autonomy & Interactive Lea
   </thead>
 </table>
 
+* <span style="color:darkred"> New! </span> 11/2022. I will give an invited talk to the Tongji University, China.
 * <span style="color:darkred"> New! </span> 11/2022. I will give a talk to the [Applied Research for Mobility System Group, Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/section/vehicle-and-mobility-systems-research).
-* <span style="color:darkred"> New! </span> 10/2022. Our AVVision workshop will be held on the special session of [ICIP2022](https://2022.ieeeicip.org/special-sessions/).
+* <span style="color:darkred"> New! </span> 10/2022. Our AVVision workshop was held on the special session of [ICIP2022](https://2022.ieeeicip.org/special-sessions/).
 * <span style="color:darkred"> New! </span> 10/2022. I was invited to give an online talk for the School of Mechanical Engineering, Southeast University.
 * <span style="color:darkred"> New! </span> 09/2022. My two papers were accepted to [The Montreal AI Symposium 2022](http://montrealaisymposium.com/). 
 * <span style="color:darkred"> New! </span> 09/2022. Our [NSERC](https://www.nserc-crsng.gc.ca/innovate-innover/alliance-alliance/index_eng.asp) propsoal on Driving Behavior Interaction was approved by collaborating with [Changliu Liu @ CMU](http://icontrol.ri.cmu.edu/)! 
