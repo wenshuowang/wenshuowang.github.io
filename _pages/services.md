@@ -16,10 +16,11 @@ author_profile: true
 -->
 
 ## Editors/Associate Editors
-- IEEE Transactions on Intelligent Vehicles, 2022/02 --
-- IEEE Transactions on Vehcular Technology, 2021/01 --
-- Transportation Safety & Environment, 2021/01 --
-- The Journal of Engineering, 2020/05 --
+- Journal of Field Robotics, 2022/10 -- present
+- IEEE Transactions on Intelligent Vehicles, 2022/02 -- present
+- IEEE Transactions on Vehcular Technology, 2021/01 -- present
+- Transportation Safety & Environment, 2021/01 -- present
+- The Journal of Engineering, 2020/05 -- present
 
 ## Reviewers
 - IEEE Transactions on Intelligent Transportaion Systems
