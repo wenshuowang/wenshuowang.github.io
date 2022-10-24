@@ -13,8 +13,6 @@ layout: archive
 Hi! I am a Postdoc Fellow supported by [IVADO Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) at McGill University with [Lijun Sun](https://www.mcgill.ca/civil/lijun-sun). I am also fortunate to work with [J. Karl Hedrick](https://senate.universityofcalifornia.edu/in-memoriam/files/karl-hedrick.html), [Changliu Liu](http://icontrol.ri.cmu.edu/), [Xuanlong Nguyen](http://dept.stat.lsa.umich.edu/~xuanlong/), [Ching-Yao Chan](https://path.berkeley.edu/home), and [Ding Zhao](https://safeai-lab.github.io/). I received my Ph.D. degree (Best Dissertation Award) in Mechanical Engineering from [Beijing Institute of Technology](https://me-english.bit.edu.cn/), China in 2018. Prior to joining McGill, I was a Postdoctoral Fellow (2018-2020) with [UC Berkeley, DeepDrive](https://deepdrive.berkeley.edu/) and [Carnegie Mellon University](https://www.meche.engineering.cmu.edu/). I was a Research Assistant at [UC Berkeley](https://me.berkeley.edu/faculty/) and [University of Michigan](https://me.engin.umich.edu/) (2015-2017). 
 
 
-<!-- My research lies in the intersection of Bayesian learning, reinforcement learning, optimization, and their applications to AI-based agents. -->
-
 <img align="right" src="../images/research/researchframe.png" width="300">
 
 My research interest lies at <span style="color:gray"> **Cognitive Autonomy & Interactive Learning (CAIL)** </span>, which leverages insights of computational cognitive science with machine learning theory to enable AI-based agents more efficient, safer, and smarter when interacting with human agents. My research goal is to develop theoretical frameworks and practical algorithms to understand human interactions by employing **Bayesian learning** and **optimization** with the support of **computational cognitive sciences** toward <span style="color:gray"> **Socially Interactive Autonomous Mobility (SIAM)**</span>, a truly safe and trustworthy system that places the human at the center of a superior driving experience, including:
@@ -22,16 +20,6 @@ My research interest lies at <span style="color:gray"> **Cognitive Autonomy & In
 * Human robot interaction, Human modeling, Cognition & perception
 * Autonomous vehicles, Multi-agent interaction, Human-centric systems, Personalized mobility 
 * Bayesian learning, (Inverse) Reinforcement learning, Active inference, and Optimization & control
-
-<!-- My research goal is to develop theoretical frameworks and practical algorithms to understand human interactions employing **Bayesian learning** and **optimization** with the support of **computational cognitive sciences** toward <span style="color:gray"> **Socially Interactive Autonomous Mobility (SIAM)**</span>, a turly intelligent vehicle which places the human at the center of a superior driving experience.
-
-I am working on <span style="color:gray"> **Cognitive Autonomy & Interactive Learning (CAIL) for SIAM** </span> by leveraging insights of computational cognitive science with machine learning theory to enable AI-based agents more efficient, safer, and smarter, including:
-
-* Human robot interaction, Human modeling, Cognition & perception
-* Autonomous vehicles, Multi-agent interaction, Human-centric systems, Personalized mobility 
-* Bayesian learning, (Inverse) Reinforcement learning, Active inference, and Optimization & control -->
-
-
 
 ## News 
 <table style="width:100%">
