@@ -175,9 +175,9 @@ author_profile: true
         <tr id="bib_wang2022social" class="bibtex noshow">
           <td colspan="5"><b>BibTeX</b>:
                 <pre>@article{wang2022social,
-                      title={Social Interactions for Autonomous Driving: A Review and Perspective},
+                      title={Social Interactions for Autonomous Driving: A Review and Perspectives},
                       author={Wang, Wenshuo and Wang, Letian and Zhang, Chengyuan and Liu, Changliu and Sun, Lijun},
-                      journal={Foundation and Trends in Robotics},
+                      journal={Foundations and Trends in Robotics},
                       volume = {10},
                       number = {3-4},
                       pages = {197--376},
