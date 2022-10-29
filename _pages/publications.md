@@ -177,7 +177,11 @@ author_profile: true
                 <pre>@article{wang2022social,
                       title={Social Interactions for Autonomous Driving: A Review and Perspective},
                       author={Wang, Wenshuo and Wang, Letian and Zhang, Chengyuan and Liu, Changliu and Sun, Lijun},
-                      journal={arXiv preprint arXiv:2208.07541},
+                      journal={Foundation and Trends in Robotics},
+                      volume = {10},
+                      number = {3-4},
+                      pages = {197--376},
+                      doi = {10.1561/2300000078},
                       year={2022}
                       }
                 </pre>
