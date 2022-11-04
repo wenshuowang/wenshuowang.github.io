@@ -30,7 +30,7 @@ My research interest lies at <span style="color:gray">**Cognitive Autonomy & Int
   </thead>
 </table>
 
-* <span style="color:darkred"> New! </span> 11/2022. Our 1st International Workshop on Socially Interactive Autonomous Mobility (SIAM) will be hosted along IEEE IV'23 on June 4, 2023.
+* <span style="color:darkred"> New! </span> 11/2022. Our 1st International Workshop on Socially Interactive Autonomous Mobility (SIAM) will be hosted along IEEE IV'23.
 * <span style="color:darkred"> New! </span> 11/2022. I will give an invited talk to the Tongji University, China.
 * <span style="color:darkred"> New! </span> 11/2022. I will give a talk to the [Applied Research for Mobility System Group, Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/section/vehicle-and-mobility-systems-research).
 * <span style="color:darkred"> New! </span> 10/2022. I was invited to join the [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967) as an Associate Editor.
