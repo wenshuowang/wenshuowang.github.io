@@ -30,6 +30,8 @@ My research interest lies at <span style="color:gray">**Cognitive Autonomy & Int
   </thead>
 </table>
 
+
+* <span style="color:darkred"> New! </span> 11/2022. One paper is accepted by IEEE RA-L. Congrats!
 * <span style="color:darkred"> New! </span> 11/2022. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) will be hosted at IEEE IV'23.
 * <span style="color:darkred"> New! </span> 11/2022. I will give an invited talk to the Tongji University, China.
 * <span style="color:darkred"> New! </span> 11/2022. I gave a talk to the [Applied Research for Mobility System Group, Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/section/vehicle-and-mobility-systems-research).
