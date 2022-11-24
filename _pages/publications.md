@@ -161,7 +161,7 @@ author_profile: true
                 <p class="infolinks"> 
                   [<a href="javascript:toggleInfo('wang2022social','abstract')">Abstract</a>]
                   [<a href="javascript:toggleInfo('wang2022social','bibtex')">BibTeX</a>] 
-                  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
+                  [<a href="https://www.nowpublishers.com/article/Details/ROB-078">PDF</a>]
                   [<a href="https://arxiv.org/abs/2208.07541">arXiv</a>]
                   <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
               </p>
