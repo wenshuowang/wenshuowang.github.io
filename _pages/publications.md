@@ -180,7 +180,7 @@ author_profile: true
                       journal={Foundations and Trends in Robotics},
                       volume = {10},
                       number = {3-4},
-                      pages = {197--376},
+                      pages = {198--376},
                       doi = {10.1561/2300000078},
                       year={2022}
                       }
