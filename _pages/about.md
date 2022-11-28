@@ -31,7 +31,6 @@ My research interest lies at <span style="color:gray">**Cognitive Autonomy & Int
 </table>
 
 * <span style="color:darkred"> New! </span> Our research project on [Interactions for Automated Vehicles](https://chengyuan-zhang.github.io/Multivehicle-Interaction/) is ready to access. Wecome to join us!
-
 * <span style="color:darkred"> New! </span> 11/2022. Our long paper on [Social Interactions for Autonomous Driving](https://www.nowpublishers.com/article/Details/ROB-078) is accepted by Foundations and Trends in Robotics.
 * <span style="color:darkred"> New! </span> 11/2022. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) will be hosted at IEEE IV'23.
 * <span style="color:darkred"> New! </span> 11/2022. I gave an invited talk to the Tongji University, China.
