@@ -33,7 +33,36 @@ author_profile: true
 		</tr>
     </thead>
 	<tbody>
-  <tr id="wang2022trustworthy" class="entry">
+  <tr id="wang2023efficient" class="entry">
+          <td>
+        <div class="polaroid">
+          <img src="../images/research/wang2023efficient.png" width="600" class="research_img">
+          <!-- <div class="container">
+          Local Prior Sensitivity
+          </div> -->
+        </div>
+      </td>
+          <td>L. Wang, J. Liu, H. Shao, <strong>W. Wang</strong>, R. Chen, Y. Liu, S. L. Waslander</td>
+      <td>
+        Efficient Reinforcement Learning for Autonomous Driving with Parameterized Skills and Priors<br>
+                <p class="infolinks"> 
+                  [<a href="javascript:toggleInfo('wang2023efficient','abstract')">Abstract</a>]
+                  <!-- [<a href="javascript:toggleInfo('wang2022trustworthy','bibtex')">BibTeX</a>]  -->
+                  <!-- [<a href="https://ieeexplore.ieee.org/abstract/document/8956222">PDF</a>] -->
+                  [<a href="https://arxiv.org/abs/2305.04412">arXiv</a>]
+                  <!-- [<a href="http://tps.uwstarlab.org/">Website</a>] -->
+                  <!-- [<a href="https://zhiyongcui.com/blog/2020/07/16/graph-markov-network.html">Post</a>] -->
+                  [<a href="https://github.com/Letian-Wang/asaprl">Code</a>]
+                  <!-- [<a href="https://github.com/zhiyongc/Graph_Convolutional_LSTM">code</a>] -->
+              </p>
+        </td>
+      <td>2023</td>
+      <td>Robotics: Science and Systems, Jul 10 – Jul 14, 2023, Daegu, Korea</td>
+  </tr>
+  <tr id="abs_wang2023efficient" class="abstract noshow">
+      <td colspan="5"><div align="justify"> <b>Abstract</b>: When autonomous vehicles are deployed on public roads, they will encounter countless and diverse driving situations. Many manually designed driving policies are difficult to scale to the real world. Fortunately, reinforcement learning has shown great success in many tasks by automatic trial and error. However, when it comes to autonomous driving in interactive dense traffic, RL agents either fail to learn reasonable performance or necessitate a large amount of data. Our insight is that when humans learn to drive, they will 1) make decisions over the high-level skill space instead of the low-level control space and 2) leverage expert prior knowledge rather than learning from scratch. Inspired by this, we propose ASAP-RL, an efficient reinforcement learning algorithm for autonomous driving that simultaneously leverages motion skills and expert priors. We first parameterized motion skills, which are diverse enough to cover various complex driving scenarios and situations. A skill parameter inverse recovery method is proposed to convert expert demonstrations from control space to skill space. A simple but effective double initialization technique is proposed to leverage expert priors while bypassing the issue of expert suboptimality and early performance degradation. We validate our proposed method on interactive dense-traffic driving tasks given simple and sparse rewards. Experimental results show that our method can lead to higher learning efficiency and better driving performance relative to previous methods that exploit skills and priors differently. Code is open-sourced to facilitate further research.  </div>
+    </td>
+  <tr id="wang2023efficient" class="entry">
           <td>
         <div class="polaroid">
           <img src="../images/research/wang2022trustworthy.png" width="600" class="research_img">
