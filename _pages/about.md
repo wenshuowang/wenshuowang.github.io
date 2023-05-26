@@ -30,6 +30,7 @@ My research interest lies at <span style="color:gray">**Cognitive Autonomy & Int
   </thead>
 </table>
 
+* <span style="color:darkred"> New! </span> 05/2023. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) is ready! Welcome to join us!
 * <span style="color:darkred"> New! </span> 05/2023. Congrats! One journal paper is accepted by IEEE Trans. Intell. Vehicles.
 * <span style="color:darkred"> New! </span> 04/2023. Congrats! One paper on RL for Autonomous Driving is accepted by [Robotics: Science and Systems (RSS'23)](https://roboticsconference.org/).
 * <span style="color:darkred"> New! </span> 12/2022. Our paper on [How much data are enough?](https://ieeexplore.ieee.org/abstract/document/7959200) recieved the [George N. Saridis Best Transactions Paper Award](https://ieeexplore.ieee.org/document/9991940) of IEEE T-IV.
