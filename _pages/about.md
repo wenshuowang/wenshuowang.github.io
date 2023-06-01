@@ -30,8 +30,8 @@ My research interest lies at <span style="color:gray">**Cognitive Autonomy & Int
   </thead>
 </table>
 
-<div style = "height:300 px; overflow-y: scroll;">
-* <span style="color:darkred"> New! </span> 06/2023. One conference paper is accepted by 2023 IEEE ICPS! Congrats!</
+
+* <span style="color:darkred"> New! </span> 06/2023. One conference paper is accepted by 2023 IEEE ICPS! Congrats!
 * <span style="color:darkred"> New! </span> 05/2023. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) is ready! Welcome to join us!
 * <span style="color:darkred"> New! </span> 05/2023. Congrats! One journal paper is accepted by IEEE Trans. Intell. Vehicles.
 * <span style="color:darkred"> New! </span> 04/2023. Congrats! One paper on RL for Autonomous Driving is accepted by [Robotics: Science and Systems (RSS'23)](https://roboticsconference.org/).
@@ -51,7 +51,7 @@ My research interest lies at <span style="color:gray">**Cognitive Autonomy & Int
 * <span style="color:darkred"> New! </span> 05/2022. I was recognized as the Top 50 [Rising Star Young Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu. 
 * <span style="color:darkred"> New! </span> 05/2022. I was invited to give an online talk on [IEEE ICRA2022](https://www.icra2022.org/). 
 * <span style="color:darkred"> New! </span> 01/2022. I was invited to join [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) as an Associate Editor.
-</div>
+
 
 
 
