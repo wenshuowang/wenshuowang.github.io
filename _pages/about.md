@@ -30,27 +30,28 @@ My research interest lies at <span style="color:gray">**Cognitive Autonomy & Int
   </thead>
 </table>
 
-* <span style="color:darkred"> New! </span> 06/2023. One paper is accepted by 2023 IEEE ICPS! Congrats!
-* <span style="color:darkred"> New! </span> 05/2023. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) is ready! Welcome to join us!
-* <span style="color:darkred"> New! </span> 05/2023. Congrats! One journal paper is accepted by IEEE Trans. Intell. Vehicles.
-* <span style="color:darkred"> New! </span> 04/2023. Congrats! One paper on RL for Autonomous Driving is accepted by [Robotics: Science and Systems (RSS'23)](https://roboticsconference.org/).
-* <span style="color:darkred"> New! </span> 12/2022. Our paper on [How much data are enough?](https://ieeexplore.ieee.org/abstract/document/7959200) recieved the [George N. Saridis Best Transactions Paper Award](https://ieeexplore.ieee.org/document/9991940) of IEEE T-IV.
-* <span style="color:darkred"> New! </span> Our research project on [Interactions for Automated Vehicles](https://chengyuan-zhang.github.io/Multivehicle-Interaction/) is ready to access. Welcome to join us!
-* <span style="color:darkred"> New! </span> 11/2022. Our long paper on [Social Interactions for Autonomous Driving](https://www.nowpublishers.com/article/Details/ROB-078) is accepted by Foundations and Trends in Robotics.
-* <span style="color:darkred"> New! </span> 11/2022. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) will be hosted at IEEE IV'23.
-* <span style="color:darkred"> New! </span> 11/2022. I gave an invited talk to the Tongji University, China.
-* <span style="color:darkred"> New! </span> 11/2022. I gave a talk to the [Applied Research for Mobility System Group, Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/section/vehicle-and-mobility-systems-research).
-* <span style="color:darkred"> New! </span> 10/2022. I was invited to join the [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967) as an Associate Editor.
-* <span style="color:darkred"> New! </span> 10/2022. Our AVVision workshop was held on the special session of [ICIP2022](https://2022.ieeeicip.org/special-sessions/).
-* <span style="color:darkred"> New! </span> 10/2022. I was invited to give an online talk for the School of Mechanical Engineering, Southeast University.
-* <span style="color:darkred"> New! </span> 09/2022. My two papers were accepted to [The Montreal AI Symposium 2022](http://montrealaisymposium.com/). 
-* <span style="color:darkred"> New! </span> 09/2022. Our [NSERC](https://www.nserc-crsng.gc.ca/innovate-innover/alliance-alliance/index_eng.asp) propsoal on Driving Behavior Interaction was approved by collaborating with [Changliu Liu @ CMU](http://icontrol.ri.cmu.edu/)! 
-* <span style="color:darkred"> New! </span> 08/2022. My new review paper on [Social Interactions for Autonomous Driving](https://arxiv.org/abs/2208.07541) is online. 
-* <span style="color:darkred"> New! </span> 07/2022. I was invited to give a talk on [COTA'22](http://cota-home.org/CICTP/CICTP2019.html).
-* <span style="color:darkred"> New! </span> 05/2022. I was recognized as the Top 50 [Rising Star Young Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu. 
-* <span style="color:darkred"> New! </span> 05/2022. I was invited to give an online talk on [IEEE ICRA2022](https://www.icra2022.org/). 
-* <span style="color:darkred"> New! </span> 01/2022. I was invited to join [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) as an Associate Editor.
-
+<div style = "height:300 px; overflow: auto;">
+  * <span style="color:darkred"> New! </span> 06/2023. One paper is accepted by 2023 IEEE ICPS! Congrats!
+  * <span style="color:darkred"> New! </span> 05/2023. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) is ready! Welcome to join us!
+  * <span style="color:darkred"> New! </span> 05/2023. Congrats! One journal paper is accepted by IEEE Trans. Intell. Vehicles.
+  * <span style="color:darkred"> New! </span> 04/2023. Congrats! One paper on RL for Autonomous Driving is accepted by [Robotics: Science and Systems (RSS'23)](https://roboticsconference.org/).
+  * <span style="color:darkred"> New! </span> 12/2022. Our paper on [How much data are enough?](https://ieeexplore.ieee.org/abstract/document/7959200) recieved the [George N. Saridis Best Transactions Paper Award](https://ieeexplore.ieee.org/document/9991940) of IEEE T-IV.
+  * <span style="color:darkred"> New! </span> Our research project on [Interactions for Automated Vehicles](https://chengyuan-zhang.github.io/Multivehicle-Interaction/) is ready to access. Welcome to join us!
+  * <span style="color:darkred"> New! </span> 11/2022. Our long paper on [Social Interactions for Autonomous Driving](https://www.nowpublishers.com/article/Details/ROB-078) is accepted by Foundations and Trends in Robotics.
+  * <span style="color:darkred"> New! </span> 11/2022. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) will be hosted at IEEE IV'23.
+  * <span style="color:darkred"> New! </span> 11/2022. I gave an invited talk to the Tongji University, China.
+  * <span style="color:darkred"> New! </span> 11/2022. I gave a talk to the [Applied Research for Mobility System Group, Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/section/vehicle-and-mobility-systems-research).
+  * <span style="color:darkred"> New! </span> 10/2022. I was invited to join the [Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967) as an Associate Editor.
+  * <span style="color:darkred"> New! </span> 10/2022. Our AVVision workshop was held on the special session of [ICIP2022](https://2022.ieeeicip.org/special-sessions/).
+  * <span style="color:darkred"> New! </span> 10/2022. I was invited to give an online talk for the School of Mechanical Engineering, Southeast University.
+  * <span style="color:darkred"> New! </span> 09/2022. My two papers were accepted to [The Montreal AI Symposium 2022](http://montrealaisymposium.com/). 
+  * <span style="color:darkred"> New! </span> 09/2022. Our [NSERC](https://www.nserc-crsng.gc.ca/innovate-innover/alliance-alliance/index_eng.asp) propsoal on Driving Behavior Interaction was approved by collaborating with [Changliu Liu @ CMU](http://icontrol.ri.cmu.edu/)! 
+  * <span style="color:darkred"> New! </span> 08/2022. My new review paper on [Social Interactions for Autonomous Driving](https://arxiv.org/abs/2208.07541) is online. 
+  * <span style="color:darkred"> New! </span> 07/2022. I was invited to give a talk on [COTA'22](http://cota-home.org/CICTP/CICTP2019.html).
+  * <span style="color:darkred"> New! </span> 05/2022. I was recognized as the Top 50 [Rising Star Young Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu. 
+  * <span style="color:darkred"> New! </span> 05/2022. I was invited to give an online talk on [IEEE ICRA2022](https://www.icra2022.org/). 
+  * <span style="color:darkred"> New! </span> 01/2022. I was invited to join [IEEE T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) as an Associate Editor.
+</div>
 
 
 
