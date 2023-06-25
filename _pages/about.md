@@ -31,7 +31,8 @@ My research interest lies at <span style="color:gray">**Cognitive Autonomy & Int
   </thead>
 </table>
 
-
+* <span style="color:darkred"> New! </span> 06/2023. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) video record is online! See [link](https://www.youtube.com/watch?v=jwt_eqI0KZg)!
+* <span style="color:darkred"> New! </span> 06/2023. One conference paper is accepted by 2023 IEEE IROS! Congrats!
 * <span style="color:darkred"> New! </span> 06/2023. One conference paper is accepted by 2023 IEEE ICPS! Congrats!
 * <span style="color:darkred"> New! </span> 05/2023. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) is ready! Welcome to join us!
 * <span style="color:darkred"> New! </span> 05/2023. Congrats! One journal paper is accepted by IEEE Trans. Intell. Vehicles.
