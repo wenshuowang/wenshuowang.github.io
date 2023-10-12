@@ -31,7 +31,8 @@ My research interest lies at <span style="color:gray">**Cognitive Autonomy & Int
   </thead>
 </table>
 
-* <span style="color:darkred"> New! </span> 09/2023. I just was recognized as  [2023 Top 2% of Scientists on Stanford List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)!
+* <span style="color:darkred"> New! </span> 10/2023. One Chinese Patent on `A Continuous Driving Style Recognition Algorithm' was filed! Congrats!
+* <span style="color:darkred"> New! </span> 10/2023. I just was recognized as  [2023 Top 2% of Scientists on Stanford List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)!
 * <span style="color:darkred"> New! </span> 09/2023. Our journal on [Trustworthy Decision-Making Process](https://ieeexplore.ieee.org/document/10265753) is accepted by IEEE T-ITS! Congrats!
 * <span style="color:darkred"> New! </span> 06/2023. Our 1st International Workshop on [Socially Interactive Autonomous Mobility (SIAM)](https://interactive-driving.github.io/) video record is online! See [link](https://www.youtube.com/watch?v=jwt_eqI0KZg)!
 * <span style="color:darkred"> New! </span> 06/2023. One conference paper is accepted by 2023 IEEE IROS! Congrats!
