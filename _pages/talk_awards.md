@@ -12,6 +12,7 @@ author_profile: true
 {% endfor %}
 -->
 ## Awards
+- 10/2023, [The 2023 Top 2% of Scientists on Stanford List](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)
 - 12/2022, [The George N. Saridis Best Transactions Paper Award](https://ieeexplore.ieee.org/document/9991940) of The IEEE Transactions on Intelligent Vehicles
 - 04/2022, Top 50 [Rising Star Young Scholar on “AI+X”](https://mp.weixin.qq.com/s/eNcKhmhJaZ20t-0P_yusJA) by Baidu Xueshu.
 - 08/2020, [IVADO Postdoc Research Fellowship Awards](https://ivado.ca/en/spotlight-on-our-academic-community/?programmes=postdoctoral-research-funding) for Two Years, Canada.
