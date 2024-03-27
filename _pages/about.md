@@ -33,7 +33,7 @@ My primary research focus is on <span style="color:gray">**BehAvioral intElligen
 
 * <span style="color:darkred"> New! </span> 03/2024. We got the 2022 Best Paper Award of Transportation Safety and Environment (TSE)!
 * <span style="color:darkred"> New! </span> 03/2024. I was recognized as the 2023 Best Guest Editor Award by Transportation Safety and Environment (TSE)!
-* <span style="color:darkred"> New! </span> 03/2024. One paper was accepted by IEEE Transactions on Intelligent Transportation Systems! Congrats!
+* <span style="color:darkred"> New! </span> 03/2024. One paper about [Shareable Driving Styles](https://ieeexplore.ieee.org/document/10478205) was accepted by IEEE Transactions on Intelligent Transportation Systems! Congrats!
 * <span style="color:darkred"> New! </span> 02/2024. One paper about [Leveraging Knowledge into Learning for Driving Styles](https://ieeexplore.ieee.org/abstract/document/10423807) was accepted by IEEE Transactions on Intelligent Vehicles! Congrats!
 * <span style="color:darkred"> New! </span> 01/2024. I was assigned as an Area Chair for IEEE ICIP'2024 (IEEE International Conference on Image Processing)!
 * <span style="color:darkred"> New! </span> 10/2023. One Chinese Patent on `A Continuous Driving Style Recognition Algorithm' was filed! Congrats!
